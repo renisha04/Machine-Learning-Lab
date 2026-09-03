@@ -1,1001 +1,1001 @@
-StudentID,Name,Gender,AttendanceRate,StudyHoursPerWeek,PreviousGrade,ExtracurricularActivities,ParentalSupport,FinalGrade,Study Hours,Attendance (%),Online Classes Taken
-1.0,John,Male,85.0,15.0,78.0,1.0,High,80.0,4.8,59.0,False
-2.0,Sarah,Female,90.0,20.0,85.0,2.0,Medium,87.0,2.2,70.0,True
-3.0,Alex,Male,78.0,10.0,65.0,0.0,Low,68.0,4.6,92.0,False
-4.0,Michael,Male,92.0,25.0,90.0,3.0,High,92.0,2.9,96.0,False
-5.0,Emma,Female,,18.0,82.0,2.0,Medium,85.0,4.1,97.0,True
-6.0,Olivia,Female,95.0,30.0,88.0,1.0,High,,2.8,97.0,False
-7.0,Daniel,Male,70.0,8.0,60.0,0.0,Low,62.0,4.5,96.0,False
-8.0,Sophia,Female,,17.0,77.0,1.0,Medium,78.0,1.0,70.0,True
-9.0,James,Male,82.0,12.0,70.0,2.0,Low,72.0,3.6,50.0,False
-10.0,Isabella,Female,91.0,22.0,86.0,3.0,High,88.0,2.9,59.0,True
-2824.0,Shannon Harrison,Male,88.0,25.0,90.0,0.0,,87.0,3.4,84.0,True
-7912.0,Peter Davila,Male,85.0,20.0,,3.0,Low,88.0,0.1,62.0,False
-4611.0,Katherine Gray,Female,91.0,18.0,78.0,0.0,Low,62.0,1.7,59.0,True
-6514.0,Megan Miller,Male,90.0,8.0,85.0,1.0,Medium,88.0,1.3,52.0,False
-,James Williams,Male,70.0,20.0,70.0,2.0,Low,88.0,4.4,73.0,True
-2139.0,Derrick Alexander,Male,,18.0,85.0,3.0,High,62.0,1.4,90.0,False
-,Courtney Clark,,95.0,25.0,82.0,2.0,Low,68.0,2.7,65.0,True
-8573.0,James Smith,Female,88.0,12.0,90.0,1.0,High,92.0,4.1,70.0,False
-5386.0,James Reynolds,Male,92.0,22.0,88.0,3.0,Low,78.0,2.0,91.0,False
-3340.0,Brittany Sutton,Female,78.0,25.0,70.0,2.0,Medium,88.0,2.1,87.0,False
-6930.0,Annette Medina,Male,78.0,12.0,77.0,2.0,High,87.0,0.8,60.0,False
-2040.0,James Duncan,Female,70.0,22.0,77.0,2.0,Medium,72.0,4.3,50.0,True
-9797.0,Donna Taylor,Female,95.0,20.0,82.0,,High,78.0,0.0,96.0,False
-9201.0,David Robertson,Male,82.0,20.0,82.0,,Low,,0.8,98.0,True
-9837.0,Susan Brown,Male,91.0,30.0,77.0,1.0,High,90.0,4.4,69.0,True
-1949.0,Jessica Ortega,Male,91.0,20.0,,1.0,High,72.0,3.8,58.0,False
-3705.0,Jeremy Hall,Female,,,60.0,3.0,Low,92.0,3.6,75.0,False
-8177.0,Peter Jones,Female,90.0,25.0,90.0,2.0,Medium,80.0,2.9,64.0,True
-1117.0,Michael Sampson,Male,85.0,25.0,,1.0,Medium,87.0,2.6,67.0,False
-4510.0,Daniel Erickson,Male,91.0,22.0,77.0,3.0,Medium,62.0,1.0,56.0,False
-6804.0,David Aguilar,Female,70.0,17.0,78.0,2.0,High,,3.6,56.0,
-4139.0,Benjamin Vance,Male,82.0,17.0,65.0,0.0,High,85.0,2.3,54.0,False
-2604.0,Yolanda Chen,Male,82.0,15.0,85.0,3.0,High,,2.4,63.0,False
-1960.0,Kristina Douglas,,,15.0,60.0,2.0,Medium,85.0,2.1,96.0,False
-3536.0,Scott Davidson,Male,88.0,25.0,78.0,3.0,Low,72.0,0.3,70.0,
-1821.0,Alexandra Harrington,Female,82.0,12.0,65.0,1.0,Low,87.0,4.3,54.0,True
-4853.0,Richard Johnson,Female,90.0,22.0,90.0,3.0,Low,80.0,3.1,76.0,False
-,Christopher Chapman,Male,95.0,25.0,82.0,0.0,High,85.0,2.3,98.0,True
-1152.0,Jerry Browning,Female,91.0,22.0,85.0,2.0,Low,92.0,2.5,58.0,False
-2127.0,Carrie Page,Male,95.0,18.0,65.0,1.0,Low,85.0,3.1,91.0,True
-5905.0,Michelle Benjamin,Male,78.0,18.0,85.0,2.0,Low,72.0,0.8,68.0,True
-6617.0,James Woods,Male,88.0,12.0,77.0,2.0,High,87.0,3.2,67.0,True
-1058.0,Angela Dunn,Female,78.0,18.0,65.0,1.0,Low,62.0,2.8,57.0,True
-3442.0,Nathan Riley,Male,95.0,22.0,70.0,0.0,Medium,68.0,0.2,73.0,True
-6862.0,Shelby Mahoney,Male,92.0,20.0,88.0,2.0,Medium,88.0,3.7,65.0,True
-3900.0,Andrea Frey,Female,85.0,10.0,88.0,0.0,Low,92.0,1.3,100.0,True
-7267.0,Justin Martin,Male,85.0,25.0,90.0,1.0,Medium,85.0,4.1,64.0,True
-1387.0,Mark Hartman,Male,70.0,30.0,82.0,2.0,Medium,90.0,3.2,75.0,False
-1452.0,Antonio Hansen,Male,88.0,10.0,86.0,2.0,High,87.0,3.0,72.0,False
-8149.0,Lynn Anderson,Male,70.0,22.0,90.0,2.0,High,62.0,0.0,84.0,True
-6967.0,Michael Cooley,Female,90.0,30.0,86.0,1.0,Low,87.0,3.6,69.0,False
-7691.0,Mitchell Sanders,Female,70.0,18.0,70.0,0.0,High,62.0,3.3,74.0,True
-5930.0,Maria Cross,Female,82.0,,82.0,,High,62.0,3.9,88.0,False
-8618.0,Lisa Castillo,Female,85.0,25.0,70.0,1.0,Low,68.0,3.3,68.0,False
-2530.0,Theresa Rodriguez,Male,88.0,25.0,90.0,0.0,High,80.0,1.2,80.0,True
-8461.0,Kimberly Wood,Female,91.0,25.0,60.0,1.0,Medium,92.0,0.7,94.0,True
-2746.0,Patricia Cox,Female,92.0,10.0,70.0,1.0,High,72.0,1.2,57.0,False
-3184.0,Kimberly Blair,Female,82.0,12.0,86.0,1.0,Medium,88.0,4.1,82.0,False
-9976.0,Jason Ramirez,Female,78.0,17.0,77.0,2.0,High,85.0,3.8,83.0,False
-4919.0,Gail Dudley,Female,85.0,20.0,82.0,3.0,Medium,90.0,1.6,84.0,True
-3267.0,John West,Male,92.0,8.0,65.0,3.0,High,62.0,2.0,84.0,False
-7812.0,Patricia Carr,Male,92.0,8.0,60.0,3.0,Low,80.0,4.3,98.0,False
-8814.0,David Nunez,Male,95.0,18.0,60.0,0.0,Low,72.0,4.0,64.0,False
-4595.0,Collin Peterson,Female,70.0,17.0,78.0,0.0,Medium,62.0,3.6,79.0,True
-9751.0,Rebecca Smith,Male,70.0,22.0,86.0,1.0,High,62.0,0.7,79.0,True
-1823.0,Lisa Benjamin,Female,70.0,30.0,90.0,1.0,Medium,90.0,3.8,,False
-7906.0,Desiree Reyes,Female,90.0,17.0,78.0,2.0,High,90.0,1.1,54.0,True
-1508.0,Megan Diaz,Male,92.0,15.0,86.0,0.0,High,68.0,2.4,57.0,True
-8619.0,Joseph Adams,Female,95.0,10.0,86.0,3.0,Low,87.0,3.9,60.0,False
-2771.0,Sharon Watson,Male,88.0,22.0,60.0,0.0,Low,92.0,0.4,94.0,True
-2669.0,Tiffany Smith,Female,91.0,20.0,86.0,1.0,Medium,72.0,2.1,73.0,True
-9289.0,Alexander Preston,Female,85.0,8.0,77.0,2.0,Medium,90.0,3.2,79.0,True
-8135.0,Randall Hickman,Male,82.0,18.0,86.0,2.0,Medium,78.0,2.2,96.0,False
-6280.0,David Hernandez,Male,90.0,18.0,77.0,3.0,Medium,88.0,3.1,74.0,False
-1470.0,Michelle Jones,Female,95.0,10.0,77.0,3.0,Medium,85.0,-5.0,200.0,False
-1166.0,Tonya Gonzalez,Male,90.0,25.0,60.0,1.0,Low,92.0,3.5,91.0,False
-8342.0,Sarah Johnson,Male,90.0,18.0,90.0,0.0,Low,92.0,1.5,87.0,False
-8753.0,Grace Valencia,Female,70.0,12.0,88.0,1.0,Low,78.0,1.4,66.0,True
-2976.0,Sarah Young,Male,95.0,20.0,70.0,0.0,,92.0,3.7,67.0,False
-2647.0,Gerald Weber,Male,88.0,25.0,88.0,,Medium,80.0,3.5,58.0,False
-1745.0,Gregory Turner,Male,82.0,18.0,,1.0,High,80.0,2.9,80.0,False
-8216.0,Laura Cortez,Female,78.0,15.0,82.0,1.0,High,87.0,2.0,54.0,True
-3485.0,Lori Miller,Male,91.0,18.0,85.0,3.0,High,72.0,3.8,88.0,True
-9561.0,Lori Gomez PhD,Female,85.0,17.0,82.0,3.0,Medium,85.0,2.8,53.0,True
-4404.0,Dawn Foster,Male,88.0,20.0,65.0,,High,72.0,0.4,50.0,False
-8381.0,Peter Welch,Female,88.0,15.0,90.0,2.0,Low,,3.5,79.0,True
-4824.0,Maria Carter,Female,91.0,25.0,60.0,2.0,Low,92.0,3.2,67.0,True
-2169.0,Daniel Hood,Male,78.0,18.0,86.0,3.0,Medium,78.0,0.6,94.0,False
-7594.0,Amanda Hernandez,Female,82.0,12.0,77.0,1.0,High,88.0,0.2,77.0,False
-5102.0,Alyssa Schmidt,,90.0,25.0,86.0,3.0,High,85.0,2.9,98.0,True
-8708.0,Taylor Merritt DVM,Female,88.0,10.0,86.0,0.0,Low,78.0,4.8,80.0,False
-7690.0,Alyssa Smith,,95.0,20.0,65.0,1.0,Medium,78.0,1.4,75.0,True
-8451.0,Nathan Navarro,Male,95.0,18.0,88.0,2.0,Medium,72.0,4.1,50.0,False
-7770.0,Lisa Zimmerman,Male,92.0,12.0,88.0,3.0,Medium,78.0,3.8,63.0,False
-9998.0,Jeffrey Howard,Male,88.0,17.0,77.0,2.0,High,88.0,,95.0,True
-6091.0,Morgan Bell,Male,82.0,,85.0,,High,78.0,4.7,91.0,True
-9165.0,Angelica Steele,Female,82.0,18.0,60.0,1.0,Medium,92.0,2.3,59.0,False
-4122.0,Gregory Daniels,Male,90.0,18.0,60.0,1.0,Low,85.0,4.1,68.0,False
-9022.0,Eric Davis,Male,85.0,12.0,77.0,1.0,Medium,72.0,3.8,74.0,False
-,Natalie Kelley,Male,92.0,22.0,60.0,3.0,Medium,80.0,1.6,80.0,False
-7325.0,Ruth Davis,Male,85.0,15.0,65.0,2.0,Low,90.0,4.3,78.0,True
-9617.0,Emily Torres,,85.0,,60.0,0.0,High,78.0,3.9,66.0,False
-7512.0,Nancy Davis,,95.0,12.0,60.0,1.0,Low,78.0,4.4,52.0,True
-4846.0,Amanda Bowers,Female,92.0,20.0,60.0,,Low,87.0,2.2,94.0,False
-1474.0,Alison Lang,Male,95.0,15.0,82.0,1.0,Medium,62.0,0.7,83.0,False
-3950.0,Matthew Massey,Male,78.0,20.0,86.0,,Low,92.0,2.5,,True
-4804.0,James Anderson,,88.0,17.0,82.0,1.0,Medium,85.0,3.4,60.0,True
-8237.0,Robert Howard,Female,91.0,18.0,60.0,2.0,Medium,85.0,1.0,74.0,False
-2747.0,Rebecca Brown,Male,70.0,22.0,88.0,3.0,Medium,85.0,0.1,92.0,False
-5497.0,Kimberly Harrison,Male,91.0,15.0,86.0,,Medium,92.0,3.0,72.0,True
-4115.0,Derek Parks,Female,78.0,20.0,78.0,2.0,Medium,80.0,2.9,,True
-2476.0,Jennifer Baker,Female,95.0,8.0,65.0,3.0,High,72.0,4.4,73.0,False
-3695.0,Diana Schultz,Female,85.0,18.0,88.0,2.0,Medium,87.0,0.7,64.0,False
-6992.0,Mrs. Jill Long,Male,70.0,15.0,82.0,,High,78.0,1.8,97.0,False
-7242.0,Heather Johnson,Female,90.0,25.0,77.0,1.0,Low,72.0,1.6,89.0,True
-2035.0,Robert Lowery,Female,88.0,8.0,85.0,0.0,High,80.0,1.5,81.0,True
-2592.0,,Male,82.0,10.0,60.0,1.0,Medium,72.0,2.1,97.0,True
-7797.0,Angela Williams,,85.0,22.0,60.0,2.0,High,,1.1,78.0,
-6942.0,Brent Burns,Male,95.0,12.0,88.0,1.0,Medium,85.0,0.9,57.0,False
-2501.0,Melissa Barber,Male,91.0,15.0,78.0,1.0,High,68.0,3.9,63.0,True
-4394.0,John Warner,Male,92.0,30.0,65.0,3.0,High,,4.3,59.0,True
-9850.0,Christopher Baxter,Female,78.0,,78.0,0.0,High,90.0,3.9,65.0,False
-1258.0,Courtney Haas,Male,88.0,15.0,65.0,0.0,Low,87.0,3.7,80.0,False
-6931.0,Sarah Ross,Male,85.0,12.0,90.0,3.0,High,72.0,1.5,91.0,True
-1996.0,Manuel Baker,Female,70.0,8.0,85.0,1.0,Low,,0.4,55.0,False
-3430.0,Jessica Lamb,Male,78.0,18.0,86.0,,Low,90.0,-5.0,200.0,False
-8433.0,Jaime Nguyen,Female,90.0,20.0,70.0,3.0,Medium,78.0,4.4,76.0,False
-,Tina Chavez,,70.0,20.0,88.0,0.0,Medium,85.0,1.9,59.0,False
-2099.0,Christina Thompson,Male,90.0,20.0,60.0,2.0,Low,90.0,4.1,85.0,True
-6400.0,Shari Harrell,Male,70.0,,60.0,1.0,Medium,88.0,1.6,56.0,True
-3535.0,Tracy Gibbs,Female,92.0,20.0,88.0,2.0,Medium,87.0,3.8,86.0,True
-8030.0,David Hoffman,Male,91.0,,78.0,0.0,Medium,85.0,4.6,72.0,True
-3972.0,Robert Davis,Male,91.0,8.0,85.0,0.0,Low,80.0,0.5,83.0,True
-7163.0,Patricia Greer,Female,85.0,30.0,,1.0,Medium,90.0,3.9,86.0,True
-1861.0,James Stewart,Male,78.0,22.0,78.0,2.0,Medium,78.0,3.3,81.0,False
-7785.0,Brent Mendoza,Female,92.0,12.0,85.0,1.0,Medium,87.0,1.4,93.0,False
-9633.0,Dawn Taylor,Female,85.0,25.0,60.0,3.0,High,80.0,1.0,63.0,True
-5186.0,Larry Brown,Female,95.0,20.0,78.0,1.0,Low,62.0,0.9,74.0,True
-9196.0,Miss Teresa Hernandez MD,Female,90.0,8.0,78.0,0.0,High,78.0,4.6,70.0,False
-7626.0,Edward Baker,Female,88.0,20.0,60.0,1.0,Medium,68.0,4.0,89.0,False
-6928.0,Diana Gould,Male,70.0,20.0,90.0,0.0,Low,62.0,2.6,75.0,False
-6562.0,Amy Rodriguez,Male,95.0,10.0,85.0,2.0,Low,,2.7,62.0,False
-6752.0,Paul Hull,Male,92.0,20.0,65.0,2.0,High,68.0,3.0,98.0,True
-3902.0,Allison Hamilton,Female,85.0,22.0,86.0,1.0,Low,88.0,3.2,89.0,False
-6179.0,John King,Male,85.0,20.0,77.0,1.0,Low,85.0,4.0,87.0,True
-6766.0,Tristan Avila,Male,88.0,17.0,77.0,,High,90.0,4.2,54.0,True
-9307.0,Connie Cooper,Female,85.0,22.0,70.0,1.0,Medium,88.0,3.3,70.0,False
-9214.0,Judith Santos,Male,85.0,17.0,85.0,,Low,87.0,2.5,61.0,True
-5059.0,Michaela Powell,Female,85.0,12.0,70.0,3.0,High,90.0,-5.0,200.0,False
-7697.0,Lawrence Roberts,Female,91.0,15.0,88.0,2.0,Medium,87.0,2.8,74.0,False
-5128.0,Nicholas Robinson DDS,Male,95.0,20.0,86.0,0.0,Medium,85.0,4.8,94.0,False
-3112.0,Jill Smith,Male,88.0,12.0,60.0,1.0,High,72.0,0.5,92.0,False
-9331.0,Michael Burns,Female,85.0,30.0,82.0,0.0,High,90.0,4.7,81.0,True
-4711.0,Adam Weaver,Male,78.0,20.0,82.0,2.0,Low,72.0,4.2,83.0,True
-6517.0,Melvin Mcgee,Male,91.0,8.0,65.0,0.0,High,88.0,4.0,60.0,False
-1715.0,William Banks,Female,95.0,25.0,77.0,3.0,Medium,78.0,1.2,65.0,False
-8684.0,Dawn Morton,Male,95.0,22.0,,1.0,Medium,,2.5,76.0,True
-4271.0,Frank Dawson,Male,,15.0,77.0,1.0,Low,87.0,3.6,83.0,True
-5670.0,Gregory Davila,Male,78.0,18.0,77.0,2.0,High,62.0,0.5,64.0,False
-6727.0,Rebekah Finley,Male,70.0,15.0,60.0,2.0,Medium,92.0,1.9,55.0,False
-4678.0,Robert Martinez,Male,95.0,20.0,88.0,0.0,High,80.0,1.4,80.0,True
-8685.0,Steven Crawford,Female,91.0,15.0,85.0,1.0,Medium,92.0,4.2,85.0,False
-2821.0,Leslie King,Female,92.0,,85.0,1.0,High,,3.2,89.0,False
-2029.0,George Cannon,Male,85.0,22.0,70.0,1.0,Low,72.0,2.9,95.0,True
-5772.0,Adam Carlson,Female,85.0,22.0,88.0,3.0,,62.0,0.9,92.0,True
-9576.0,Stephanie Lawrence,Female,90.0,12.0,70.0,2.0,Low,72.0,0.1,80.0,True
-7338.0,,Female,88.0,15.0,88.0,2.0,Medium,92.0,3.7,90.0,True
-6447.0,Adam Blackwell,Male,85.0,30.0,70.0,1.0,Low,68.0,4.2,93.0,False
-8840.0,Andrew Owens,Male,78.0,20.0,77.0,1.0,Medium,92.0,0.2,62.0,True
-6170.0,John Sexton,Female,82.0,8.0,70.0,1.0,Medium,80.0,3.8,,False
-,Jasmine Williams,Male,95.0,18.0,85.0,1.0,Medium,62.0,3.7,74.0,False
-4060.0,Leon Nguyen,Female,85.0,30.0,70.0,2.0,High,62.0,0.4,88.0,True
-9937.0,John White,Female,95.0,20.0,85.0,1.0,Low,85.0,1.5,88.0,False
-3730.0,Justin Martinez,Female,95.0,17.0,78.0,1.0,Low,62.0,1.4,100.0,True
-2229.0,Nathaniel Kemp,Female,,12.0,65.0,1.0,High,88.0,3.4,78.0,True
-3068.0,Jacob Murray,Male,92.0,30.0,88.0,0.0,Low,80.0,3.0,93.0,False
-7077.0,Anthony Green,Female,85.0,20.0,86.0,0.0,Low,90.0,2.0,91.0,False
-5089.0,Trevor Freeman,Male,85.0,,77.0,2.0,Medium,72.0,,99.0,False
-8311.0,Michael Smith,Male,91.0,18.0,77.0,3.0,High,68.0,4.3,78.0,True
-8292.0,William Hogan,Male,95.0,30.0,85.0,2.0,Low,85.0,4.5,60.0,True
-6922.0,,Male,90.0,25.0,65.0,3.0,Medium,80.0,1.8,86.0,False
-8657.0,,Male,91.0,20.0,85.0,2.0,Medium,78.0,2.6,99.0,False
-2208.0,Joshua Juarez,Male,95.0,20.0,77.0,1.0,,72.0,1.7,99.0,True
-3114.0,Keith Wu,Female,82.0,15.0,85.0,2.0,High,85.0,0.8,70.0,True
-6669.0,Ryan Williams,Female,90.0,18.0,90.0,,,68.0,3.1,89.0,
-9234.0,Ronald Stewart,Male,91.0,22.0,65.0,0.0,Low,88.0,3.6,88.0,False
-1674.0,Ronald Schmidt,Male,90.0,15.0,86.0,2.0,Low,92.0,3.8,76.0,True
-9159.0,Courtney Bradley,Female,88.0,17.0,90.0,0.0,Medium,78.0,0.4,53.0,True
-8202.0,Deanna Gonzalez,Female,85.0,17.0,90.0,1.0,Low,68.0,1.6,95.0,False
-6658.0,Darrell Adams,Female,78.0,30.0,70.0,2.0,High,90.0,1.2,57.0,False
-8366.0,Michael Mata,Male,78.0,20.0,78.0,2.0,Medium,88.0,2.1,60.0,
-6123.0,Anthony Dunn,Male,78.0,17.0,,1.0,Medium,85.0,2.5,55.0,False
-,Jonathan Hodges,Female,92.0,25.0,86.0,1.0,High,80.0,1.4,88.0,False
-5681.0,Jill Williams,Male,90.0,8.0,65.0,2.0,Low,90.0,3.8,73.0,True
-7563.0,Julia Russell,Male,91.0,12.0,90.0,1.0,Low,85.0,0.4,82.0,False
-,Shirley Jackson,Male,78.0,20.0,60.0,1.0,Medium,72.0,4.7,98.0,True
-4261.0,Tonya Thompson,Female,82.0,15.0,78.0,1.0,High,90.0,4.0,83.0,False
-3440.0,Brandon Williamson,Male,95.0,,88.0,0.0,Medium,,,69.0,False
-9311.0,Joseph Davis,Female,91.0,18.0,,1.0,Medium,90.0,3.4,76.0,False
-1436.0,Elizabeth Andersen,Female,88.0,22.0,86.0,3.0,Low,80.0,2.9,60.0,False
-3421.0,Jeffrey Meyers,,85.0,22.0,85.0,3.0,High,78.0,1.6,59.0,False
-4340.0,Christopher Jones,Female,82.0,22.0,77.0,1.0,Low,68.0,2.6,85.0,False
-8837.0,Aimee Rogers,Female,95.0,10.0,77.0,2.0,Medium,72.0,,99.0,False
-8932.0,Alexis Bates,Male,92.0,18.0,70.0,2.0,High,85.0,3.9,95.0,True
-9011.0,Michael Evans,Female,85.0,30.0,70.0,2.0,Medium,87.0,,,False
-7464.0,Omar Gonzalez,Female,78.0,18.0,78.0,2.0,Low,87.0,1.7,78.0,False
-8849.0,Melissa Perry,Male,92.0,12.0,82.0,2.0,Low,85.0,0.7,89.0,True
-4972.0,Dawn Torres,Male,82.0,25.0,90.0,1.0,High,62.0,1.7,80.0,True
-3252.0,Timothy Dean,Male,82.0,,60.0,1.0,Medium,92.0,3.8,68.0,False
-5676.0,Anna Rollins MD,Male,90.0,22.0,90.0,2.0,Low,80.0,4.6,61.0,False
-3880.0,Timothy Barrera,Male,70.0,17.0,65.0,2.0,High,80.0,1.5,,True
-6489.0,Susan Morris,Female,85.0,12.0,70.0,1.0,High,72.0,2.3,62.0,True
-6417.0,Gordon Merritt,Male,85.0,18.0,65.0,,Low,90.0,4.0,86.0,True
-3875.0,Kristy Rhodes,Female,70.0,12.0,88.0,2.0,Medium,87.0,0.9,58.0,False
-,Kristi Cross,Male,85.0,18.0,60.0,3.0,Medium,85.0,4.8,69.0,True
-5285.0,Ms. Marissa Ramirez,Female,92.0,15.0,85.0,1.0,,68.0,2.0,82.0,False
-2923.0,Paul Hickman,,95.0,22.0,90.0,3.0,High,78.0,0.8,97.0,False
-7813.0,Mrs. Kathy Woodward,Female,82.0,25.0,90.0,3.0,High,72.0,2.2,95.0,False
-2279.0,Alexis Horn,Male,85.0,12.0,70.0,3.0,Low,72.0,0.7,70.0,False
-2904.0,Shannon Harris DDS,Male,91.0,17.0,85.0,2.0,Medium,80.0,2.3,82.0,False
-8484.0,Alicia Ortiz,Male,82.0,17.0,82.0,1.0,Medium,85.0,-5.0,200.0,True
-,Steven Wood,Male,70.0,30.0,85.0,2.0,High,,4.9,80.0,True
-5703.0,Alexis Walton,Female,78.0,10.0,60.0,1.0,Medium,,4.3,74.0,False
-,Martin Mcknight,Male,95.0,20.0,65.0,2.0,Medium,72.0,0.6,64.0,True
-1372.0,Gina Palmer,Female,85.0,12.0,60.0,2.0,Medium,92.0,1.2,72.0,True
-5516.0,Jean Moreno,Male,90.0,15.0,60.0,3.0,High,,1.0,56.0,True
-8314.0,David Anderson,Male,92.0,15.0,60.0,1.0,High,72.0,1.1,99.0,True
-3295.0,Brian Huffman,Female,92.0,22.0,,3.0,Low,90.0,1.2,59.0,True
-7775.0,Jose Liu,,88.0,15.0,70.0,3.0,Low,68.0,3.1,77.0,False
-1768.0,Cathy Pratt,Female,,12.0,88.0,0.0,Medium,68.0,1.5,61.0,False
-4948.0,Kathy Sandoval,Male,88.0,10.0,77.0,1.0,Low,62.0,4.8,85.0,True
-7363.0,Michael Webb,Male,88.0,25.0,88.0,2.0,Medium,90.0,0.5,96.0,True
-1844.0,Ronnie Taylor,Female,70.0,22.0,86.0,1.0,High,92.0,4.0,87.0,True
-8854.0,Matthew Miller,Male,95.0,18.0,78.0,3.0,High,87.0,3.7,98.0,False
-4974.0,Shelly Hurley,Male,70.0,25.0,70.0,1.0,Medium,62.0,2.3,91.0,False
-6053.0,Mr. Martin Dominguez MD,Female,95.0,12.0,77.0,1.0,High,78.0,3.8,70.0,True
-7073.0,Jennifer Wiggins,Female,70.0,,86.0,3.0,Low,68.0,0.1,85.0,False
-5836.0,Anthony Smith,Male,92.0,30.0,90.0,0.0,Low,92.0,2.5,91.0,False
-5216.0,John Lopez,Female,85.0,17.0,65.0,1.0,High,68.0,3.6,81.0,True
-9882.0,Nathan Rodgers,Male,82.0,15.0,85.0,1.0,High,62.0,0.7,90.0,True
-2113.0,Martin Walker,Male,85.0,25.0,70.0,1.0,Medium,80.0,3.1,92.0,False
-8993.0,Jesus Wood,Male,85.0,12.0,70.0,0.0,High,80.0,2.6,67.0,False
-1280.0,Kelly Bell,Female,78.0,20.0,85.0,2.0,High,92.0,1.0,83.0,False
-6807.0,Kathryn Randall,Female,70.0,20.0,88.0,0.0,Medium,88.0,1.2,94.0,True
-5914.0,Sarah Norris,Male,85.0,20.0,60.0,0.0,Medium,72.0,2.4,90.0,True
-3807.0,Matthew Adams,Male,85.0,8.0,,3.0,High,72.0,4.6,64.0,True
-8790.0,William Wade,Female,85.0,20.0,82.0,2.0,Low,80.0,0.9,70.0,True
-4394.0,Brian Castro,Male,,,82.0,0.0,Low,92.0,2.8,74.0,False
-7288.0,Teresa Sanders,Male,90.0,12.0,88.0,1.0,High,62.0,1.2,54.0,False
-7499.0,Richard Oneal,Female,85.0,18.0,77.0,1.0,High,90.0,2.8,74.0,False
-4043.0,Christine Cooper,Female,90.0,22.0,82.0,3.0,Low,87.0,0.4,59.0,False
-3527.0,Michael Foster,Female,95.0,30.0,,2.0,High,85.0,-5.0,200.0,False
-2674.0,Loretta Gonzalez,Male,90.0,10.0,60.0,1.0,Low,72.0,2.6,56.0,True
-2468.0,Douglas Ingram,Female,82.0,20.0,86.0,3.0,Medium,62.0,0.1,76.0,False
-2387.0,Randy Anderson,Male,91.0,12.0,65.0,0.0,High,68.0,1.3,67.0,False
-3390.0,Donna Shaw,Male,78.0,8.0,82.0,0.0,Medium,78.0,3.9,73.0,False
-5040.0,Joseph Holt,Female,91.0,22.0,90.0,1.0,High,68.0,,75.0,False
-7224.0,Taylor Acosta,Female,85.0,30.0,60.0,3.0,High,85.0,1.6,94.0,True
-8848.0,Danielle Scott,Female,78.0,8.0,88.0,2.0,Low,78.0,4.8,100.0,True
-6339.0,Melissa Aguirre,Female,88.0,8.0,88.0,2.0,Low,92.0,3.0,84.0,
-1440.0,Cassandra Snyder,Female,92.0,17.0,82.0,2.0,Medium,,0.7,69.0,True
-5139.0,Kimberly Lambert,Male,70.0,8.0,85.0,1.0,Low,78.0,2.9,84.0,False
-9907.0,Rebecca Mendoza DDS,Male,95.0,12.0,86.0,2.0,High,92.0,3.3,72.0,True
-1725.0,Michael Anderson,Female,95.0,8.0,85.0,1.0,High,85.0,1.1,97.0,True
-8303.0,Hannah Gentry,Female,70.0,17.0,86.0,2.0,High,90.0,5.0,80.0,True
-5840.0,Patrick Reed,Female,90.0,20.0,65.0,1.0,Medium,90.0,2.3,63.0,False
-6706.0,Tiffany Huff,Female,90.0,,77.0,,High,85.0,0.2,95.0,True
-1370.0,Thomas Lee,Female,90.0,10.0,90.0,2.0,High,72.0,0.8,85.0,False
-8570.0,Justin Clark,Male,70.0,10.0,65.0,,Medium,80.0,3.7,62.0,False
-8037.0,Michael Martinez,Female,85.0,25.0,90.0,2.0,Low,87.0,2.9,84.0,True
-6993.0,Vincent Smith,Female,,17.0,85.0,2.0,Low,78.0,2.6,90.0,False
-7367.0,Sean Hull,Female,91.0,20.0,88.0,1.0,Medium,88.0,0.9,93.0,False
-2388.0,Sarah Welch,Male,95.0,20.0,90.0,2.0,High,68.0,1.9,59.0,False
-7852.0,Mr. Stephen Gilmore,Male,91.0,8.0,60.0,0.0,Medium,72.0,3.5,91.0,True
-3733.0,Barry Parker,Female,,10.0,65.0,1.0,Medium,88.0,,72.0,True
-8939.0,Joshua Kane,Male,92.0,8.0,70.0,2.0,Low,78.0,2.0,81.0,False
-8272.0,Anthony Wright,Female,78.0,20.0,86.0,1.0,High,85.0,0.2,64.0,False
-3755.0,Nathaniel Lopez,Female,91.0,17.0,70.0,2.0,High,88.0,0.6,99.0,False
-9880.0,Darlene Fletcher,Male,85.0,12.0,90.0,0.0,High,92.0,1.5,,False
-5305.0,Christopher Moore,Female,90.0,17.0,85.0,3.0,High,88.0,3.4,95.0,False
-3719.0,Benjamin White,Male,92.0,25.0,78.0,3.0,Medium,72.0,,84.0,True
-6302.0,Jenny Coleman,Female,88.0,22.0,82.0,,Low,87.0,0.7,98.0,False
-1971.0,Michael Gomez,Female,78.0,10.0,90.0,0.0,Low,90.0,4.1,98.0,False
-9019.0,Caleb Serrano,Male,91.0,18.0,60.0,0.0,Medium,87.0,3.2,99.0,True
-7600.0,William Carlson,Female,95.0,17.0,77.0,1.0,Low,80.0,4.3,96.0,True
-8511.0,Timothy Pruitt,Female,90.0,12.0,60.0,3.0,Medium,92.0,2.5,70.0,False
-6533.0,Mario Johnston,Male,91.0,17.0,88.0,1.0,High,87.0,3.1,79.0,True
-3035.0,Rebecca Kim,Male,85.0,17.0,78.0,0.0,High,68.0,4.4,,True
-5489.0,Joyce Williams,Male,95.0,18.0,85.0,1.0,Low,68.0,0.3,90.0,False
-4836.0,Cynthia Sloan,Female,90.0,20.0,78.0,,Medium,87.0,0.7,64.0,False
-1152.0,,Male,,20.0,60.0,0.0,Medium,87.0,1.1,55.0,True
-2690.0,,Female,95.0,18.0,65.0,0.0,High,68.0,0.3,86.0,True
-3688.0,Patricia Williams,Female,95.0,25.0,65.0,0.0,Low,78.0,4.3,55.0,True
-3293.0,Michael Payne,Male,91.0,8.0,88.0,0.0,Medium,68.0,1.2,91.0,True
-5065.0,Brooke Friedman,Female,85.0,18.0,90.0,2.0,Low,72.0,0.9,75.0,False
-1894.0,Daniel Mathis,Male,85.0,8.0,85.0,3.0,Medium,88.0,0.4,50.0,False
-6185.0,Lynn Jennings,,70.0,22.0,60.0,1.0,Low,68.0,3.8,99.0,True
-1273.0,Kimberly Randolph,Male,85.0,18.0,90.0,1.0,High,62.0,2.5,90.0,False
-7939.0,Jack Simmons,Female,90.0,12.0,70.0,3.0,High,85.0,0.4,55.0,True
-3545.0,Daniel Mendez,Female,70.0,22.0,85.0,2.0,Low,62.0,3.6,65.0,True
-5005.0,Travis Lawson,Male,70.0,20.0,77.0,3.0,Low,80.0,1.5,97.0,
-2956.0,Jason Horne DDS,Male,78.0,15.0,65.0,1.0,Medium,72.0,,96.0,False
-3735.0,Shawn Galloway,Female,78.0,18.0,85.0,1.0,Medium,62.0,1.4,54.0,False
-2262.0,Thomas Barnes,Female,85.0,12.0,88.0,1.0,Medium,88.0,0.8,60.0,False
-2685.0,Elizabeth Curry,Male,92.0,12.0,,1.0,High,92.0,0.2,73.0,False
-3458.0,Nicole Cunningham,Male,85.0,12.0,60.0,3.0,,92.0,2.1,96.0,False
-5444.0,Patrick Thompson,Male,91.0,30.0,85.0,2.0,Low,80.0,0.9,83.0,True
-7568.0,Marissa Stewart,Male,85.0,18.0,82.0,1.0,High,72.0,2.3,73.0,True
-5777.0,Melissa Wilson,Female,91.0,25.0,77.0,1.0,Low,78.0,5.0,99.0,True
-,Jaime Glenn,Male,78.0,15.0,60.0,1.0,High,72.0,1.7,94.0,True
-6488.0,Mark Castillo,Male,70.0,18.0,85.0,3.0,Low,92.0,2.1,53.0,True
-5584.0,Mr. Kent Stanton,Male,85.0,25.0,70.0,0.0,Low,90.0,2.3,97.0,True
-2565.0,Tyrone Phillips,Male,70.0,20.0,86.0,3.0,High,62.0,3.3,58.0,True
-5778.0,Christopher Collins,Female,95.0,8.0,88.0,1.0,Medium,85.0,1.2,62.0,True
-,David Rowe,Male,,10.0,77.0,1.0,Medium,62.0,0.6,72.0,True
-8404.0,Christopher Mccullough,Female,85.0,18.0,85.0,2.0,High,85.0,4.1,94.0,True
-4522.0,Carla Rodriguez,Female,78.0,20.0,90.0,1.0,Medium,72.0,0.2,69.0,False
-3848.0,Makayla Howard,Male,70.0,17.0,70.0,2.0,High,87.0,2.3,100.0,True
-2989.0,Barbara White,Male,85.0,25.0,65.0,3.0,Medium,90.0,3.4,91.0,True
-5240.0,Sarah Davis,Male,85.0,20.0,90.0,1.0,High,87.0,4.5,,True
-1699.0,Cody Donovan,Female,85.0,10.0,86.0,0.0,Low,62.0,2.5,74.0,False
-3831.0,Jessica Jenkins,Female,92.0,10.0,82.0,2.0,,68.0,-5.0,200.0,True
-5835.0,Benjamin Alexander,Female,70.0,12.0,77.0,1.0,High,85.0,1.9,76.0,True
-9614.0,Isaac Lopez,Male,82.0,15.0,60.0,1.0,Medium,72.0,3.9,72.0,False
-7363.0,Ariana Morse,Female,78.0,15.0,88.0,3.0,High,80.0,4.5,99.0,False
-1959.0,Brian Avery,Female,,,86.0,3.0,High,87.0,1.2,65.0,False
-9743.0,Amy Lawson,Male,92.0,22.0,60.0,1.0,High,68.0,1.2,,False
-1462.0,Derek Choi,Female,91.0,22.0,65.0,3.0,High,78.0,2.7,61.0,False
-1621.0,Paul Reese,Male,85.0,25.0,86.0,3.0,High,72.0,2.4,71.0,True
-3137.0,Francisco Chang,Female,78.0,30.0,78.0,1.0,High,88.0,3.5,59.0,True
-9622.0,Christian Knight,Female,90.0,,60.0,3.0,High,90.0,1.5,58.0,
-8157.0,Andrew Wilkerson,Female,95.0,10.0,70.0,3.0,Medium,92.0,3.3,61.0,False
-6026.0,Brandon Alvarez,Female,78.0,10.0,78.0,3.0,Medium,88.0,0.2,88.0,False
-4619.0,Gary Young,Male,85.0,10.0,88.0,2.0,High,90.0,4.9,60.0,True
-6500.0,Jessica Wright,Female,85.0,18.0,90.0,3.0,Low,87.0,1.8,100.0,True
-1020.0,Timothy Clements,Male,70.0,17.0,60.0,0.0,Medium,,4.4,72.0,False
-2661.0,Alexander Gordon DDS,Female,91.0,25.0,65.0,1.0,High,80.0,1.5,70.0,False
-2715.0,James Martinez,Male,95.0,10.0,60.0,0.0,Low,87.0,2.7,55.0,False
-8909.0,Francisco Williams,Male,70.0,10.0,86.0,0.0,High,80.0,0.5,63.0,True
-7705.0,Jordan Brooks,Female,88.0,18.0,90.0,2.0,High,62.0,2.9,81.0,True
-1893.0,Kurt Boyd,Female,85.0,8.0,85.0,2.0,Low,88.0,2.4,56.0,True
-4390.0,Bryan Salazar,Male,88.0,20.0,77.0,2.0,Medium,62.0,2.4,92.0,False
-2493.0,Mrs. Heather Roy,Female,78.0,30.0,60.0,1.0,High,78.0,0.2,78.0,False
-5315.0,,Male,,22.0,78.0,0.0,Low,87.0,0.4,72.0,False
-4727.0,Kathleen Newton,Male,70.0,12.0,60.0,2.0,Low,78.0,2.9,65.0,False
-5896.0,Julian Fox,Male,70.0,15.0,70.0,3.0,Low,88.0,3.4,89.0,True
-2970.0,Kylie Hancock,Female,78.0,10.0,90.0,3.0,High,80.0,2.1,93.0,False
-4308.0,Matthew Werner,Male,91.0,18.0,88.0,2.0,High,62.0,2.8,85.0,False
-5525.0,Kelsey Bush,Female,85.0,22.0,86.0,2.0,Medium,87.0,2.1,59.0,True
-2730.0,Brandon Dickerson,Male,88.0,12.0,88.0,0.0,Medium,62.0,3.3,86.0,False
-1613.0,Jamie Allen,Male,88.0,8.0,65.0,3.0,Low,62.0,0.2,71.0,True
-1807.0,Taylor Smith,Female,88.0,30.0,78.0,1.0,Medium,,1.4,81.0,True
-4734.0,Elizabeth Chavez,Male,88.0,17.0,88.0,2.0,Low,62.0,3.0,55.0,True
-8237.0,Melissa Morris,Male,70.0,17.0,70.0,1.0,High,72.0,4.0,54.0,False
-9303.0,Donna Hardin,Female,78.0,12.0,86.0,1.0,High,92.0,4.4,62.0,True
-5087.0,Andrew Cook,Male,85.0,15.0,88.0,3.0,Medium,,4.1,82.0,False
-,Dr. Richard Wallace,Male,92.0,30.0,77.0,3.0,Medium,68.0,,80.0,False
-6640.0,Samuel Shaw,Male,88.0,20.0,82.0,1.0,Medium,80.0,0.8,86.0,True
-4626.0,Mike Waters,Male,92.0,18.0,60.0,2.0,High,80.0,2.4,58.0,True
-1138.0,Andrea Newman,,88.0,22.0,82.0,2.0,Medium,62.0,4.3,79.0,False
-4575.0,,Female,88.0,12.0,86.0,0.0,Low,87.0,0.0,92.0,
-5631.0,Barry Jenkins,Female,90.0,17.0,85.0,1.0,Medium,90.0,4.3,,False
-4086.0,Laurie Johnson,Male,82.0,25.0,78.0,3.0,Medium,90.0,3.4,96.0,True
-9148.0,John Coleman,Female,88.0,8.0,60.0,0.0,Low,80.0,2.9,86.0,True
-6622.0,John Carter,Male,82.0,17.0,88.0,2.0,Medium,68.0,4.2,85.0,True
-5813.0,Mr. Devon Garrett,Male,85.0,10.0,82.0,2.0,High,90.0,3.3,64.0,False
-4659.0,Jill Kelly,Female,70.0,30.0,,2.0,Low,85.0,-5.0,200.0,False
-1879.0,Richard Gonzalez,Male,85.0,25.0,70.0,2.0,Low,62.0,2.6,76.0,True
-3470.0,Alex White,Male,92.0,30.0,60.0,3.0,Medium,68.0,1.6,95.0,True
-2324.0,Michael Gonzales,Female,95.0,10.0,88.0,1.0,High,78.0,1.4,98.0,True
-3595.0,John Williams,Female,90.0,10.0,86.0,,Low,62.0,2.0,80.0,False
-1076.0,Daniel Herrera,Male,82.0,25.0,88.0,1.0,Medium,72.0,1.0,93.0,True
-,Jessica Richardson,Male,95.0,18.0,65.0,2.0,Medium,72.0,2.9,60.0,True
-1749.0,Ian Glass,Female,88.0,17.0,70.0,3.0,Low,,2.2,93.0,True
-6615.0,Heidi Simmons,Female,95.0,25.0,65.0,0.0,High,92.0,1.1,58.0,True
-1359.0,Andrea Fuller,Male,90.0,30.0,78.0,0.0,Low,85.0,3.9,89.0,True
-1785.0,David Dunlap,Male,85.0,15.0,85.0,0.0,Medium,62.0,0.6,66.0,False
-3508.0,Antonio Mitchell,Male,85.0,18.0,60.0,2.0,Low,72.0,1.3,88.0,True
-7862.0,Mariah Cole,Male,82.0,22.0,85.0,2.0,High,87.0,2.5,88.0,True
-,Rhonda Ramos,Male,95.0,8.0,82.0,0.0,High,72.0,2.5,63.0,False
-6416.0,Raymond Murillo,Male,85.0,15.0,85.0,2.0,Low,78.0,-5.0,200.0,True
-2659.0,Andrea Bradley,Female,92.0,17.0,82.0,2.0,Medium,80.0,0.5,61.0,True
-5760.0,,Female,95.0,8.0,85.0,2.0,High,80.0,4.3,,True
-6384.0,Tina Velazquez,Female,,22.0,82.0,2.0,Medium,90.0,0.9,75.0,False
-8479.0,Bonnie Callahan,Female,70.0,17.0,60.0,0.0,,68.0,3.5,53.0,True
-2699.0,Eric Scott,Female,91.0,17.0,86.0,1.0,High,88.0,1.9,72.0,True
-,Maria Leblanc,Female,85.0,20.0,60.0,1.0,High,87.0,1.3,70.0,True
-9598.0,Michael Valenzuela,Male,95.0,12.0,70.0,,High,62.0,3.3,65.0,False
-6664.0,Robin Spears,Female,78.0,12.0,86.0,1.0,High,68.0,2.5,80.0,False
-3709.0,David Owens,Male,85.0,30.0,90.0,1.0,Medium,80.0,2.5,85.0,False
-7607.0,,,90.0,17.0,77.0,3.0,Medium,87.0,4.3,78.0,False
-2944.0,Elizabeth Clark,Female,85.0,20.0,,0.0,High,72.0,2.7,55.0,False
-9328.0,Beverly Fisher,Male,85.0,30.0,88.0,1.0,High,78.0,1.7,,False
-6952.0,Sarah Bailey,Female,90.0,20.0,90.0,1.0,Medium,90.0,4.1,68.0,False
-2741.0,Kendra Ramirez,Male,78.0,17.0,65.0,0.0,High,85.0,3.1,62.0,True
-7437.0,Diane Ross,Male,85.0,25.0,88.0,2.0,Medium,80.0,4.6,93.0,True
-8381.0,Stephanie Mcfarland,Female,91.0,12.0,65.0,1.0,High,72.0,3.7,85.0,False
-8912.0,Michelle Woods,Male,91.0,10.0,65.0,2.0,Medium,88.0,3.0,70.0,False
-7859.0,David Ruiz,Male,88.0,8.0,88.0,2.0,Medium,68.0,0.7,88.0,False
-9975.0,Jason Castro,Female,82.0,,90.0,3.0,Low,85.0,3.4,93.0,True
-3913.0,Kathleen Montgomery,Female,90.0,,70.0,,Low,88.0,4.7,95.0,False
-9747.0,James Bennett,Female,70.0,,70.0,2.0,High,62.0,0.7,92.0,True
-4275.0,Kelsey Watkins,Female,78.0,,82.0,0.0,High,85.0,1.0,,True
-6876.0,David Park,Female,90.0,22.0,70.0,3.0,Low,72.0,1.9,82.0,False
-1769.0,Christopher Poole,Female,70.0,8.0,88.0,2.0,High,80.0,3.7,62.0,False
-4695.0,Rebecca Baxter,Female,,12.0,86.0,3.0,Low,92.0,1.5,61.0,True
-4063.0,Virginia Daniel,Male,82.0,20.0,60.0,1.0,Medium,85.0,2.8,58.0,True
-5178.0,Melissa Gordon,Male,95.0,17.0,65.0,1.0,High,90.0,3.0,99.0,
-9037.0,Brett Barrett,Female,90.0,30.0,70.0,3.0,High,72.0,0.3,82.0,True
-7814.0,Brandon Townsend,Female,90.0,30.0,90.0,3.0,Low,90.0,,68.0,True
-9691.0,Haley Robertson,Female,82.0,15.0,85.0,1.0,Medium,92.0,4.5,89.0,True
-1653.0,Michelle Gonzalez,Female,70.0,20.0,60.0,2.0,Low,85.0,0.1,83.0,False
-9426.0,Gary Holland,Female,85.0,,82.0,3.0,Medium,72.0,0.4,56.0,True
-9814.0,Felicia Howard,Male,90.0,25.0,90.0,0.0,High,92.0,2.7,94.0,False
-2181.0,Sean Walker,Male,85.0,17.0,88.0,1.0,High,87.0,0.3,100.0,False
-2154.0,Brianna Mills,Male,88.0,8.0,60.0,1.0,Low,62.0,2.2,51.0,False
-2938.0,Michael Case,Male,91.0,20.0,86.0,1.0,Low,87.0,1.8,82.0,True
-5748.0,Felicia Houston,Female,91.0,20.0,82.0,1.0,Medium,62.0,4.1,51.0,False
-3561.0,Kevin Wilson,Male,78.0,8.0,70.0,2.0,Low,68.0,1.5,100.0,False
-1182.0,Mary Vaughn,Male,90.0,15.0,78.0,3.0,Low,62.0,2.7,55.0,
-4441.0,,Female,92.0,8.0,70.0,0.0,High,68.0,1.1,66.0,True
-2877.0,Maurice Martinez,,91.0,15.0,70.0,1.0,Low,72.0,0.4,92.0,True
-5107.0,Jonathon Perry,,92.0,22.0,77.0,1.0,Medium,68.0,3.4,65.0,True
-5671.0,,Male,92.0,30.0,77.0,,Medium,88.0,3.3,94.0,True
-6971.0,Rebecca Evans,Female,,10.0,78.0,1.0,High,92.0,3.6,91.0,False
-5533.0,Paul Williams,Female,78.0,30.0,77.0,1.0,Medium,90.0,3.9,81.0,True
-3879.0,Tyler Boyer,Male,88.0,10.0,70.0,3.0,Medium,87.0,3.6,51.0,True
-7637.0,Kristy Nichols,Male,85.0,12.0,82.0,2.0,Low,78.0,3.3,59.0,False
-7430.0,Darren Martin,Male,91.0,18.0,65.0,1.0,Low,72.0,0.5,73.0,True
-4913.0,Katelyn Morgan,Male,82.0,10.0,77.0,0.0,,88.0,4.7,92.0,True
-,Dennis Elliott,,85.0,25.0,77.0,3.0,High,85.0,1.8,52.0,True
-9485.0,Jesus Henson,Female,70.0,17.0,77.0,1.0,High,90.0,0.5,83.0,False
-5314.0,Robin Stewart,Male,70.0,8.0,88.0,3.0,Low,87.0,2.6,74.0,True
-9460.0,Lawrence Miller,Female,95.0,30.0,77.0,1.0,Low,80.0,2.5,,False
-3713.0,Ronnie White,Male,90.0,12.0,82.0,3.0,High,68.0,0.8,88.0,True
-4773.0,John Fox,Female,95.0,20.0,77.0,1.0,Medium,92.0,3.0,91.0,False
-1367.0,,Male,85.0,10.0,86.0,3.0,High,68.0,3.1,52.0,True
-1916.0,Daniel Scott,Male,88.0,10.0,70.0,0.0,Low,88.0,3.2,96.0,False
-2404.0,,Male,85.0,22.0,77.0,1.0,High,92.0,4.2,88.0,True
-3979.0,Jonathan Mann,Female,78.0,,77.0,3.0,Low,87.0,1.1,,
-2778.0,Bethany Andersen,Male,92.0,,70.0,0.0,High,88.0,0.5,80.0,True
-9706.0,Tiffany Moore,Male,90.0,17.0,65.0,3.0,Low,80.0,4.5,99.0,False
-9553.0,Sylvia Chavez,Female,95.0,15.0,70.0,0.0,High,78.0,3.9,74.0,False
-2600.0,Gerald Reilly,Female,78.0,18.0,77.0,3.0,High,85.0,3.0,,False
-5223.0,Ashlee Wilcox,Male,85.0,15.0,86.0,2.0,High,72.0,0.0,91.0,True
-6175.0,Lance Johnson,Female,95.0,20.0,65.0,0.0,Low,88.0,1.3,84.0,False
-6990.0,,Female,70.0,25.0,60.0,2.0,Low,78.0,,85.0,False
-5157.0,,Female,91.0,,60.0,0.0,Low,87.0,3.7,78.0,True
-2642.0,Patrick Gonzalez MD,Male,82.0,8.0,88.0,2.0,Low,80.0,0.8,90.0,True
-2492.0,Cole Gomez,Male,85.0,22.0,60.0,2.0,High,85.0,1.1,55.0,True
-7296.0,Alejandro Gutierrez,Female,91.0,12.0,82.0,3.0,High,68.0,3.2,78.0,True
-4304.0,Natalie Long,Female,92.0,15.0,86.0,2.0,Low,92.0,3.1,93.0,True
-6893.0,Abigail Ingram,Male,85.0,10.0,85.0,2.0,Medium,90.0,3.3,75.0,True
-9482.0,Eileen Lee,Male,90.0,20.0,70.0,2.0,Low,72.0,4.6,72.0,False
-5530.0,Nancy Moore,,91.0,25.0,77.0,0.0,Low,80.0,1.3,76.0,True
-2185.0,Melanie Wilson,Female,95.0,20.0,70.0,2.0,Low,88.0,1.3,78.0,False
-8923.0,Gloria Henderson,Male,95.0,17.0,77.0,3.0,High,78.0,0.6,,False
-4610.0,Christopher Payne,Male,95.0,8.0,88.0,2.0,Low,80.0,3.5,66.0,True
-5706.0,John Franklin,Male,70.0,30.0,85.0,2.0,High,78.0,1.6,63.0,False
-3994.0,Angel Stout,Male,85.0,25.0,90.0,3.0,Medium,92.0,1.1,65.0,False
-,James Watkins,Male,90.0,20.0,77.0,3.0,High,72.0,4.8,,False
-6167.0,Candace Kelly,Female,91.0,18.0,77.0,0.0,,85.0,2.0,98.0,True
-1887.0,Zachary Daniel,Female,85.0,12.0,78.0,2.0,Medium,62.0,4.3,99.0,True
-8490.0,Angel Howard,Male,82.0,17.0,88.0,1.0,High,92.0,1.9,56.0,False
-6924.0,Heather Hill,Female,78.0,12.0,,3.0,Medium,78.0,4.8,71.0,False
-4013.0,Heather Gamble,,70.0,25.0,60.0,1.0,Medium,62.0,1.4,61.0,True
-4744.0,Sean Levine,Male,88.0,25.0,70.0,0.0,Medium,92.0,0.7,97.0,True
-8749.0,Brian Diaz,Male,78.0,8.0,77.0,0.0,Low,72.0,2.7,70.0,False
-5915.0,Catherine Koch,Female,82.0,22.0,78.0,0.0,High,68.0,0.3,66.0,False
-2577.0,,Female,95.0,18.0,88.0,1.0,Low,72.0,4.7,66.0,False
-1324.0,Anne Martin,Female,90.0,30.0,86.0,,Low,88.0,3.2,84.0,True
-5663.0,Mary Warren,Female,95.0,12.0,77.0,1.0,High,62.0,3.1,79.0,True
-3745.0,Amanda Bryant,Female,70.0,22.0,86.0,0.0,High,87.0,0.8,64.0,False
-6191.0,Joel Ford,Female,88.0,22.0,60.0,2.0,Medium,90.0,3.7,83.0,False
-7782.0,Mark Miller,Male,78.0,15.0,65.0,3.0,Low,85.0,4.7,94.0,True
-4450.0,Sarah Russell,,70.0,20.0,85.0,2.0,Medium,72.0,0.3,99.0,False
-9584.0,Lisa Mitchell,Male,90.0,18.0,86.0,0.0,High,62.0,1.5,65.0,False
-8260.0,William White,Male,78.0,12.0,65.0,1.0,High,90.0,4.3,70.0,False
-8654.0,Jacqueline Garcia,Female,82.0,17.0,65.0,2.0,High,88.0,,90.0,False
-9576.0,Elizabeth Wright,Female,95.0,17.0,70.0,3.0,High,78.0,1.5,76.0,False
-3551.0,Pamela Woods,,85.0,15.0,70.0,0.0,Medium,85.0,2.3,50.0,False
-8816.0,Sydney Patterson,Female,85.0,8.0,82.0,3.0,High,80.0,2.7,62.0,False
-8161.0,Lisa Johnson,Female,92.0,10.0,60.0,0.0,High,85.0,0.4,90.0,True
-9464.0,Todd Jackson,Female,88.0,12.0,82.0,0.0,High,87.0,0.9,68.0,True
-8460.0,Shelby Richards,Female,88.0,22.0,77.0,3.0,Medium,80.0,0.8,84.0,True
-4046.0,Joseph Roberts,Male,88.0,18.0,65.0,1.0,Low,80.0,1.2,59.0,True
-9086.0,Samantha Burton,Male,95.0,8.0,82.0,1.0,Medium,78.0,3.5,52.0,False
-2314.0,Cynthia Mcdonald,Male,85.0,18.0,60.0,2.0,Low,78.0,0.9,66.0,False
-1206.0,Kimberly Petty,Male,92.0,8.0,77.0,3.0,Low,80.0,1.0,97.0,True
-9538.0,Joshua Carpenter,Male,85.0,8.0,82.0,1.0,High,80.0,3.7,85.0,True
-5150.0,Jessica Fuller,Female,88.0,25.0,88.0,1.0,Low,92.0,4.9,65.0,False
-6316.0,Andrea Barber,Male,78.0,18.0,86.0,2.0,Medium,92.0,0.0,52.0,False
-3539.0,Brian Lyons,Female,90.0,25.0,65.0,1.0,High,88.0,1.7,98.0,True
-1979.0,Tammy Fuentes,Female,78.0,12.0,85.0,0.0,Medium,92.0,,85.0,False
-8187.0,Robert Taylor,Male,85.0,8.0,88.0,0.0,Medium,80.0,2.4,78.0,False
-9892.0,David Gonzalez,Female,92.0,22.0,65.0,2.0,Medium,,3.7,67.0,True
-2128.0,Steven Myers,Male,85.0,18.0,82.0,2.0,Medium,78.0,0.0,90.0,False
-4039.0,Cassandra Perez,Male,91.0,30.0,86.0,3.0,Medium,87.0,3.3,84.0,False
-4110.0,Jacqueline Eaton,Female,82.0,10.0,86.0,2.0,,62.0,3.2,57.0,True
-9572.0,Carrie Mccoy,Male,85.0,10.0,65.0,1.0,High,87.0,2.4,,True
-7366.0,Amy Fisher,Female,82.0,22.0,86.0,2.0,High,90.0,1.1,95.0,True
-1214.0,Stephanie Reid,Male,85.0,20.0,77.0,1.0,Medium,72.0,3.7,76.0,False
-1955.0,Reginald Hoover,Female,82.0,15.0,85.0,,High,92.0,4.8,56.0,True
-4784.0,Christina Russo,Female,92.0,25.0,70.0,3.0,Low,68.0,2.8,85.0,False
-2728.0,Raymond Howell,Female,85.0,8.0,85.0,0.0,High,72.0,2.0,71.0,True
-9747.0,Angela Perez,Female,95.0,30.0,70.0,1.0,Medium,62.0,3.8,77.0,False
-4943.0,Charles Aguilar,Male,70.0,12.0,82.0,,Medium,78.0,4.8,50.0,True
-5660.0,Caitlyn Green,Male,82.0,10.0,82.0,1.0,Medium,92.0,,70.0,True
-5521.0,Ronald Davis,,90.0,15.0,77.0,1.0,High,68.0,1.3,87.0,True
-4817.0,Melissa Lucas,Female,88.0,20.0,86.0,0.0,Low,92.0,3.7,96.0,False
-8905.0,Heidi Leonard,Male,85.0,22.0,85.0,3.0,Low,85.0,0.2,86.0,False
-,Samantha Patton,Male,95.0,30.0,60.0,0.0,High,92.0,3.7,88.0,True
-7266.0,Richard Swanson,Male,88.0,12.0,78.0,1.0,Low,88.0,0.7,82.0,True
-3509.0,Lauren Simpson,Male,70.0,17.0,86.0,3.0,Low,87.0,1.1,68.0,False
-,Kimberly Raymond,Male,95.0,20.0,77.0,3.0,Low,80.0,2.7,66.0,True
-7529.0,Marissa Raymond,,78.0,10.0,77.0,2.0,High,78.0,2.0,86.0,True
-9589.0,Joyce Bishop,Male,92.0,,82.0,0.0,Medium,88.0,0.4,92.0,False
-7939.0,Michael Kelly,Female,95.0,25.0,88.0,1.0,Low,80.0,3.8,60.0,False
-8245.0,Peggy Hill,Male,85.0,15.0,90.0,3.0,Low,90.0,0.8,96.0,True
-2841.0,Derrick Love,Male,,22.0,65.0,2.0,High,90.0,3.5,57.0,False
-8373.0,Laura Stevens,Female,85.0,30.0,90.0,2.0,High,92.0,2.7,98.0,False
-9991.0,Terri Potter,Female,91.0,10.0,78.0,0.0,Low,72.0,0.2,60.0,True
-5653.0,Veronica Saunders,Male,91.0,18.0,78.0,1.0,Low,80.0,0.3,92.0,False
-6901.0,Emily Townsend,Male,85.0,18.0,60.0,3.0,Medium,72.0,4.9,56.0,
-8940.0,James Long,Male,78.0,25.0,70.0,1.0,Low,,,83.0,False
-6465.0,Jennifer Dickson,Female,70.0,10.0,78.0,1.0,Low,90.0,1.8,69.0,True
-9212.0,Alexa West,Female,85.0,18.0,60.0,1.0,Low,85.0,1.1,71.0,False
-3248.0,Phillip Donovan,Male,70.0,12.0,86.0,3.0,Medium,92.0,2.9,77.0,False
-6395.0,Monique King,Female,82.0,10.0,90.0,0.0,Low,72.0,3.4,62.0,True
-6062.0,Karl Murray,Male,70.0,,86.0,0.0,Medium,87.0,2.8,96.0,True
-4016.0,Julia Brooks,Female,78.0,15.0,88.0,0.0,Medium,,2.2,90.0,False
-3489.0,Lauren Montgomery,Male,,10.0,65.0,1.0,Low,88.0,1.3,86.0,True
-4804.0,Nathan Wall,Male,85.0,30.0,85.0,1.0,High,72.0,4.2,80.0,False
-4014.0,Kristin Macias,Female,85.0,17.0,65.0,0.0,High,92.0,0.2,98.0,True
-5421.0,Samuel Smith,Female,92.0,25.0,90.0,2.0,High,,4.3,81.0,False
-8496.0,,Male,70.0,8.0,78.0,3.0,Low,62.0,3.6,75.0,True
-9530.0,Bradley Stevens,Male,85.0,17.0,78.0,3.0,Low,72.0,2.0,97.0,True
-7347.0,Morgan Hampton,Male,92.0,18.0,77.0,0.0,Medium,85.0,2.3,77.0,False
-1893.0,Lori Carrillo,Male,85.0,17.0,85.0,2.0,High,68.0,3.9,94.0,True
-7440.0,Samantha Novak,Female,95.0,17.0,78.0,0.0,Medium,88.0,4.5,62.0,False
-2477.0,Audrey Robinson,Female,95.0,10.0,85.0,2.0,High,78.0,3.2,55.0,False
-9383.0,Lindsey Kerr,Male,70.0,12.0,60.0,1.0,High,90.0,2.8,92.0,True
-3656.0,Cynthia Nguyen,Male,78.0,15.0,60.0,2.0,Medium,78.0,1.4,61.0,True
-3155.0,Ryan Hood,Male,85.0,22.0,82.0,1.0,Medium,78.0,4.3,84.0,
-9084.0,Matthew Stevenson,Male,92.0,22.0,77.0,1.0,Medium,78.0,0.4,88.0,True
-5009.0,Rhonda White,Female,91.0,12.0,90.0,1.0,High,68.0,0.3,72.0,True
-3381.0,Larry Ramsey,Male,91.0,22.0,82.0,1.0,High,80.0,0.5,61.0,True
-5659.0,Kimberly Anderson,Male,85.0,22.0,88.0,1.0,High,85.0,1.6,74.0,True
-8001.0,Brian Miles,Male,88.0,17.0,,2.0,Low,,1.6,76.0,True
-4425.0,Kelly Baker,Male,90.0,22.0,70.0,2.0,Medium,88.0,4.7,95.0,False
-7996.0,Wendy Miller,Female,88.0,12.0,86.0,3.0,Medium,68.0,3.1,81.0,False
-9069.0,Michael Webster,Male,91.0,25.0,82.0,3.0,High,87.0,0.1,90.0,True
-4396.0,Michelle Ryan,Female,70.0,15.0,88.0,1.0,Low,92.0,0.1,62.0,False
-5168.0,Justin Jennings,Male,88.0,18.0,70.0,2.0,Medium,80.0,0.6,71.0,False
-7488.0,Norma Ward,Male,78.0,25.0,88.0,1.0,Low,78.0,4.6,52.0,True
-8888.0,,Male,85.0,12.0,88.0,1.0,Medium,80.0,4.2,69.0,False
-9779.0,Vincent Johnson,Male,92.0,22.0,,1.0,High,68.0,1.4,51.0,False
-7147.0,David Stone,,91.0,22.0,60.0,0.0,Low,87.0,4.3,98.0,False
-6152.0,Amy Evans,Male,88.0,8.0,85.0,1.0,High,90.0,2.3,69.0,True
-,Caleb Walker,Female,78.0,20.0,88.0,1.0,High,,2.2,51.0,False
-9192.0,Stephen Ramirez,Male,92.0,30.0,77.0,2.0,Medium,90.0,0.7,56.0,True
-4361.0,Nicholas Baxter,Male,85.0,8.0,70.0,2.0,High,85.0,4.7,93.0,True
-6460.0,Raymond Smith,Female,85.0,20.0,70.0,2.0,High,88.0,3.8,90.0,True
-6257.0,Roy Johnson,Male,92.0,18.0,82.0,2.0,Medium,78.0,3.4,67.0,True
-3580.0,Ryan Vasquez,,90.0,15.0,86.0,2.0,Low,87.0,,72.0,False
-5440.0,Justin Johnson,Male,88.0,22.0,90.0,0.0,High,85.0,3.1,71.0,False
-1831.0,,Male,85.0,,78.0,2.0,Medium,80.0,0.4,75.0,True
-8304.0,Kaylee Benjamin,Female,88.0,30.0,90.0,2.0,High,78.0,2.8,55.0,False
-2593.0,Charles Murphy,Female,88.0,17.0,77.0,3.0,High,68.0,4.3,89.0,False
-6954.0,Grant Henderson,Female,78.0,,88.0,1.0,Medium,80.0,0.3,57.0,False
-8842.0,Michael Woods,Female,78.0,18.0,88.0,3.0,Low,68.0,2.5,75.0,True
-6339.0,Michael Kane,Male,88.0,12.0,77.0,0.0,Low,62.0,1.2,65.0,True
-8903.0,Susan Benson,Female,90.0,30.0,90.0,3.0,Medium,62.0,2.8,71.0,True
-3835.0,Timothy Armstrong,Male,91.0,17.0,85.0,3.0,Low,78.0,1.6,56.0,False
-3886.0,Cindy Harvey,Female,70.0,20.0,86.0,2.0,Low,88.0,3.9,74.0,False
-9098.0,Caitlin Carter,Male,90.0,25.0,65.0,3.0,Low,80.0,3.8,92.0,True
-8421.0,Ricky Johnson,Female,70.0,22.0,86.0,1.0,High,92.0,3.4,70.0,False
-5989.0,Bryan Hoover,Female,95.0,20.0,86.0,1.0,Low,72.0,2.0,58.0,False
-2022.0,Elijah Wagner,Female,82.0,15.0,78.0,2.0,Medium,87.0,4.3,51.0,True
-8073.0,Felicia Davis,Female,95.0,8.0,60.0,0.0,Medium,72.0,1.1,61.0,False
-3278.0,Jonathan Hess,Male,82.0,8.0,88.0,0.0,,85.0,5.0,,True
-3200.0,Michael Yoder,Male,90.0,15.0,65.0,1.0,Low,62.0,4.9,58.0,True
-3248.0,Samantha York,Female,85.0,22.0,60.0,3.0,High,78.0,2.5,85.0,False
-7303.0,Joanna Martinez,Female,92.0,10.0,60.0,3.0,High,88.0,2.5,96.0,True
-9220.0,Penny Hopkins,Female,70.0,12.0,86.0,1.0,High,80.0,2.8,95.0,False
-2854.0,Justin Foster,Female,90.0,,,2.0,Medium,72.0,0.4,89.0,True
-5017.0,Jennifer Morgan,Female,90.0,12.0,86.0,2.0,Low,80.0,4.5,84.0,True
-8681.0,Dalton Chen,Female,82.0,17.0,86.0,1.0,Medium,90.0,4.8,68.0,False
-3744.0,Mrs. Amy Carney MD,Male,91.0,18.0,86.0,2.0,High,78.0,2.9,86.0,True
-5780.0,Melissa Wang,Male,88.0,17.0,85.0,0.0,Low,87.0,4.3,67.0,False
-,Chelsea Porter,Female,88.0,,78.0,2.0,Low,68.0,4.6,97.0,True
-8317.0,Cameron Bender,Female,78.0,,90.0,1.0,High,72.0,4.3,71.0,True
-,Vanessa Hall,Male,85.0,8.0,60.0,3.0,Low,78.0,3.6,60.0,True
-6653.0,Daniel Solomon,Male,88.0,20.0,78.0,,Medium,62.0,2.4,80.0,True
-7222.0,Deanna Jones,Female,85.0,18.0,65.0,2.0,Medium,80.0,1.4,78.0,False
-6172.0,Alicia Young,,90.0,12.0,88.0,0.0,Low,85.0,1.7,67.0,True
-5183.0,Peter Figueroa,Female,85.0,25.0,86.0,3.0,Low,90.0,3.4,61.0,False
-9972.0,Jacob Thompson,Male,85.0,20.0,78.0,0.0,High,72.0,0.5,,False
-4594.0,Jonathon Woodward,Female,88.0,25.0,78.0,1.0,Low,87.0,0.3,88.0,True
-2995.0,Brian Hayes,Male,90.0,22.0,65.0,0.0,Low,88.0,4.0,61.0,True
-4018.0,Lisa Carroll,Female,88.0,17.0,85.0,1.0,Medium,62.0,3.5,92.0,
-5216.0,Cassandra Ryan,Male,90.0,18.0,78.0,0.0,Medium,90.0,5.0,,False
-3915.0,Terri Hayden,Female,90.0,17.0,90.0,3.0,Medium,68.0,3.2,56.0,True
-9857.0,Taylor Burns,Female,92.0,22.0,85.0,1.0,Low,85.0,0.5,54.0,True
-5105.0,Andrew Jimenez,Female,85.0,17.0,65.0,1.0,High,62.0,1.3,94.0,False
-7411.0,Wendy King,Male,82.0,17.0,77.0,0.0,Medium,87.0,2.7,50.0,False
-8898.0,Luis Carter,Male,91.0,12.0,88.0,1.0,Low,85.0,2.0,90.0,True
-6985.0,Nicholas Jones,Female,90.0,17.0,,3.0,High,72.0,0.2,74.0,True
-5896.0,Tiffany Sanders,Female,90.0,30.0,77.0,2.0,Low,78.0,3.7,58.0,True
-4163.0,,Male,91.0,25.0,77.0,0.0,High,72.0,3.2,81.0,False
-1268.0,Tina Knight,Male,95.0,15.0,88.0,,Medium,87.0,1.1,,False
-9791.0,Brittany Andrews,Male,91.0,25.0,85.0,1.0,Low,68.0,2.4,51.0,False
-1750.0,William Weber,Male,78.0,15.0,65.0,1.0,Medium,87.0,2.3,60.0,True
-2742.0,Angela Ortiz,Male,85.0,22.0,86.0,3.0,High,92.0,2.1,97.0,False
-6312.0,David Meyer,Male,,12.0,65.0,1.0,High,,3.0,71.0,True
-,Michelle Aguilar,Female,78.0,8.0,65.0,1.0,Low,68.0,2.2,87.0,True
-3185.0,Travis Harrell,Male,91.0,8.0,65.0,1.0,Medium,87.0,0.0,61.0,True
-5648.0,Craig Mccann,Female,85.0,10.0,90.0,0.0,Low,85.0,2.6,76.0,True
-3859.0,Scott Edwards,Male,91.0,10.0,77.0,3.0,High,85.0,1.7,50.0,
-4144.0,Kelly Cohen,Male,82.0,20.0,86.0,1.0,Low,72.0,1.1,99.0,True
-5528.0,David Diaz,Male,92.0,20.0,65.0,1.0,Medium,,0.8,52.0,True
-6966.0,Joseph Green,Female,92.0,8.0,82.0,1.0,Low,,0.2,,True
-9804.0,Henry Johnson,Male,78.0,15.0,77.0,2.0,High,87.0,4.5,96.0,False
-6340.0,Keith Wilson,Female,92.0,30.0,90.0,2.0,Medium,92.0,0.5,97.0,False
-4276.0,Jordan Chase,Female,92.0,20.0,77.0,3.0,Medium,80.0,4.5,59.0,True
-8454.0,Kayla Solomon,Male,70.0,30.0,65.0,1.0,Low,92.0,3.2,67.0,True
-6503.0,Hayley Johnson,Male,85.0,22.0,78.0,2.0,High,87.0,4.3,79.0,False
-3804.0,John Bender,Female,92.0,18.0,86.0,0.0,Low,88.0,4.5,86.0,True
-2416.0,William Christian,Female,82.0,17.0,90.0,3.0,Medium,,1.4,96.0,False
-5041.0,Michael Willis,Male,95.0,8.0,86.0,3.0,Low,68.0,4.6,50.0,False
-1724.0,James Simmons,Male,85.0,12.0,78.0,0.0,Low,62.0,2.4,94.0,True
-8412.0,Christopher Sullivan,,92.0,,70.0,1.0,Low,62.0,4.7,58.0,False
-5846.0,Michelle Santos,Male,90.0,15.0,,2.0,High,78.0,4.3,97.0,True
-8452.0,Michael Walters,Female,78.0,8.0,65.0,1.0,Low,78.0,3.5,50.0,True
-7305.0,Jason Anderson,Female,82.0,15.0,82.0,0.0,Medium,88.0,2.7,100.0,True
-2326.0,,Female,85.0,12.0,88.0,1.0,High,62.0,1.8,89.0,True
-6989.0,James Hoover,Female,78.0,12.0,85.0,2.0,Low,92.0,0.7,71.0,True
-9841.0,Julie Garza,Male,85.0,22.0,90.0,3.0,Medium,90.0,4.5,,False
-5540.0,Lisa Williams,,90.0,30.0,88.0,1.0,Medium,72.0,2.6,57.0,False
-9714.0,Erica Thomas,Female,85.0,22.0,88.0,2.0,High,78.0,0.4,75.0,True
-5724.0,Calvin Vargas,Male,90.0,10.0,82.0,2.0,,68.0,2.5,63.0,True
-5803.0,Molly Jones,Female,82.0,10.0,77.0,1.0,Medium,78.0,3.7,51.0,False
-4097.0,Shannon Hogan,Male,85.0,,70.0,,Medium,88.0,1.7,91.0,False
-8965.0,James Fields,Female,85.0,18.0,,0.0,Medium,68.0,3.9,64.0,False
-7093.0,Arthur Johnson,Female,85.0,10.0,88.0,2.0,Medium,68.0,3.1,60.0,False
-3986.0,Collin Edwards,Male,78.0,10.0,90.0,2.0,High,90.0,2.9,78.0,False
-7056.0,Kimberly Smith,Male,92.0,,,1.0,Medium,68.0,1.9,84.0,True
-9743.0,Mr. Clinton Camacho,Female,90.0,15.0,60.0,1.0,High,78.0,4.6,,True
-9948.0,Taylor Moyer,,88.0,17.0,82.0,3.0,,68.0,4.0,96.0,False
-6549.0,,Male,85.0,15.0,,2.0,High,85.0,0.1,89.0,True
-8306.0,David Jimenez,Female,90.0,30.0,78.0,3.0,Low,92.0,2.9,64.0,False
-4206.0,Kyle Coleman,Male,90.0,,77.0,2.0,Low,62.0,1.0,70.0,True
-6915.0,Marvin Cardenas,Female,78.0,8.0,88.0,0.0,Medium,80.0,1.4,72.0,False
-8300.0,Eddie Robertson,Male,92.0,17.0,60.0,,Medium,68.0,4.0,77.0,False
-,Christopher Diaz,Male,78.0,25.0,82.0,1.0,Low,90.0,0.3,87.0,False
-2449.0,Christopher Taylor,Male,70.0,18.0,60.0,0.0,Low,78.0,3.6,98.0,True
-4264.0,Brenda Bell,Male,70.0,18.0,70.0,1.0,High,85.0,4.2,69.0,False
-8593.0,Ashley Nguyen,Male,85.0,15.0,65.0,2.0,Medium,78.0,0.6,92.0,False
-7834.0,Michael Bailey,Male,85.0,25.0,78.0,2.0,Medium,78.0,5.0,54.0,False
-8872.0,Maria Scott,Female,88.0,,85.0,1.0,Low,88.0,0.1,66.0,True
-1958.0,Katherine Mclaughlin,Male,95.0,17.0,65.0,1.0,High,80.0,1.4,76.0,
-1798.0,Karen Cruz,Female,88.0,12.0,85.0,2.0,High,68.0,3.8,88.0,True
-9908.0,Jodi Taylor,Female,95.0,18.0,82.0,1.0,High,72.0,2.9,59.0,True
-3243.0,Thomas Mcgrath,Female,95.0,17.0,60.0,1.0,High,87.0,1.1,82.0,True
-,Alec Peterson,Male,70.0,17.0,85.0,2.0,High,80.0,2.4,69.0,False
-3277.0,Kathy Bailey,,91.0,12.0,88.0,0.0,Low,85.0,0.1,57.0,True
-3108.0,Karen Wolf,Male,92.0,18.0,65.0,3.0,High,87.0,2.1,98.0,True
-2273.0,Mary Jones,Male,85.0,8.0,78.0,3.0,High,80.0,,82.0,True
-8685.0,Lisa Houston,Male,88.0,15.0,,2.0,Low,80.0,3.8,100.0,True
-4365.0,Ashley Jordan,Male,78.0,30.0,78.0,2.0,High,85.0,4.7,72.0,False
-3630.0,Lonnie Williams,Male,82.0,22.0,85.0,2.0,Low,80.0,2.6,95.0,True
-5617.0,Michael Poole,Male,82.0,15.0,85.0,3.0,Low,78.0,1.8,87.0,True
-8203.0,David Martinez,Male,78.0,30.0,60.0,0.0,High,72.0,-5.0,200.0,False
-3025.0,Eduardo Miller,Female,90.0,12.0,65.0,1.0,Medium,85.0,2.8,52.0,True
-6375.0,Kristine Williams,Female,,8.0,82.0,1.0,Low,85.0,3.4,78.0,True
-7672.0,,Female,70.0,25.0,85.0,,,90.0,0.9,93.0,False
-2723.0,Audrey Woods,Female,85.0,12.0,85.0,2.0,High,62.0,2.0,87.0,True
-3764.0,Lauren Brown,Male,95.0,25.0,88.0,3.0,Low,62.0,0.6,77.0,False
-5563.0,Stephanie Merritt,Female,70.0,30.0,77.0,3.0,Medium,78.0,2.6,59.0,False
-2770.0,Rebecca Jones,Male,88.0,17.0,77.0,3.0,Low,68.0,0.1,97.0,True
-2117.0,Isaiah Arnold,Female,85.0,10.0,60.0,3.0,Low,90.0,0.8,89.0,True
-2253.0,Andrea Frey,Female,85.0,25.0,82.0,1.0,Medium,72.0,1.3,71.0,True
-1517.0,Andrew Dudley,Female,90.0,8.0,77.0,1.0,Medium,78.0,2.3,52.0,True
-5965.0,Kenneth Jones,,85.0,8.0,65.0,2.0,Low,62.0,2.4,57.0,False
-9837.0,Jane Griffith,Female,85.0,12.0,65.0,2.0,High,62.0,1.3,87.0,False
-6779.0,Jeff Phillips,Female,95.0,15.0,78.0,3.0,High,68.0,4.2,72.0,True
-6591.0,Dawn Edwards,Female,90.0,8.0,88.0,1.0,Medium,90.0,0.3,65.0,True
-4844.0,Paige Campbell,Female,91.0,20.0,85.0,2.0,High,90.0,0.8,84.0,False
-1612.0,Belinda Kim,Female,70.0,22.0,70.0,0.0,Medium,80.0,3.5,87.0,True
-6185.0,Christopher Cruz,Female,,8.0,88.0,3.0,High,78.0,0.5,93.0,True
-6504.0,Ruben Steele,Female,82.0,30.0,65.0,3.0,Medium,90.0,4.8,62.0,False
-2234.0,Bradley Martinez,Male,88.0,18.0,78.0,2.0,Low,62.0,4.0,89.0,True
-2552.0,Alison Williams,Female,88.0,20.0,86.0,2.0,Medium,62.0,1.0,100.0,True
-5945.0,Scott Ferguson,Female,70.0,12.0,88.0,3.0,Medium,62.0,1.3,82.0,False
-9971.0,David Brown,Male,85.0,12.0,65.0,3.0,Medium,92.0,3.3,97.0,False
-,Joseph Smith,Female,91.0,15.0,70.0,3.0,Medium,78.0,0.7,59.0,False
-8133.0,,Female,95.0,20.0,90.0,0.0,Medium,85.0,3.2,66.0,True
-7649.0,Renee Scott,Male,90.0,10.0,90.0,1.0,High,85.0,2.3,85.0,False
-7914.0,Aimee Green,Male,92.0,10.0,82.0,0.0,High,85.0,3.9,67.0,True
-1691.0,Ricky Jenkins,Female,85.0,15.0,85.0,1.0,Low,85.0,4.3,76.0,False
-2479.0,Kelly Allen MD,Female,78.0,25.0,85.0,3.0,Low,72.0,4.7,83.0,False
-9133.0,Sean Smith,Male,92.0,22.0,85.0,1.0,Medium,88.0,3.7,97.0,True
-7928.0,Robert Johnson,Male,78.0,20.0,65.0,3.0,Medium,78.0,2.0,87.0,True
-9034.0,Susan Russell,Female,90.0,30.0,70.0,0.0,,92.0,4.8,100.0,True
-6947.0,Ryan West,Female,95.0,18.0,78.0,3.0,High,80.0,3.5,100.0,True
-5144.0,,Female,88.0,30.0,85.0,2.0,High,78.0,1.9,75.0,False
-5929.0,Christina Fitzgerald,Male,92.0,18.0,90.0,0.0,Medium,90.0,4.4,99.0,False
-1555.0,Susan Roberson,Female,90.0,17.0,77.0,0.0,Medium,62.0,4.4,56.0,True
-5275.0,Jessica Banks,Male,95.0,8.0,86.0,2.0,Low,,2.3,51.0,True
-4010.0,Jodi Rogers,Female,78.0,15.0,60.0,3.0,Low,85.0,1.6,55.0,True
-3585.0,Michelle Clay,Male,82.0,10.0,86.0,0.0,Medium,78.0,2.4,97.0,True
-5270.0,Jacob Bean,Male,91.0,30.0,82.0,3.0,High,62.0,1.8,75.0,False
-4677.0,Robert Harper,Male,85.0,12.0,86.0,3.0,High,78.0,1.0,94.0,True
-,Valerie Gibson,Female,91.0,8.0,86.0,2.0,High,87.0,4.8,60.0,True
-1231.0,Michelle Graham,Female,85.0,17.0,85.0,3.0,Low,92.0,1.0,100.0,False
-5717.0,Seth Johnson,Female,70.0,10.0,60.0,3.0,Low,92.0,5.0,68.0,True
-,John Jones,Male,70.0,10.0,78.0,2.0,Medium,92.0,3.1,65.0,False
-8506.0,Julia Sanchez,Male,85.0,17.0,65.0,1.0,Low,62.0,3.4,95.0,False
-7935.0,,Female,90.0,20.0,70.0,1.0,High,90.0,4.7,80.0,False
-1745.0,Justin Sharp,Male,88.0,12.0,86.0,0.0,Medium,62.0,3.4,58.0,True
-3938.0,Thomas Yoder,Female,,12.0,77.0,1.0,Medium,68.0,0.4,95.0,False
-3323.0,Christine Mullins,Female,90.0,30.0,78.0,0.0,Medium,85.0,3.7,77.0,False
-5312.0,Timothy Mcbride,Female,82.0,30.0,60.0,0.0,Medium,78.0,3.8,59.0,False
-1871.0,Deborah Reyes,Male,78.0,15.0,90.0,0.0,High,78.0,1.3,95.0,False
-8150.0,Chad Downs,Male,85.0,15.0,,1.0,Low,72.0,2.4,81.0,True
-3425.0,William Hill,Male,95.0,20.0,90.0,2.0,High,68.0,,67.0,True
-1067.0,Makayla Rhodes,Male,70.0,20.0,90.0,1.0,Low,87.0,4.4,51.0,False
-2998.0,Clayton Jones,Female,95.0,,85.0,1.0,High,80.0,0.4,95.0,False
-8439.0,Sean Hernandez,Female,91.0,15.0,88.0,1.0,Low,88.0,4.8,70.0,True
-4463.0,Christine Young,Male,88.0,30.0,78.0,2.0,Low,88.0,1.9,75.0,False
-3916.0,Brian Hale,Male,70.0,20.0,78.0,3.0,High,62.0,3.9,68.0,True
-2975.0,Sandra Hart,Female,85.0,8.0,82.0,3.0,High,90.0,3.3,73.0,True
-9021.0,Christine Curtis,Female,70.0,17.0,82.0,3.0,Low,62.0,0.5,77.0,False
-4053.0,Tara Johnson,Female,70.0,20.0,78.0,2.0,Medium,78.0,3.4,91.0,True
-9115.0,Stephanie Snyder,Male,88.0,17.0,60.0,2.0,Medium,85.0,0.7,,False
-5073.0,Miguel Leblanc,Female,88.0,22.0,78.0,2.0,High,80.0,2.6,82.0,False
-7766.0,Christina Mcintyre,Male,85.0,22.0,82.0,1.0,Medium,88.0,0.4,82.0,True
-2866.0,John Weber,Female,78.0,10.0,60.0,1.0,High,62.0,4.4,69.0,False
-8454.0,Timothy Austin,Female,91.0,18.0,88.0,0.0,High,68.0,0.4,88.0,False
-2742.0,Jeffrey Sullivan,Female,82.0,15.0,78.0,0.0,High,80.0,0.9,,False
-7637.0,Michael Noble,Female,88.0,22.0,86.0,1.0,Low,62.0,4.0,55.0,True
-3213.0,Christine Shah,Male,92.0,20.0,78.0,3.0,High,92.0,2.4,59.0,True
-8139.0,Lisa Maynard,Male,90.0,18.0,77.0,0.0,Medium,62.0,0.1,60.0,True
-8295.0,Lisa Lynch,Female,85.0,15.0,77.0,3.0,High,92.0,1.5,75.0,True
-6469.0,Angela Warren,Male,90.0,8.0,60.0,1.0,Low,88.0,3.0,85.0,False
-1606.0,Mary Benson,Female,70.0,,70.0,3.0,Low,,4.7,81.0,True
-1994.0,Yvonne Krueger,Male,70.0,22.0,88.0,2.0,High,85.0,4.5,76.0,False
-2915.0,Keith Bailey,Female,91.0,30.0,77.0,0.0,High,68.0,1.4,62.0,False
-6633.0,Barbara Case,Female,92.0,12.0,90.0,3.0,Low,90.0,4.6,95.0,False
-3148.0,Jamie Torres,Female,70.0,8.0,88.0,1.0,High,88.0,1.0,94.0,True
-8911.0,Justin Jacobs,Male,78.0,25.0,65.0,3.0,Medium,87.0,4.0,81.0,False
-4845.0,Kevin Reynolds,Male,82.0,15.0,,1.0,Medium,90.0,3.4,61.0,True
-2043.0,Michelle Kelly,Female,70.0,20.0,86.0,3.0,High,72.0,1.1,66.0,False
-6820.0,Terry Hernandez,Male,82.0,18.0,65.0,2.0,Low,87.0,3.5,78.0,False
-2817.0,Aaron Duarte,Male,91.0,22.0,85.0,2.0,High,72.0,0.5,90.0,True
-4365.0,Micheal Perez,Female,78.0,18.0,77.0,2.0,Medium,87.0,0.8,73.0,False
-3257.0,Troy Bradford,Male,92.0,17.0,60.0,1.0,High,78.0,1.7,82.0,True
-2396.0,Bobby Wilkinson,Female,95.0,8.0,88.0,3.0,High,72.0,2.1,64.0,True
-8025.0,Juan Lopez,Female,,17.0,70.0,1.0,High,78.0,0.7,50.0,True
-2389.0,Virginia Medina,Female,,8.0,65.0,0.0,High,,3.8,92.0,True
-1947.0,Leah Holmes,Female,70.0,8.0,,2.0,Low,90.0,4.5,50.0,False
-9647.0,Todd Brooks,Male,70.0,17.0,90.0,2.0,Low,88.0,3.3,94.0,False
-7627.0,Madeline Rush,Male,88.0,20.0,78.0,2.0,Medium,62.0,3.6,97.0,True
-,Ronnie Lee,Female,92.0,20.0,70.0,2.0,Medium,72.0,,90.0,True
-1383.0,Nicole Frederick,Male,82.0,22.0,82.0,3.0,Medium,62.0,4.9,57.0,True
-7110.0,Jason Adams,Female,82.0,30.0,85.0,1.0,Low,87.0,2.2,,True
-8424.0,Mallory Fletcher,Female,92.0,22.0,86.0,2.0,Low,92.0,1.8,68.0,True
-7187.0,David Cummings,,90.0,30.0,70.0,3.0,High,90.0,2.3,59.0,False
-7751.0,Kelly Suarez,Male,90.0,15.0,60.0,0.0,Medium,92.0,2.2,73.0,False
-9502.0,Drew Morse,,88.0,22.0,77.0,0.0,Medium,78.0,3.7,76.0,True
-3364.0,Lauren Stephens,Male,85.0,17.0,65.0,2.0,Low,87.0,3.5,79.0,False
-1534.0,Penny Miller,Male,82.0,30.0,85.0,3.0,Medium,87.0,0.6,86.0,False
-1659.0,Paula Stewart,Male,90.0,30.0,82.0,1.0,Medium,85.0,2.4,100.0,True
-3328.0,Jonathan Johnson,Female,85.0,18.0,82.0,3.0,High,78.0,0.0,85.0,False
-2106.0,Laura Ross,Male,70.0,17.0,86.0,2.0,Low,78.0,4.5,100.0,False
-8786.0,Brandy Wilson,Male,78.0,12.0,77.0,1.0,Low,78.0,0.7,96.0,False
-2463.0,Brittany Briggs,Female,70.0,25.0,60.0,1.0,Low,80.0,4.8,78.0,False
-2450.0,Carl Coleman,Male,85.0,22.0,82.0,2.0,Low,87.0,3.2,55.0,True
-9877.0,Crystal Chandler,Male,91.0,12.0,90.0,1.0,Low,80.0,0.6,84.0,True
-1310.0,Elizabeth Nichols,Female,92.0,25.0,86.0,1.0,High,,3.0,75.0,True
-9052.0,Jesse Barber,Male,95.0,,65.0,0.0,High,72.0,1.6,66.0,True
-2878.0,Julie Jackson,Male,82.0,10.0,82.0,0.0,High,85.0,3.8,59.0,False
-7672.0,Cindy Morales,Male,85.0,22.0,88.0,0.0,High,80.0,1.5,56.0,False
-3334.0,,Female,95.0,18.0,60.0,2.0,High,92.0,1.2,88.0,True
-9076.0,Ashley Franco,Female,90.0,18.0,78.0,1.0,Medium,72.0,2.0,,True
-7676.0,Kimberly Calderon,Male,85.0,18.0,70.0,3.0,Low,87.0,1.2,85.0,True
-5990.0,Lisa Brooks,Female,85.0,20.0,70.0,3.0,High,90.0,2.7,60.0,True
-9806.0,Destiny Todd,Female,82.0,17.0,78.0,1.0,Medium,88.0,1.4,60.0,True
-1985.0,Dawn Luna,Female,88.0,22.0,,,Medium,92.0,2.9,82.0,False
-1745.0,Jacob Yoder,Male,82.0,22.0,85.0,2.0,High,62.0,3.5,58.0,False
-8077.0,Martha Moody,Male,91.0,12.0,88.0,1.0,Low,85.0,4.9,95.0,False
-5473.0,James Torres,Male,95.0,30.0,90.0,1.0,Low,90.0,0.1,94.0,True
-,Joshua Robertson,Female,85.0,15.0,65.0,0.0,Low,78.0,3.8,84.0,True
-2270.0,Shelly Stuart,Male,85.0,20.0,88.0,0.0,Low,90.0,1.9,99.0,True
-3044.0,Julie Williams,Female,95.0,25.0,77.0,1.0,High,80.0,3.8,93.0,False
-4137.0,Tamara Jones,,91.0,18.0,90.0,3.0,Medium,90.0,0.2,81.0,True
-1116.0,Todd Orozco,Male,70.0,20.0,,3.0,Low,78.0,0.9,62.0,True
-2070.0,Jeffrey Torres,Male,90.0,10.0,82.0,3.0,High,72.0,3.6,67.0,True
-1378.0,Chad Colon,Female,82.0,17.0,78.0,,Low,80.0,-5.0,200.0,False
-7666.0,Alan Williams,Female,90.0,12.0,77.0,1.0,Medium,72.0,3.8,96.0,True
-1769.0,Cameron Austin,Female,,12.0,77.0,1.0,High,62.0,1.0,55.0,True
-4696.0,Dawn Nguyen,Female,90.0,25.0,90.0,0.0,Medium,85.0,0.3,90.0,True
-1456.0,Andrea Phillips,Female,70.0,15.0,86.0,1.0,Medium,92.0,0.5,65.0,False
-1891.0,Robert Bishop,Female,,,85.0,3.0,Low,78.0,3.8,90.0,False
-3045.0,Melanie Mckinney,Male,85.0,15.0,60.0,,Low,87.0,3.9,53.0,False
-1897.0,Joseph Ellis,Female,91.0,8.0,85.0,2.0,Low,80.0,2.8,68.0,False
-7581.0,Jennifer Smith,Male,91.0,8.0,90.0,3.0,Low,88.0,0.1,74.0,False
-8014.0,Vickie Holloway,Male,95.0,15.0,77.0,2.0,Medium,88.0,1.0,56.0,True
-2106.0,Nancy Munoz,Male,91.0,10.0,70.0,2.0,Medium,62.0,2.4,89.0,False
-4046.0,David Taylor,Male,,15.0,78.0,0.0,Medium,88.0,2.2,91.0,
-6098.0,Amber Gray,Male,78.0,17.0,82.0,3.0,Medium,85.0,1.8,50.0,True
-1939.0,Christian Barr,Male,82.0,12.0,78.0,0.0,Medium,92.0,4.9,90.0,True
-2120.0,Kimberly Harrison,,92.0,17.0,77.0,3.0,Low,90.0,4.3,,False
-5909.0,Mark Fleming,Female,95.0,10.0,85.0,1.0,High,78.0,1.1,,True
-4772.0,Felicia Carpenter,Female,,25.0,90.0,,Low,90.0,4.0,74.0,True
-7558.0,Rebecca Kelly,Male,85.0,30.0,78.0,2.0,Medium,80.0,2.8,59.0,False
-8215.0,Aaron Walls,Male,91.0,30.0,78.0,1.0,High,92.0,1.4,64.0,False
-3855.0,Mark King,Female,82.0,25.0,65.0,3.0,High,68.0,4.2,56.0,True
-3248.0,James Macdonald,Female,90.0,30.0,90.0,2.0,Medium,92.0,1.8,73.0,True
-9633.0,Alexander Thompson,Female,90.0,20.0,65.0,0.0,High,92.0,2.7,94.0,False
-6209.0,Kaitlin Walton,Female,92.0,,86.0,3.0,High,72.0,1.5,59.0,False
-5049.0,Ashley Kaufman,Male,88.0,10.0,70.0,3.0,Medium,92.0,3.6,100.0,False
-2062.0,Megan Bernard,Male,82.0,8.0,70.0,1.0,Medium,72.0,2.3,70.0,False
-9609.0,Kelly Harper,Female,85.0,17.0,82.0,3.0,Medium,88.0,3.2,63.0,True
-4325.0,Daniel White,Female,92.0,8.0,90.0,2.0,Medium,62.0,2.9,73.0,False
-2388.0,Justin Castro,,90.0,18.0,77.0,2.0,Medium,92.0,2.9,79.0,False
-7981.0,John Odonnell,Female,85.0,8.0,60.0,,Medium,90.0,1.4,51.0,True
-8236.0,Whitney Tapia,Male,88.0,20.0,88.0,2.0,,72.0,2.6,91.0,True
-5528.0,Jeff Lawrence,Male,90.0,20.0,85.0,1.0,High,72.0,,62.0,
-5096.0,Jeremy Shields,Female,88.0,25.0,86.0,0.0,Low,72.0,4.6,50.0,False
-5617.0,Matthew Davies,Female,70.0,8.0,86.0,1.0,Medium,72.0,4.9,59.0,False
-4728.0,Christine Hamilton,Male,92.0,17.0,90.0,2.0,Low,72.0,3.8,96.0,False
-6581.0,Crystal Proctor,Male,95.0,25.0,60.0,0.0,High,78.0,2.2,85.0,True
-,Tracy Kelley,Male,91.0,10.0,82.0,1.0,Medium,90.0,1.7,76.0,False
-7608.0,Victoria Mcbride,Female,95.0,22.0,78.0,3.0,High,68.0,0.8,71.0,False
-7247.0,Ellen Cross MD,Male,70.0,20.0,70.0,0.0,High,78.0,0.5,,False
-5991.0,David Stevens,Male,,20.0,70.0,0.0,High,88.0,2.4,61.0,True
-2138.0,Frank Brown DDS,Female,88.0,25.0,90.0,2.0,Low,72.0,0.3,53.0,False
-,Jenna Price,Male,78.0,30.0,60.0,0.0,High,87.0,0.6,76.0,False
-2126.0,Deborah Barajas,Female,,10.0,90.0,2.0,Medium,78.0,0.8,,False
-4325.0,Richard Howard Jr.,,88.0,25.0,78.0,0.0,Medium,87.0,4.1,88.0,True
-9615.0,Anita Dougherty,Female,91.0,17.0,77.0,1.0,Low,80.0,3.7,68.0,False
-6681.0,Alicia Watson,Female,70.0,22.0,65.0,0.0,High,68.0,4.5,96.0,False
-8501.0,Deborah Hunter,Female,78.0,22.0,85.0,0.0,Low,80.0,1.2,60.0,False
-9810.0,Morgan Gilbert,Female,90.0,25.0,77.0,0.0,Low,87.0,5.0,54.0,True
-9264.0,Taylor Crawford,Female,70.0,17.0,65.0,2.0,High,72.0,0.2,51.0,True
-8567.0,Danny Sanchez,Female,95.0,8.0,90.0,0.0,High,80.0,1.3,95.0,
-6359.0,Cory Rosario DDS,Female,85.0,17.0,85.0,2.0,Low,92.0,3.6,78.0,True
-8713.0,,Female,78.0,,78.0,3.0,High,68.0,1.5,84.0,False
-3759.0,Kyle Perez,Male,85.0,18.0,65.0,1.0,Medium,68.0,1.1,52.0,True
-8242.0,Kelly Gibson MD,Male,82.0,20.0,60.0,2.0,Medium,80.0,3.0,53.0,False
-4305.0,Angela Garcia,Male,95.0,25.0,90.0,2.0,High,62.0,0.1,50.0,False
-4148.0,Dylan Vaughan,Male,92.0,20.0,65.0,0.0,High,62.0,2.6,70.0,False
-4105.0,Kevin Santiago,Male,82.0,8.0,60.0,2.0,High,92.0,0.5,70.0,True
-1245.0,Terry Rodriguez,Female,95.0,15.0,60.0,3.0,Medium,92.0,0.3,67.0,False
-1719.0,Chad Mason,Male,92.0,8.0,82.0,3.0,Medium,87.0,3.6,100.0,True
-5127.0,Jessica Ferguson,Male,91.0,30.0,60.0,0.0,Medium,68.0,3.2,94.0,False
-8899.0,Andrew Schroeder,,95.0,,86.0,3.0,Medium,62.0,2.6,97.0,True
-9248.0,Jeffrey Garcia,Male,,15.0,86.0,,Medium,92.0,3.7,98.0,True
-2300.0,Jason Hood,Male,78.0,30.0,77.0,2.0,High,68.0,1.9,91.0,True
-4900.0,Sandra Leon,Female,,10.0,,1.0,Low,80.0,2.6,76.0,False
-1388.0,Tyler Mccormick,Male,95.0,30.0,90.0,3.0,Low,80.0,4.5,92.0,True
-4644.0,Megan Murphy,Female,82.0,30.0,65.0,1.0,Low,80.0,0.3,81.0,True
-4153.0,Charles Vincent,Male,78.0,,65.0,2.0,High,88.0,2.7,100.0,True
-4871.0,Mrs. Cindy Sharp DVM,Male,70.0,17.0,82.0,,Low,92.0,1.2,61.0,True
-5966.0,,Female,91.0,17.0,90.0,2.0,Medium,87.0,4.8,73.0,False
-7188.0,Sarah Dixon,Male,85.0,17.0,60.0,2.0,Low,62.0,3.8,,False
-1324.0,Teresa Rodriguez,Female,70.0,20.0,82.0,3.0,Low,68.0,2.8,61.0,False
-7233.0,Shannon Spencer,Female,88.0,17.0,82.0,0.0,Low,88.0,2.4,71.0,True
-8688.0,Darlene Tapia,Male,78.0,25.0,78.0,1.0,Low,90.0,2.5,76.0,False
-7113.0,Ryan Ball,Female,85.0,18.0,86.0,2.0,Medium,80.0,5.0,57.0,False
-3660.0,Anita Berger,Male,70.0,18.0,88.0,2.0,Low,78.0,3.2,73.0,True
-7313.0,Tom Bradley,,92.0,25.0,77.0,1.0,Medium,80.0,3.5,91.0,True
-5281.0,Melinda Cummings,Female,78.0,18.0,90.0,3.0,Low,68.0,0.1,99.0,True
-7297.0,Melissa Donaldson,Female,91.0,20.0,70.0,3.0,Medium,68.0,4.1,66.0,False
-9202.0,Charles Pearson,Female,91.0,18.0,60.0,2.0,High,,3.9,72.0,True
-5407.0,Isaiah Moore,,70.0,18.0,78.0,0.0,Medium,80.0,0.5,99.0,False
-9600.0,Jonathan Ramirez,,88.0,8.0,65.0,0.0,Medium,68.0,3.5,62.0,False
-3981.0,Mrs. Melanie Mueller,Male,85.0,22.0,90.0,0.0,High,80.0,3.7,98.0,True
-5249.0,Ms. Heather Dean,Female,85.0,22.0,85.0,0.0,High,85.0,0.4,57.0,False
-2052.0,David Malone,Female,85.0,22.0,90.0,1.0,Medium,87.0,0.0,67.0,True
-1685.0,Melissa Brown,Male,92.0,12.0,78.0,0.0,Low,72.0,4.9,98.0,False
-8961.0,Jason Woods,Female,95.0,22.0,60.0,1.0,Medium,90.0,5.0,65.0,False
-7528.0,Rachel Diaz,Female,91.0,15.0,88.0,1.0,High,80.0,2.3,94.0,False
-3275.0,Michael Jones,Male,91.0,20.0,70.0,2.0,Low,92.0,1.8,89.0,False
-9436.0,Taylor Mcgee,Female,92.0,15.0,88.0,1.0,Low,90.0,4.4,97.0,False
-8279.0,Christopher Ray,Male,91.0,17.0,60.0,3.0,High,90.0,2.1,80.0,True
-7305.0,Alyssa Berg MD,Female,91.0,25.0,65.0,,Low,,0.2,81.0,True
-,Jordan Thornton,Female,78.0,17.0,85.0,1.0,Low,72.0,1.2,63.0,True
-2465.0,Dr. James Henry DDS,Male,70.0,15.0,65.0,1.0,Medium,85.0,1.1,66.0,False
-3016.0,James Stevens,Male,82.0,17.0,85.0,1.0,High,88.0,3.8,88.0,True
-6623.0,Kevin Marquez,Female,70.0,12.0,60.0,3.0,High,85.0,0.6,55.0,True
-2460.0,Colleen Porter,Female,91.0,25.0,85.0,3.0,Medium,68.0,4.3,74.0,True
-6092.0,Christian Odom,Male,91.0,12.0,90.0,0.0,Medium,90.0,3.9,93.0,True
-9515.0,Calvin Macias,Male,90.0,8.0,78.0,2.0,Medium,90.0,0.7,68.0,True
-9189.0,Kim Fischer,Female,78.0,22.0,82.0,0.0,Low,80.0,3.0,69.0,True
-5480.0,Travis Schultz,Female,92.0,17.0,82.0,0.0,High,90.0,0.8,95.0,True
-4687.0,Bonnie Morris,Male,78.0,17.0,60.0,2.0,Low,68.0,5.0,85.0,False
-6528.0,Tiffany Morris,Female,85.0,30.0,60.0,0.0,High,72.0,3.6,68.0,
-9978.0,Paul Poole,Female,90.0,10.0,88.0,3.0,High,85.0,2.3,60.0,True
-8239.0,Richard Perez,Female,,10.0,90.0,3.0,Low,92.0,3.7,50.0,False
-2670.0,Bernard Whitaker,Male,70.0,8.0,65.0,1.0,High,90.0,4.9,61.0,True
-2922.0,Melinda Miller,Female,91.0,8.0,65.0,0.0,High,80.0,0.6,75.0,False
-5959.0,Christina Gonzales,Male,70.0,20.0,77.0,0.0,Medium,78.0,1.8,57.0,True
-2353.0,Maria Gray,Male,85.0,12.0,90.0,1.0,Low,88.0,4.9,,False
-2549.0,Mary Bennett,Male,70.0,17.0,60.0,2.0,Low,68.0,0.5,54.0,True
-7640.0,Dr. Erik Pineda,Male,70.0,12.0,70.0,2.0,Medium,87.0,2.6,87.0,True
-4399.0,Sandra Burns,Male,78.0,22.0,65.0,1.0,Low,78.0,4.0,57.0,True
-3110.0,Patricia Hunt,Male,78.0,20.0,70.0,2.0,High,87.0,4.9,,False
-6956.0,Erika Kennedy,Male,70.0,15.0,90.0,2.0,High,72.0,4.5,68.0,False
-3291.0,Timothy Newman,Female,95.0,12.0,88.0,3.0,Low,72.0,1.0,56.0,
-4884.0,Tanya Bowen,Male,92.0,10.0,82.0,3.0,,88.0,2.8,87.0,False
-5544.0,Rhonda Davenport,Male,91.0,8.0,85.0,2.0,Medium,85.0,1.9,60.0,False
-8472.0,Cheryl Brown,Male,88.0,8.0,65.0,2.0,High,87.0,3.1,67.0,True
-7097.0,Angela Bridges,Male,70.0,10.0,88.0,0.0,Medium,80.0,4.8,65.0,True
-5425.0,Brandon Rasmussen,Male,82.0,20.0,70.0,0.0,High,90.0,3.2,73.0,False
-5476.0,Ryan Beltran,Male,92.0,18.0,78.0,,Medium,92.0,1.9,56.0,True
-3879.0,Allison Novak,Female,91.0,17.0,85.0,2.0,Medium,88.0,4.3,85.0,False
-,Matthew Winters,Male,78.0,30.0,60.0,0.0,Medium,72.0,2.8,75.0,False
-3090.0,Kirsten Davis,Female,85.0,12.0,,0.0,High,62.0,2.8,,True
-7064.0,Paige Turner,Male,91.0,8.0,77.0,0.0,Medium,,4.0,82.0,False
-5519.0,Aimee Christensen,Female,,25.0,82.0,2.0,Medium,62.0,3.9,55.0,True
-2256.0,Jessica Howard,Male,90.0,10.0,86.0,1.0,High,85.0,2.8,81.0,True
-7946.0,Lisa Zhang,Male,85.0,17.0,70.0,2.0,Low,87.0,2.0,89.0,True
-1119.0,Jonathan Daniel,Female,,30.0,90.0,2.0,Low,88.0,0.2,78.0,True
-9577.0,Cheyenne Oliver,Male,78.0,,88.0,0.0,,90.0,4.8,77.0,False
-7211.0,Brianna Henderson,Male,95.0,20.0,88.0,3.0,Low,87.0,1.5,80.0,False
-5337.0,Mark Sanchez,Male,85.0,22.0,60.0,3.0,Medium,72.0,4.1,52.0,False
-8999.0,Melissa Nguyen,Male,95.0,15.0,86.0,1.0,Medium,85.0,1.8,50.0,False
-4050.0,Jeff Carney,,95.0,15.0,85.0,0.0,Medium,92.0,0.4,82.0,True
-7729.0,Tammy Tanner,Male,,15.0,65.0,2.0,,78.0,2.0,69.0,False
-8017.0,Donna Robinson,Male,,18.0,85.0,1.0,Low,78.0,0.8,72.0,False
-1095.0,Eric Wilson,Female,92.0,20.0,90.0,2.0,High,68.0,2.0,97.0,False
-1517.0,Linda Armstrong,Male,92.0,17.0,82.0,2.0,Medium,78.0,2.8,93.0,True
-6322.0,Russell Jones,Female,82.0,8.0,65.0,,High,80.0,0.6,72.0,True
-4874.0,Darlene Burton,,95.0,8.0,86.0,1.0,Medium,78.0,1.4,81.0,True
-8027.0,Faith Johnson,Male,91.0,10.0,70.0,0.0,High,85.0,3.8,66.0,True
-8031.0,Nathan Miller,Male,85.0,20.0,70.0,3.0,High,92.0,5.0,87.0,True
-4758.0,Donna Fowler,Male,78.0,,78.0,2.0,High,68.0,2.1,89.0,True
-2489.0,Whitney Jefferson,Male,70.0,8.0,70.0,2.0,Low,92.0,1.1,77.0,False
-2005.0,Shane Sanders,Female,85.0,18.0,85.0,2.0,Medium,85.0,4.7,95.0,False
-5046.0,Felicia Cline,Female,85.0,10.0,78.0,1.0,High,90.0,1.1,80.0,False
-2650.0,Jennifer Clark,Female,78.0,18.0,,1.0,Medium,85.0,0.6,92.0,True
-3134.0,Miss Carla Coleman MD,Female,95.0,30.0,86.0,2.0,Low,90.0,1.2,67.0,True
-7292.0,William Nelson,Male,90.0,10.0,86.0,2.0,High,88.0,,91.0,True
-4160.0,Crystal Brown,Female,90.0,20.0,70.0,3.0,Medium,85.0,3.6,98.0,True
-9741.0,Erica Miller,Male,85.0,10.0,90.0,0.0,Low,85.0,4.5,98.0,False
-6996.0,,Female,90.0,8.0,85.0,1.0,Medium,72.0,4.7,82.0,True
-3735.0,,Female,78.0,18.0,78.0,3.0,High,,3.7,75.0,False
-9723.0,Emily Martin,,78.0,17.0,70.0,,Low,62.0,2.0,67.0,True
-4015.0,Erica Miller,Male,78.0,22.0,90.0,3.0,Low,80.0,4.4,100.0,False
-9254.0,Wesley May,Female,88.0,25.0,82.0,2.0,Low,87.0,0.9,52.0,True
-5781.0,Christopher Atkinson,Male,78.0,18.0,65.0,2.0,High,92.0,4.9,63.0,True
-1022.0,Blake Martinez,Female,91.0,30.0,88.0,2.0,Low,72.0,1.3,58.0,False
-5831.0,Joy Henderson,,85.0,,88.0,3.0,Low,85.0,0.9,51.0,True
-7258.0,Mary Ramos,Female,91.0,12.0,90.0,1.0,High,90.0,1.3,87.0,False
-3550.0,Colleen Sanchez,Female,92.0,8.0,88.0,0.0,Medium,87.0,2.5,79.0,True
-3885.0,David Cruz,Male,91.0,17.0,65.0,,High,85.0,0.8,61.0,False
-4077.0,Ralph Becker,Male,78.0,20.0,60.0,3.0,Medium,62.0,0.5,83.0,True
-1193.0,Denise Coleman,Male,70.0,8.0,78.0,2.0,High,80.0,0.7,99.0,True
-5385.0,,Male,91.0,15.0,78.0,2.0,Low,90.0,4.3,55.0,True
-3281.0,Samantha Mendoza,Female,91.0,,65.0,2.0,Medium,78.0,0.8,53.0,False
-9906.0,Sean Lyons,Male,,15.0,85.0,2.0,Medium,,2.6,76.0,True
-1019.0,Anthony Smith,Male,85.0,25.0,60.0,0.0,High,90.0,3.3,64.0,False
-2841.0,Deborah Hernandez,Female,78.0,20.0,90.0,2.0,Medium,90.0,0.4,71.0,True
-6906.0,Kristi Price,Male,85.0,22.0,65.0,0.0,Medium,72.0,1.7,61.0,False
-3461.0,Alex Douglas,Female,91.0,18.0,88.0,2.0,Medium,78.0,3.3,66.0,True
-1035.0,Ian Mcdonald,Male,78.0,30.0,65.0,0.0,Medium,78.0,4.1,57.0,False
-5562.0,David Bauer,Male,90.0,30.0,65.0,0.0,Medium,90.0,1.6,77.0,False
-7782.0,Steven Hill,Female,78.0,25.0,60.0,0.0,Low,78.0,,81.0,True
-7301.0,Linda Beasley,Male,91.0,8.0,70.0,3.0,Low,92.0,3.5,65.0,False
-1046.0,Maria Edwards,Male,85.0,,70.0,1.0,High,87.0,0.3,72.0,False
-3283.0,Megan Hutchinson,Female,85.0,10.0,70.0,0.0,High,92.0,4.1,53.0,True
-2920.0,Jaime Simon,,70.0,15.0,60.0,1.0,High,87.0,3.3,54.0,
-3591.0,Thomas Freeman,Male,78.0,30.0,65.0,2.0,High,87.0,0.1,76.0,True
-,Nancy Gibson,Female,78.0,12.0,82.0,1.0,Medium,90.0,2.2,91.0,True
-5698.0,Holly Leon,Male,78.0,15.0,78.0,3.0,High,72.0,,,False
-8443.0,Travis Pierce,Female,91.0,12.0,82.0,3.0,Medium,68.0,1.4,55.0,False
-,Nina Fowler,Male,70.0,22.0,78.0,3.0,Medium,68.0,4.1,85.0,True
-8674.0,Kristen Galloway,Female,95.0,8.0,60.0,0.0,High,90.0,3.2,62.0,False
-2776.0,Raven Taylor,Male,90.0,30.0,86.0,1.0,High,92.0,1.4,84.0,True
-2070.0,Samuel Robinson,Male,91.0,15.0,82.0,3.0,Low,92.0,3.2,52.0,
-5410.0,Christina Johnson,Male,91.0,22.0,78.0,3.0,,80.0,0.2,55.0,False
-1138.0,Holly Spencer,Female,88.0,8.0,70.0,3.0,Medium,62.0,3.6,58.0,True
-6428.0,Jessica Davies,Female,82.0,20.0,70.0,0.0,High,88.0,4.0,,True
-5753.0,Daniel Sullivan,Male,78.0,17.0,85.0,2.0,Low,92.0,4.4,93.0,True
-3638.0,Richard Franklin,Female,85.0,10.0,88.0,2.0,Medium,88.0,4.3,77.0,True
-7350.0,Samantha Klein,Male,92.0,22.0,86.0,2.0,High,88.0,3.1,81.0,True
-1244.0,Becky Perkins,Male,88.0,12.0,85.0,1.0,High,78.0,1.6,68.0,
-2116.0,Kimberly Pena,Female,91.0,30.0,88.0,2.0,High,68.0,3.6,79.0,False
-8753.0,Rebecca Burnett,,85.0,10.0,85.0,3.0,Medium,80.0,1.8,68.0,False
-7701.0,Anna Martinez,Male,85.0,30.0,70.0,3.0,Medium,90.0,0.4,76.0,False
-,James Garcia,Male,91.0,15.0,90.0,2.0,High,68.0,4.3,68.0,False
-3592.0,Monica Johnson,Female,90.0,25.0,60.0,1.0,Low,87.0,1.7,79.0,False
-2787.0,Shannon Porter,Male,78.0,20.0,60.0,0.0,High,62.0,1.6,70.0,False
-,Kenneth Murray,Male,85.0,20.0,,1.0,High,72.0,0.8,80.0,True
-4497.0,Amy Stout,Female,91.0,,86.0,0.0,High,90.0,3.9,80.0,True
-1886.0,,Male,85.0,8.0,82.0,2.0,Low,68.0,0.4,54.0,False
-7636.0,Joseph Sherman,Male,88.0,17.0,60.0,2.0,High,85.0,0.9,53.0,True
-8021.0,Maria Walls,Female,88.0,10.0,90.0,1.0,Medium,,2.4,94.0,True
+StudentID	Name	AttendanceRate	StudyHoursPerWeek	PreviousGrade	AssignmentScore	FinalGrade	Performance	InternalMarks	AttendancePercent	StudyConsistency	ParticipationScore
+1	Student_1	89.75	7.55	69.44	60.86	66.97	Average	69.46	89.75	27.07	64.06
+2	Student_2	95.2	18.13	84.15	85.3	83.72	Good	82.25	95.2	73.24	87.94
+3	Student_3	98.59	22.12	98.95	78.11	93.27	Good	94.74	98.59	94.52	93.62
+4	Student_4	88.46	5.99	51.6	72.05	64.3	Average	60.59	88.46	12.73	65.76
+5	Student_5	86.05	5.54	69.09	59.64	54.08	Average	53.83	86.05	30.07	58.06
+6	Student_6	83.29	21.85	89.96	88.08	83.97	Good	86.42	83.29	85.37	79.1
+7	Student_7	86.93	8.32	69.6	65.1	59.39	Average	60.14	86.93	35.84	68.53
+8	Student_8	76.57	7.32	67.94	66.56	55.78	Average	57.68	76.57	32.37	44.72
+9	Student_9	97.99	14.53	86.31	97.66	90.61	Good	85.97	97.99	61.8	83.34
+10	Student_10	52.92	7.58	48.2	43.37	32.77	Fail	29.82	52.92	30.63	41.82
+11	Student_11	95.88	18.54	86	97.35	94.71	Good	91.84	95.88	75.64	98.84
+12	Student_12	53.79	3.18	37.21	53.6	30.67	Fail	29.29	53.79	14.17	48.45
+13	Student_13	79.25	12.39	71.04	62.87	70.45	Average	77.24	79.25	46.41	70.93
+14	Student_14	82.21	22.39	73.82	84.93	94.93	Good	93.16	82.21	80.77	100
+15	Student_15	83	11.9	91.67	93	91.03	Good	85.31	83	41.5	78.03
+16	Student_16	93.88	17.23	77.55	83.64	79.54	Good	82.25	93.88	68.4	69.65
+17	Student_17	72.71	5.08	41.62	46.55	48.85	Fail	55.58	72.71	16.39	55.12
+18	Student_18	83.07	17.97	85.18	90.29	75.45	Good	69.14	83.07	67.96	63.27
+19	Student_19	97.44	23.85	86.95	92.42	98.06	Good	100	97.44	100	96.68
+20	Student_20	67.68	2.07	46.71	50.17	38.44	Fail	40.52	67.68	12.57	46.61
+21	Student_21	83.41	14.28	72.21	65.37	52.82	Average	57.99	83.41	55.86	56.33
+22	Student_22	74.62	6.87	33.62	58.02	47.31	Fail	54.65	74.62	30.84	47.39
+23	Student_23	77.97	10.5	59.58	56.26	58.35	Average	63.21	77.97	39.9	55.21
+24	Student_24	85.07	4.05	58	64.16	63.38	Average	62.83	85.07	16.75	64.8
+25	Student_25	73	3.42	40.06	53.44	39	Fail	45.09	73	15.89	43.04
+26	Student_26	55.62	4.17	34.08	39.41	39.92	Fail	41.19	55.62	14.59	35.29
+27	Student_27	60.47	7.4	40.51	49.51	42.58	Fail	48.03	60.47	26.17	45.18
+28	Student_28	80.26	19.28	75.34	99.03	78.72	Good	84.72	80.26	83.24	86.27
+29	Student_29	88.29	9.45	99.91	87.55	89.88	Good	84.43	88.29	40.87	88.32
+30	Student_30	81.34	20.75	76.3	97.45	80.13	Good	84.1	81.34	71.73	80.61
+31	Student_31	69.77	4.4	61.33	67.99	51.64	Average	50.73	69.77	14.26	55.03
+32	Student_32	69.39	4.17	45.21	46.02	37.98	Fail	38.67	69.39	12.77	41.84
+33	Student_33	78.99	5.71	54.37	74.82	73.56	Average	74.2	78.99	19.73	79.71
+34	Student_34	74.33	6.98	65.46	64.4	50.63	Average	51.06	74.33	32.23	43.53
+35	Student_35	68.9	11.88	65.81	55.62	55.53	Average	63.15	68.9	47.62	51.83
+36	Student_36	55.78	5.7	30.57	37.6	45.92	Fail	39.09	55.78	15.85	42.48
+37	Student_37	83.57	19.1	77.15	77.49	81.08	Good	72.47	83.57	74.48	74.75
+38	Student_38	83.06	13.41	69.93	64.14	66.64	Average	56.97	83.06	56.35	54.05
+39	Student_39	84.1	12.98	96.89	75.33	77.14	Good	82.49	84.1	50.82	54.36
+40	Student_40	55.2	1.19	35.26	49.58	38.39	Fail	34.52	55.2	1.54	46.76
+41	Student_41	72.32	6.72	39.91	41.49	37.56	Fail	38.22	72.32	28.54	26.68
+42	Student_42	64.76	2.88	48.1	45.24	40.99	Fail	40.42	64.76	19.61	51.96
+43	Student_43	60.9	3.06	57.51	54.09	32.79	Fail	28.36	60.9	14.55	37.97
+44	Student_44	97.37	16.29	96.84	95	85.63	Good	89.89	97.37	71.66	82.79
+45	Student_45	50.56	2.88	45.71	50.84	35.13	Fail	34.49	50.56	8.63	39.44
+46	Student_46	53.48	6.84	58.55	48.14	33.42	Fail	32.23	53.48	27.32	36.4
+47	Student_47	85.45	8.31	97.43	77.94	89.41	Good	90.57	85.45	33.1	81.7
+48	Student_48	71.85	10.1	65.63	74.08	55.14	Average	58.74	71.85	40.99	55.04
+49	Student_49	65.27	5.51	71.6	75.1	64.88	Average	60.09	65.27	24.24	58.02
+50	Student_50	92.01	19.31	75.26	97.86	85.47	Good	89.83	92.01	72.65	90.05
+51	Student_51	74.58	9.71	51.13	58.82	68.38	Average	75.63	74.58	42.08	63.37
+52	Student_52	81.66	18.25	77.36	84.73	82.22	Good	75.09	81.66	64.86	81.54
+53	Student_53	58.89	6.03	38.62	49.16	39.47	Fail	40.86	58.89	17.44	38.49
+54	Student_54	81.59	14.31	67.58	59.94	50.78	Average	49.26	81.59	67.92	51.63
+55	Student_55	56.56	5.17	31.49	47.41	41.88	Fail	45.38	56.56	18.13	53.52
+56	Student_56	58.36	6.4	33.09	36.88	44.49	Fail	38.41	58.36	29.25	42.8
+57	Student_57	77.39	11.57	60.44	60.67	70.4	Average	78.54	77.39	54.77	78.93
+58	Student_58	69.99	5.86	37.89	49.76	37.18	Fail	29.14	69.99	11.87	40.54
+59	Student_59	52.29	7.42	33.97	58.76	38.88	Fail	37.66	52.29	35.31	48.81
+60	Student_60	83.7	17.21	96.19	93.31	95.16	Good	97.33	83.7	72.08	92.79
+61	Student_61	66.47	5.85	54.63	41.24	39.74	Fail	36.31	66.47	31.6	44.61
+62	Student_62	55.53	7.91	57.38	35.99	44.04	Fail	39.82	55.53	25.73	43.63
+63	Student_63	88.13	5.99	63.63	76.06	50.85	Average	51.96	88.13	31.22	29.92
+64	Student_64	67.44	3.08	56.81	59.28	48.79	Fail	49.18	67.44	8.62	41.16
+65	Student_65	76.86	13.48	70.27	62.34	70.64	Average	70.67	76.86	59.19	74.72
+66	Student_66	80.74	18.14	76.9	78.01	76.92	Good	81.21	80.74	72.38	80.53
+67	Student_67	82.41	7.74	67.39	56.5	57.85	Average	55.88	82.41	34.81	48.79
+68	Student_68	90.79	21.44	79.56	90.65	97.15	Good	98.75	90.79	86	98.69
+69	Student_69	65.4	2.63	30.71	56.75	30.42	Fail	27.89	65.4	1.32	33.94
+70	Student_70	86.87	9.82	72.54	73.37	74.85	Average	70.6	86.87	23.68	74.61
+71	Student_71	58.77	6.37	41.66	47	42.49	Fail	41.07	58.77	26.53	47.59
+72	Student_72	86.84	14.82	68.44	64.61	60.49	Average	58	86.84	57.96	64.64
+73	Student_73	83.44	6.63	52.65	63.16	57.15	Average	54.91	83.44	28.51	56.9
+74	Student_74	85.93	11.97	71.26	75.45	99.69	Good	100	85.93	46.62	96.11
+75	Student_75	60.69	3.69	49.71	40.46	48.9	Fail	47.63	60.69	24.85	56.2
+76	Student_76	69.66	1.63	42.11	56.98	48.8	Fail	45.49	69.66	7.67	52.04
+77	Student_77	76.69	10.75	54.01	77.8	55.77	Average	55.91	76.69	40.77	46.1
+78	Student_78	73.57	5.55	47.62	47.82	34.59	Fail	35.11	73.57	23.89	36.14
+79	Student_79	69.41	6.43	54.47	72.93	58.72	Average	52.79	69.41	23.58	50.66
+80	Student_80	51.45	7.78	55.63	58.19	49.8	Fail	48.31	51.45	31.58	43.05
+81	Student_81	83.48	14.74	92.75	92.4	78.85	Good	77.16	83.48	52.87	74.29
+82	Student_82	70.4	2.57	36.49	48.42	41.8	Fail	40.94	70.4	10.24	42.11
+83	Student_83	64.5	1.64	55.45	41.64	32.58	Fail	36.21	64.5	4.17	35.2
+84	Student_84	72.22	7.69	55	55.24	43.04	Fail	43.72	72.22	25.15	40.18
+85	Student_85	63.77	1.61	41.85	44.32	35.17	Fail	41.31	63.77	16.32	32.61
+86	Student_86	83.09	9.45	51.95	60.06	67.01	Average	66.95	83.09	32.38	63.49
+87	Student_87	81.52	22.47	84.85	87.01	89.81	Good	98.69	81.52	89.91	97.14
+88	Student_88	96.49	13.91	90.34	89.14	81.68	Good	79.38	96.49	51.63	61.71
+89	Student_89	97.57	21.56	89.75	96.26	96.68	Good	92.83	97.57	87.73	94.52
+90	Student_90	67.71	6.86	50.23	52	42.31	Fail	45.05	67.71	21.07	53.12
+91	Student_91	83.82	5.74	71.14	75.05	50.73	Average	57.55	83.82	27.16	54.35
+92	Student_92	85.65	5.42	58.04	72.1	54	Average	47.11	85.65	31.86	62.87
+93	Student_93	85.45	13.15	62.18	55.15	57.15	Average	56.17	85.45	48.4	42.91
+94	Student_94	65.42	7.87	48.32	41.5	42.62	Fail	39.57	65.42	37.56	33.92
+95	Student_95	90.8	21.26	73.21	94.03	88.53	Good	89.24	90.8	83.13	92.13
+96	Student_96	89.07	7.76	65.18	76.44	52.55	Average	52.6	89.07	38.57	63.4
+97	Student_97	98.74	19.69	72.04	82.52	92.7	Good	99.43	98.74	89.7	84.71
+98	Student_98	51.68	5.08	40.03	50.52	30.91	Fail	30.37	51.68	19.15	28.2
+99	Student_99	71.79	7.81	58.1	53.74	32.59	Fail	39.46	71.79	23.64	35.4
+100	Student_100	95.17	8.42	70.66	83.09	87.22	Good	85.64	95.17	38.42	77.05
+101	Student_101	95.41	19.62	83.38	81.84	99.93	Good	100	95.41	79.6	100
+102	Student_102	75.65	8.97	53.93	73.28	67.27	Average	68.41	75.65	38.39	48.54
+103	Student_103	84.42	9.4	90.41	91.36	81.83	Good	90.48	84.42	35.9	85.28
+104	Student_104	73.77	2.06	42.54	58.59	38.35	Fail	30.96	73.77	3.82	31.38
+105	Student_105	80.96	8.37	56.58	77.63	60.19	Average	54.37	80.96	39.28	57.06
+106	Student_106	87.35	6.53	55.11	55.72	66.23	Average	75.39	87.35	27.72	70.79
+107	Student_107	74.21	13.51	61.36	77.27	54.62	Average	50.95	74.21	46.82	57.75
+108	Student_108	97.37	21.2	93.13	96.12	94.03	Good	90.68	97.37	88.23	93.97
+109	Student_109	65.66	1.92	30.94	58.02	42.27	Fail	37.89	65.66	10.11	49.05
+110	Student_110	95.93	16.19	73.52	78.13	92.14	Good	97.88	95.93	63.13	80.24
+111	Student_111	75.76	6.21	61.8	56.48	64.49	Average	58.22	75.76	32.94	65.92
+112	Student_112	85.38	21.56	79.31	86.38	75.29	Good	75.4	85.38	83.15	69.76
+113	Student_113	81.45	14.67	84.4	90	82.29	Good	80.96	81.45	57.84	88.72
+114	Student_114	93.9	22.62	93.4	75.99	87.01	Good	92.19	93.9	94.32	91.82
+115	Student_115	52.62	2.69	58.61	38.56	39.93	Fail	37.11	52.62	11.14	44.99
+116	Student_116	80.45	11.73	63.43	55.22	58.13	Average	60.21	80.45	40	69.65
+117	Student_117	62.94	1.62	40.17	35.83	31.56	Fail	25.7	62.94	7.4	39.44
+118	Student_118	87.94	10.26	87.03	92.24	95.01	Good	100	87.94	38.97	93.91
+119	Student_119	70	5.84	52.51	69.64	67.59	Average	66.39	70	27.64	67.58
+120	Student_120	50.79	7.55	31.51	48.53	44.11	Fail	44.15	50.79	30.96	48.32
+121	Student_121	97.42	20.14	94.05	83.49	95.37	Good	100	97.42	81.03	96.32
+122	Student_122	67	13.84	63.14	73.8	61.26	Average	58.33	67	50.12	66.2
+123	Student_123	92.87	16.95	91.95	77.04	76.51	Good	84.85	92.87	66.65	60.9
+124	Student_124	56.18	2.12	55.28	40.48	49.42	Fail	47.36	56.18	13.33	62.59
+125	Student_125	58.42	2.27	52.9	51.47	39.91	Fail	43.27	58.42	5.2	40.34
+126	Student_126	78.88	11.91	55.48	77.92	74.27	Average	71.41	78.88	47.48	62.91
+127	Student_127	81.26	6.19	66.33	56.66	50.76	Average	43.98	81.26	20.08	44.36
+128	Student_128	71.44	9.09	70.84	71.72	68.49	Average	70.56	71.44	30.44	53.58
+129	Student_129	88.51	13.88	81.13	99.69	76	Good	79.2	88.51	55.1	68.37
+130	Student_130	97.34	17.84	83.16	93.13	87.17	Good	80.59	97.34	72.23	86.17
+131	Student_131	86.84	13.91	60.12	61.37	64.75	Average	63.21	86.84	65.61	75.35
+132	Student_132	98.25	11.58	88.69	90.79	93.33	Good	99.33	98.25	44.04	96.2
+133	Student_133	53.29	6.01	56.36	39.49	34.73	Fail	37.73	53.29	23.79	36.36
+134	Student_134	99.43	11.08	95.63	87.31	81.18	Good	79.2	99.43	38.07	73.23
+135	Student_135	86.77	8.9	62.36	63.26	64.76	Average	61.77	86.77	38.66	58.99
+136	Student_136	54.09	3.74	58.11	41.45	43.07	Fail	52.81	54.09	16.95	37.84
+137	Student_137	58.13	6.41	33.8	59.25	39.03	Fail	31.8	58.13	33.08	34.09
+138	Student_138	55.9	1.51	34.92	47.99	36.71	Fail	36.41	55.9	11.6	34.25
+139	Student_139	70.72	4.02	37.21	50.43	44.06	Fail	36.74	70.72	17.84	42.13
+140	Student_140	54.18	2.17	31.06	53.41	43.21	Fail	49.78	54.18	6.33	40.84
+141	Student_141	61.87	6.91	53.36	49.63	47.28	Fail	47.24	61.87	28.66	42.58
+142	Student_142	55.15	1.78	37.82	36.43	40.57	Fail	41.46	55.15	6.56	41.52
+143	Student_143	98.73	8.67	73.66	86.3	98.35	Good	100	98.73	39.45	96.15
+144	Student_144	57.9	4.55	31.21	38.71	49.63	Fail	46.66	57.9	22.33	38.46
+145	Student_145	99.3	8.08	98.55	90.98	96.7	Good	100	99.3	30.84	96.94
+146	Student_146	89.09	16.77	84.67	91.67	78.49	Good	76.54	89.09	59.77	77.67
+147	Student_147	80.6	13.23	91.14	80.05	91.84	Good	90.67	80.6	59.59	80.78
+148	Student_148	74.25	1.66	49.51	46.09	47.28	Fail	60.47	74.25	9.55	43.14
+149	Student_149	83.54	19.77	95.14	98.62	92.08	Good	91.27	83.54	77.48	96.26
+150	Student_150	62.43	5.32	55.2	49.27	30.6	Fail	23.73	62.43	23.99	22.64
+151	Student_151	88.27	11.58	66.24	59.96	66.41	Average	67.82	88.27	46.69	57.71
+152	Student_152	59.85	5.56	33.09	51.45	49.89	Fail	49.03	59.85	28.83	47.62
+153	Student_153	80.96	24.61	82.21	96.77	94.56	Good	96.4	80.96	88.79	98.92
+154	Student_154	79.18	12.12	71.08	64.3	58.14	Average	57.47	79.18	46.49	70.81
+155	Student_155	93.35	21.73	92.87	94.95	85.89	Good	96.97	93.35	94.92	90.5
+156	Student_156	85.45	5.32	63.07	55.13	58.08	Average	60.86	85.45	24.1	65.67
+157	Student_157	59.16	3.77	50.17	44.71	38.93	Fail	33.56	59.16	23.94	41.36
+158	Student_158	84.75	14.35	76.82	76.83	90.09	Good	90.71	84.75	51.29	85.29
+159	Student_159	66.71	5.34	43.44	44.49	47.18	Fail	43.18	66.71	26.72	51.74
+160	Student_160	90.38	16.15	70.77	83.53	84.5	Good	83.26	90.38	69.66	83.9
+161	Student_161	74.97	10.38	62.81	68.98	69.05	Average	64.5	74.97	33.11	71.69
+162	Student_162	96.26	20.21	98.67	75.46	79.89	Good	90.43	96.26	79.36	73.27
+163	Student_163	65.19	11.12	71.55	60.6	73.08	Average	69.62	65.19	43.95	76.35
+164	Student_164	66.51	14.28	58.44	57.33	62.1	Average	65.54	66.51	49.02	61.26
+165	Student_165	85.14	12.84	79.22	95.08	88.48	Good	86.86	85.14	49.99	90.1
+166	Student_166	86.23	18.38	91.48	81.82	85.34	Good	79.55	86.23	77.89	84.74
+167	Student_167	53.05	2.27	49.75	39.54	40.45	Fail	41.44	53.05	7.13	38.51
+168	Student_168	94.18	9.82	87.02	81.41	99.07	Good	100	94.18	40.49	100
+169	Student_169	62.09	6.64	45.96	36.09	42.6	Fail	45.39	62.09	27.81	39.76
+170	Student_170	73.79	5.21	53.76	57.11	34.54	Fail	21.43	73.79	20.78	23.42
+171	Student_171	70.3	10.72	59.86	74.32	72.41	Average	66.24	70.3	39.35	59.29
+172	Student_172	73.84	6.61	68.73	61.32	70.48	Average	75.27	73.84	29.73	71.77
+173	Student_173	60.59	5.67	32.77	50.6	38.99	Fail	34.37	60.59	14.74	35.86
+174	Student_174	91.73	10.86	92.11	96.57	80.42	Good	81.43	91.73	43.48	68.32
+175	Student_175	67.39	4.26	65.41	68.96	63.61	Average	57.32	67.39	23.97	64.36
+176	Student_176	70.8	8.3	64.27	66.43	74.6	Average	78.26	70.8	30.96	73.94
+177	Student_177	53.41	5.87	41.73	45.7	44.28	Fail	48.94	53.41	19.84	40.78
+178	Student_178	67.31	7.94	33.72	37.6	44.41	Fail	48.07	67.31	35.39	46.14
+179	Student_179	91.57	12.66	72.38	77.14	97.35	Good	100	91.57	51.46	100
+180	Student_180	83.84	13.5	76.8	83.87	76.74	Good	84.56	83.84	57.73	85.73
+181	Student_181	77.98	4.74	69.21	60.38	63.45	Average	57.58	77.98	19.15	64.46
+182	Student_182	97.6	19.06	85.99	83.11	83.33	Good	79.39	97.6	64.3	82.74
+183	Student_183	81.74	14.94	65.88	67.83	68.19	Average	72.68	81.74	65.66	69.29
+184	Student_184	76.63	4.66	63.5	77.03	54.37	Average	60.02	76.63	28.99	56.53
+185	Student_185	93.8	11.42	86.07	77.42	86.26	Good	82.89	93.8	52.1	84.38
+186	Student_186	68.9	3.43	49.28	54.89	48.45	Fail	44.73	68.9	0	49.67
+187	Student_187	70.87	8.39	53.66	77.83	73.08	Average	69.82	70.87	35.82	62.06
+188	Student_188	78.5	13.26	62.5	69.34	52.22	Average	44.19	78.5	50.71	52.79
+189	Student_189	95.11	10.17	94.78	94.55	92.72	Good	86.36	95.11	35.26	96.06
+190	Student_190	80.72	13.15	77.89	84	77.19	Good	70.95	80.72	53.21	73.76
+191	Student_191	98.74	17.41	79.17	84.92	86.18	Good	84.71	98.74	68.9	85.51
+192	Student_192	92.01	16.77	97.58	87.42	99.8	Good	100	92.01	69.62	92.02
+193	Student_193	86.29	6.29	72.33	57.68	70.35	Average	72.52	86.29	25.44	61.6
+194	Student_194	59.52	7.15	55.17	55.15	45.72	Fail	43.18	59.52	23	47.2
+195	Student_195	57.62	1.57	41.69	39.34	43.83	Fail	41.41	57.62	3.4	38.72
+196	Student_196	73.65	14.73	65.38	73.92	53.3	Average	53.92	73.65	55.23	40.86
+197	Student_197	71.55	7.46	44.12	50.16	45.22	Fail	37.74	71.55	21.26	37.44
+198	Student_198	54.37	4.52	41.56	38.66	37.31	Fail	42.11	54.37	11.22	30.55
+199	Student_199	66.7	4.28	53.24	77.15	63.68	Average	70.11	66.7	16.06	69.1
+200	Student_200	74.15	4.03	39.04	47.65	38.75	Fail	35.62	74.15	23.24	40
+201	Student_201	52.64	5.49	36.27	50.49	42.94	Fail	40.95	52.64	19.28	36.84
+202	Student_202	68.8	4.67	68.74	65.58	51.45	Average	57.67	68.8	14.89	47.34
+203	Student_203	99.9	8.98	90.85	99.59	80.98	Good	80.36	99.9	30.01	90.16
+204	Student_204	68.56	5.34	57.28	57.32	67.23	Average	70.17	68.56	21.51	73.78
+205	Student_205	81.25	16.66	99.9	95.35	90.38	Good	89.92	81.25	72.54	82.55
+206	Student_206	72.66	10.86	62.65	64.8	53.25	Average	61.03	72.66	53.45	61.39
+207	Student_207	72.17	4.15	35.64	44.19	38.24	Fail	40.69	72.17	18.03	37.68
+208	Student_208	96.55	20.47	93.08	75.28	85.4	Good	88.14	96.55	82.58	91
+209	Student_209	77.03	4.21	56.24	72.49	53.41	Average	56.24	77.03	14.12	52.27
+210	Student_210	90.71	11.66	70.36	81.03	99.4	Good	96.62	90.71	44.76	100
+211	Student_211	70.04	7.72	44.15	37.74	40.9	Fail	38.58	70.04	34.03	32.78
+212	Student_212	61.36	6.91	32.84	47.21	32.99	Fail	36.84	61.36	26.07	31.2
+213	Student_213	86.49	20.54	84.28	84.4	84.86	Good	85.49	86.49	81.35	93.38
+214	Student_214	89.19	21.35	96.76	98.88	94.67	Good	88.78	89.19	85.27	77.92
+215	Student_215	72.89	11.57	60.5	60.86	70.94	Average	80.31	72.89	43.33	70.62
+216	Student_216	50.96	7.31	43.38	50.93	43.12	Fail	48.01	50.96	28.87	40.37
+217	Student_217	87.38	11	64.73	56.53	62.91	Average	63.1	87.38	33.9	67.7
+218	Student_218	53.75	6.16	44.85	52.01	30.83	Fail	29.46	53.75	27.38	38.32
+219	Student_219	81.7	20.18	72.16	76.78	75.3	Good	76.29	81.7	92.48	80.41
+220	Student_220	99.13	20.54	80.6	82.41	83.74	Good	86.33	99.13	79.4	85.43
+221	Student_221	69.37	5.63	35.37	39.35	31.96	Fail	21.79	69.37	24.39	32.24
+222	Student_222	93.21	20.99	77.95	75.52	77.05	Good	87.61	93.21	88.22	74.65
+223	Student_223	99.36	13.02	93.08	90.62	84.55	Good	80.6	99.36	58.48	86.02
+224	Student_224	55.14	1.85	47.84	54.37	42.81	Fail	42.8	55.14	6.08	53.03
+225	Student_225	90.61	8.71	99.05	94.97	82.32	Good	82.49	90.61	25.82	76.51
+226	Student_226	74.5	5.21	46.89	53.7	46.15	Fail	56.13	74.5	22.18	43.34
+227	Student_227	81.41	5.41	58.12	76.35	55.59	Average	55.15	81.41	22.28	55.06
+228	Student_228	74.3	8.75	60.55	69.1	73.48	Average	81.42	74.3	33.27	80.49
+229	Student_229	84.81	10.07	75.92	97.17	91.15	Good	93.18	84.81	39.61	92.71
+230	Student_230	72.15	12.98	70.67	74.47	72.88	Average	68.07	72.15	52.64	79.76
+231	Student_231	71.31	12.31	61.05	74.37	68.14	Average	68.81	71.31	51.05	75.38
+232	Student_232	95.53	19.15	75.32	88.63	99.62	Good	99.03	95.53	78.2	100
+233	Student_233	88.43	4.47	53.96	58.03	68.08	Average	62.66	88.43	16.79	60.63
+234	Student_234	85.44	6.35	62.14	74.34	68.25	Average	70.04	85.44	27.32	79.88
+235	Student_235	63.56	5.13	44.74	42.44	41.24	Fail	41.35	63.56	19.09	51.13
+236	Student_236	67.22	7.11	48.45	54.03	33.19	Fail	35.97	67.22	31.65	33.63
+237	Student_237	61.54	1.07	37.15	53.16	49.74	Fail	50.71	61.54	1.14	40.07
+238	Student_238	81.98	14.83	94	80.1	88.88	Good	85.62	81.98	59.69	77.96
+239	Student_239	68.33	5.31	35.45	43.88	45.6	Fail	49.44	68.33	13.12	47.38
+240	Student_240	63.86	1.04	52.07	35.88	44.84	Fail	41.72	63.86	2.31	39.93
+241	Student_241	55.06	7.71	40.67	43.17	32.96	Fail	17.46	55.06	33.68	20.94
+242	Student_242	57.64	7.14	58.89	44.21	38.93	Fail	39.57	57.64	23.39	27.87
+243	Student_243	83.05	13.75	64.23	64.01	60.27	Average	57.5	83.05	53.4	56.98
+244	Student_244	93.91	8.05	88.59	83.89	94.85	Good	96.76	93.91	20.17	96.21
+245	Student_245	52.32	5.12	43.95	51.06	31.29	Fail	41.28	52.32	13.64	41.13
+246	Student_246	64.5	4.93	46.26	50.09	43.46	Fail	53.6	64.5	14.19	46.85
+247	Student_247	85.12	6.97	69.8	66.46	51.92	Average	51.09	85.12	28.39	49.25
+248	Student_248	51.46	3.34	52.76	52.69	45.69	Fail	41.56	51.46	15.03	48.35
+249	Student_249	62.93	4.08	34.28	43.2	38.64	Fail	41.56	62.93	16.04	40.67
+250	Student_250	52.22	2.54	47.35	53.39	49.87	Fail	48.02	52.22	8.25	55.05
+251	Student_251	73.33	5.5	42.22	50.9	45.63	Fail	47.59	73.33	20.1	45.35
+252	Student_252	82.37	14.97	95.19	84.6	89.3	Good	86	82.37	63.46	96.55
+253	Student_253	91.76	11.14	80.87	83.36	75.65	Good	76.9	91.76	45.62	81.42
+254	Student_254	80.48	22.14	78.19	87.95	82.47	Good	78.41	80.48	86.89	83.05
+255	Student_255	88.52	6.85	60.31	75.07	70.96	Average	76.88	88.52	33.87	70.13
+256	Student_256	54.65	6.62	43.29	47.07	32.66	Fail	29.71	54.65	36.23	39.1
+257	Student_257	67.02	12.01	61.92	65.05	68.16	Average	71.47	67.02	41.81	63.17
+258	Student_258	95.31	10.7	88.31	78.38	93.78	Good	87.46	95.31	45.41	83.23
+259	Student_259	93.14	24.26	72.07	76.43	82.05	Good	85.96	93.14	100	71.46
+260	Student_260	56.54	2.73	56.28	41.24	35.41	Fail	30.58	56.54	12.32	29.84
+261	Student_261	95.19	15.65	93.3	76.63	87.19	Good	88.5	95.19	63.18	91.81
+262	Student_262	65.84	4.69	71.75	58.2	63.26	Average	68.38	65.84	18.48	60.3
+263	Student_263	60.28	3.43	56.1	35.55	43.21	Fail	42.21	60.28	16.17	44.64
+264	Student_264	74.08	4.92	57.17	36.31	38.33	Fail	33.18	74.08	23.45	34.86
+265	Student_265	71.5	12.04	73.55	60.9	66.29	Average	68.77	71.5	41.94	62.88
+266	Student_266	83.96	17.61	83.92	99.3	90.21	Good	86.01	83.96	70.31	83.03
+267	Student_267	86.99	9.94	74.54	80.63	81.27	Good	79.25	86.99	28.41	80.63
+268	Student_268	86.27	10.17	62.56	57.64	71.42	Average	72.75	86.27	39.63	70.19
+269	Student_269	83.07	4.74	66.99	67.5	52.03	Average	58.83	83.07	14.45	54.92
+270	Student_270	76.46	9.33	53.98	76.75	71.16	Average	71.29	76.46	39.02	73.17
+271	Student_271	81.73	9.09	59.88	69.97	63.58	Average	63.69	81.73	28.08	62.2
+272	Student_272	51.56	4.59	53.39	46.48	31.03	Fail	34.72	51.56	15.8	20.49
+273	Student_273	95.73	11.42	77.76	79.12	83.26	Good	83.51	95.73	50.51	90.75
+274	Student_274	68.92	4.64	35.94	56.95	47.5	Fail	50.68	68.92	15.18	46.9
+275	Student_275	86.76	6.63	60.83	77.65	69.22	Average	74.61	86.76	17	69.78
+276	Student_276	50.68	1.46	43.45	57.73	40.72	Fail	39.08	50.68	7.13	51.92
+277	Student_277	62.45	1.74	49.05	55.55	37.57	Fail	21.19	62.45	4.03	43.93
+278	Student_278	84.39	14.61	54.89	67.04	57.15	Average	53.06	84.39	57.51	60.28
+279	Student_279	69.82	5.04	48.4	54.95	37.88	Fail	43.92	69.82	16.51	37.86
+280	Student_280	98.3	17.06	74.74	92.4	94.83	Good	94.66	98.3	78.11	94.75
+281	Student_281	72.92	13.43	71.75	61.37	74.49	Average	72.79	72.92	45.93	76.17
+282	Student_282	82.81	11.43	75.53	97.35	91.36	Good	97.19	82.81	59.89	94.21
+283	Student_283	53.8	4.08	47.84	37.09	47.56	Fail	47.05	53.8	14.37	59.54
+284	Student_284	70.09	4.54	58.05	45.44	49.58	Fail	39.12	70.09	19.08	66.89
+285	Student_285	66.7	5.44	34.81	57.05	38.51	Fail	30.98	66.7	18.89	40.54
+286	Student_286	83.24	8.21	86.79	88.18	92.98	Good	95.07	83.24	29.76	77.91
+287	Student_287	87.26	4.87	67.56	59.31	71.37	Average	71.04	87.26	15.56	64.71
+288	Student_288	85.48	9.95	67.05	62.23	61.73	Average	69	85.48	42.81	74.41
+289	Student_289	70.54	4.21	40.38	47.36	46.48	Fail	42.81	70.54	9.79	51.51
+290	Student_290	86.7	10.95	91.36	95.65	77.52	Good	75.97	86.7	45.62	80.5
+291	Student_291	84.8	10.41	80.44	86.26	93.72	Good	89.3	84.8	30.72	92.55
+292	Student_292	93.02	18.56	80.57	96.04	86.78	Good	84.18	93.02	75.61	78.46
+293	Student_293	89.48	10.98	53.03	70.55	58.1	Average	48.64	89.48	48.17	69.84
+294	Student_294	82.16	4.77	54.2	74.68	55.66	Average	53.73	82.16	12.71	49.9
+295	Student_295	85.93	7.07	65.43	70.97	62.77	Average	62.51	85.93	31.67	67.88
+296	Student_296	72.63	6.34	50.8	61.99	66.26	Average	65.58	72.63	25.62	57.16
+297	Student_297	98.77	22.81	92.98	94.71	91.62	Good	100	98.77	99.23	90.11
+298	Student_298	71.51	13.98	66.1	67.89	52.76	Average	61.93	71.51	51.64	59.71
+299	Student_299	61.18	4.22	55.07	48.67	37.57	Fail	33.82	61.18	30.96	35.82
+300	Student_300	74.42	1.78	42.25	36.05	44.72	Fail	34.5	74.42	0	42.14
+301	Student_301	87.95	7.08	70.6	61.72	72.68	Average	72.18	87.95	26.67	72.75
+302	Student_302	83.85	12.85	50.43	77.14	68.09	Average	69.97	83.85	42.91	58.74
+303	Student_303	72.62	13.12	56.76	75.07	52.8	Average	48.5	72.62	61.74	42.13
+304	Student_304	82.59	9.95	52.32	60.56	50.31	Average	46.26	82.59	38.49	55.31
+305	Student_305	89.38	13.12	87.95	82.43	82.5	Good	90.41	89.38	51.62	79.54
+306	Student_306	94.86	8.82	97.09	96.31	91.7	Good	90.41	94.86	37.5	96.65
+307	Student_307	79.83	13.82	54.45	56.82	55.96	Average	59.27	79.83	55.26	63.79
+308	Student_308	84.86	4.38	63.99	77.9	71.31	Average	66.66	84.86	14.55	79.7
+309	Student_309	90.43	9.08	94.94	89.97	77.87	Good	77.59	90.43	30.04	66.52
+310	Student_310	67.35	14.01	66.06	74.07	71.89	Average	70.21	67.35	56.88	67.01
+311	Student_311	79.29	9.69	60.33	62.29	60.82	Average	57.44	79.29	40.65	64.58
+312	Student_312	84.35	10.62	71.42	65.2	65.12	Average	70.9	84.35	45.96	68.99
+313	Student_313	80.78	10.51	66.86	60.46	62.76	Average	55.82	80.78	51.6	78.51
+314	Student_314	82.08	14.54	84.63	91.31	98.76	Good	100	82.08	47.29	92.41
+315	Student_315	80.02	12.18	62.15	69.58	51.77	Average	49.99	80.02	48.38	59.95
+316	Student_316	71.36	7.98	61.34	56.05	53.49	Average	55.56	71.36	37.88	56.1
+317	Student_317	56.92	7.8	39.61	47.05	33.9	Fail	32.19	56.92	30.58	22.42
+318	Student_318	80.27	7.09	54.97	66.88	50.14	Average	54.48	80.27	16.67	46.31
+319	Student_319	80.15	11.72	71.1	77.7	83.47	Good	78.77	80.15	40.42	85.31
+320	Student_320	70.06	5	44.87	42.34	48.54	Fail	54.33	70.06	21.64	36.61
+321	Student_321	59.93	1.61	47.89	37.85	36.87	Fail	36.73	59.93	7.9	22.35
+322	Student_322	62.69	7.12	44.31	52.56	49.76	Fail	43.12	62.69	31.84	37.43
+323	Student_323	53.29	2.92	41.44	45.55	38.18	Fail	41.58	53.29	7.77	39.99
+324	Student_324	87.69	11.85	64.59	62.12	70.51	Average	69.52	87.69	48.7	67.12
+325	Student_325	99.1	21.96	70.05	90.91	76.28	Good	67.74	99.1	83.11	71.94
+326	Student_326	71.44	4.65	64.49	70.79	52.85	Average	54.51	71.44	19.9	48.75
+327	Student_327	74.6	9.02	58.86	57.78	60.43	Average	65.46	74.6	36.35	50.46
+328	Student_328	83.78	4.78	51.92	63.16	73.45	Average	79.86	83.78	15.02	70.26
+329	Student_329	93.37	19.54	80.86	89.84	75.25	Good	73.36	93.37	85.95	62.51
+330	Student_330	65.9	7.39	47.76	56.84	44.41	Fail	45.14	65.9	21.03	52.72
+331	Student_331	82.41	23.34	71.99	88.35	78.55	Good	78.8	82.41	92.65	90.4
+332	Student_332	50.29	3.95	38.56	47.15	41.49	Fail	48.94	50.29	11.59	25.21
+333	Student_333	80.87	10.09	86.76	83.58	93.23	Good	89.18	80.87	49.53	89.95
+334	Student_334	81.31	13.3	66.62	64.89	66.76	Average	64.44	81.31	56.19	63.93
+335	Student_335	56.88	3.14	52.88	46.16	45.89	Fail	41.72	56.88	9.31	44.67
+336	Student_336	70.56	7	56.58	45.77	36.35	Fail	29.1	70.56	26.6	43.36
+337	Student_337	91.64	14.31	88.03	92.64	92.21	Good	93.45	91.64	66.55	88.95
+338	Student_338	74.36	5.84	60.33	58.28	72.16	Average	80.17	74.36	18.63	71.54
+339	Student_339	86.92	10.63	70.76	91.15	90.92	Good	89.93	86.92	33.7	100
+340	Student_340	73.52	4.79	59.83	62.16	66.86	Average	62.45	73.52	20.62	66.08
+341	Student_341	80.14	8.01	55.23	77.72	61.3	Average	62.23	80.14	33.61	73.66
+342	Student_342	82.21	5.55	61.65	55.63	62.59	Average	65.54	82.21	25.53	66.1
+343	Student_343	74.1	3.69	31.13	35.77	37.72	Fail	36.94	74.1	18.12	33.84
+344	Student_344	54	1.16	51.93	46.46	35.76	Fail	42.78	54	13.49	30.71
+345	Student_345	87.5	5.28	72.94	62.22	72.12	Average	68.06	87.5	12.53	72.07
+346	Student_346	80.07	13.09	73.62	61.63	73.93	Average	72.5	80.07	46.35	66.04
+347	Student_347	74.74	8.24	58.17	67.45	53.84	Average	55.32	74.74	36.27	47.79
+348	Student_348	91.07	17.21	92.86	95.84	86.01	Good	87.97	91.07	63.31	83.05
+349	Student_349	57.56	2.82	35.64	36.44	36.81	Fail	37.05	57.56	4	38.86
+350	Student_350	85.4	24.43	86.73	83.68	89.51	Good	83.12	85.4	100	100
+351	Student_351	53.48	4.11	48.16	47.22	38	Fail	49.69	53.48	8.34	34.61
+352	Student_352	74.85	7.16	48.08	49.23	42.35	Fail	41.17	74.85	26.88	45.58
+353	Student_353	84.03	14.72	71.18	86.89	88.58	Good	89.13	84.03	58.58	77.18
+354	Student_354	55.69	7.75	56.37	53.05	40.61	Fail	43.69	55.69	37.55	48.03
+355	Student_355	71.75	1.91	52.92	38.12	45.8	Fail	42.62	71.75	0	33.75
+356	Student_356	56.89	7.14	57.38	38.72	39.21	Fail	39.49	56.89	30.64	44.8
+357	Student_357	74.52	4.38	55.04	49.72	37.47	Fail	34.08	74.52	13.07	36.9
+358	Student_358	72.14	6.24	68.28	63.89	62.73	Average	64.81	72.14	28.1	61.89
+359	Student_359	62.31	5.04	55.1	59.52	38.11	Fail	36.73	62.31	15.63	36.01
+360	Student_360	70.69	6.35	46.63	58.9	33.99	Fail	35.33	70.69	33.26	24.88
+361	Student_361	67.73	13.39	60.54	74.48	72.24	Average	67.01	67.73	49.06	63.5
+362	Student_362	66.56	13.72	60.76	66.74	65.6	Average	61.46	66.56	42.57	71.46
+363	Student_363	73.16	1.13	43.83	52.19	44.38	Fail	37.55	73.16	0.58	44.46
+364	Student_364	82.31	5.48	57.19	63.25	70.03	Average	66.48	82.31	20.61	67.88
+365	Student_365	56.97	2.47	57.77	35.22	49.86	Fail	36.99	56.97	15.29	52.96
+366	Student_366	66.92	6.8	38.54	35.36	44.68	Fail	43.14	66.92	20.91	45.39
+367	Student_367	96.68	20.59	74.29	93.84	94.22	Good	91.55	96.68	76.17	88.67
+368	Student_368	66.46	6.36	54.53	50.34	31.76	Fail	32.51	66.46	30.24	48.99
+369	Student_369	77.19	4.85	59.78	64.36	51.64	Average	51.86	77.19	12.52	56.83
+370	Student_370	86.98	9.89	94.25	98.69	76.81	Good	83.1	86.98	38.67	77.7
+371	Student_371	73.88	4.66	38.69	36.92	39.96	Fail	52.93	73.88	17.85	36.36
+372	Student_372	95.89	20.02	71.51	76.82	85.07	Good	90.76	95.89	81.17	91.74
+373	Student_373	57.38	2.63	38.15	55.09	48.49	Fail	46.22	57.38	6.77	42.98
+374	Student_374	60.13	7.34	39.32	46.91	34.5	Fail	32.03	60.13	24.73	28.4
+375	Student_375	66.01	7.85	47.5	43.95	42.89	Fail	47.23	66.01	33.07	54.74
+376	Student_376	82.46	23.11	85.09	86.23	89.65	Good	81.23	82.46	87.96	89.86
+377	Student_377	80.62	4.79	66.38	60.56	67.78	Average	66.2	80.62	12.36	62.44
+378	Student_378	70.56	6.63	46.02	48	32.84	Fail	31.65	70.56	32.66	32.88
+379	Student_379	95.51	12.61	84.9	82.11	78.35	Good	81.27	95.51	52.88	84.3
+380	Student_380	92.59	8.92	92.46	82.94	75	Good	78.07	92.59	44.52	79.35
+381	Student_381	62.78	1.33	38.01	52.67	31.25	Fail	27.53	62.78	9.24	38.07
+382	Student_382	70.98	1.03	37.16	53.52	36.29	Fail	34.22	70.98	0	27.54
+383	Student_383	82.04	14.12	78.11	96.07	82.83	Good	85.06	82.04	56.96	89.47
+384	Student_384	69.72	7.24	42.58	57.75	37.51	Fail	33.52	69.72	23.88	36.26
+385	Student_385	74.1	1.63	49.92	47.35	37.71	Fail	43.74	74.1	0	38.33
+386	Student_386	92.65	19.97	70.13	79.17	92.83	Good	95.88	92.65	77.64	100
+387	Student_387	81.66	14.63	68.26	76.87	67.49	Average	68.35	81.66	63.43	72.41
+388	Student_388	57.45	1.74	52.67	51.1	30.96	Fail	32.91	57.45	8.33	33.42
+389	Student_389	87.2	24.27	85.01	85.82	86.44	Good	84.11	87.2	90.13	72.55
+390	Student_390	84.18	14.27	81.09	76.31	94.19	Good	91.06	84.18	54.67	93.87
+391	Student_391	60.41	6.76	54.66	40.3	43.08	Fail	40.96	60.41	26.33	37.59
+392	Student_392	61.81	7.16	36.26	51.95	42.09	Fail	44.59	61.81	20.19	47.07
+393	Student_393	85.91	10.32	89.55	93.46	82.89	Good	83.9	85.91	44.85	89.83
+394	Student_394	66.12	3.77	50.68	39.98	47.72	Fail	45.61	66.12	13.94	45.61
+395	Student_395	72.19	8.05	51.39	57.56	62.84	Average	66.59	72.19	25.25	58.17
+396	Student_396	56.69	6.85	30.43	44.48	36.71	Fail	35.84	56.69	20.16	47.6
+397	Student_397	65.48	5.37	59.93	66.34	60.07	Average	56.6	65.48	26.98	55.85
+398	Student_398	78.27	10.55	50.24	65.67	73.99	Average	75.26	78.27	40.3	65.63
+399	Student_399	90.38	19.52	79.36	94.35	94.32	Good	89.25	90.38	84.03	88.49
+400	Student_400	90.43	24.59	73.77	75.42	94.25	Good	85.81	90.43	100	90.37
+401	Student_401	70.18	1.84	37.7	35.44	35.84	Fail	35.81	70.18	12.47	29.81
+402	Student_402	84.33	9.7	58.35	63.55	50.03	Average	46.74	84.33	36.13	55.95
+403	Student_403	72.5	11.11	73.38	74.48	50.59	Average	49.32	72.5	31.95	35.2
+404	Student_404	87.46	12.62	68.73	65.53	59.91	Average	55.08	87.46	52.04	53.73
+405	Student_405	72.57	4.72	55.48	60.67	62.05	Average	68.09	72.57	29.34	61.72
+406	Student_406	94.95	16.05	71.74	98.94	98.57	Good	95.26	94.95	64.02	100
+407	Student_407	95.7	24.85	86.33	99.07	76.89	Good	74.73	95.7	89.45	88.73
+408	Student_408	74.14	6.48	54.7	58.24	65.5	Average	67.39	74.14	22.55	76.32
+409	Student_409	69.53	5.05	34.26	55.28	42.66	Fail	35.78	69.53	19.28	31.45
+410	Student_410	74.7	11.42	56.24	62.94	72.85	Average	65.6	74.7	40.19	59.49
+411	Student_411	72.26	9.17	71.36	71.28	51.55	Average	53.45	72.26	23.86	51.72
+412	Student_412	82.95	8.13	88.93	86.19	78.36	Good	76.14	82.95	32.03	73.65
+413	Student_413	99.16	17	77.26	87.52	91.99	Good	87.48	99.16	64.08	83.65
+414	Student_414	51.91	2.92	53.4	46.49	40.88	Fail	43.9	51.91	20.54	40.99
+415	Student_415	88.66	8.75	74.97	86.14	80.23	Good	76.17	88.66	35.51	81.84
+416	Student_416	81	22.34	99.44	94.83	96.34	Good	94.97	81	91.71	90.47
+417	Student_417	84.84	24.33	75.91	98.79	99.87	Good	95.39	84.84	96.72	95.5
+418	Student_418	94.23	24.68	87.09	81.49	85.92	Good	87.44	94.23	99.19	80.59
+419	Student_419	79.84	4.8	64.94	77.57	54.73	Average	61.39	79.84	10.94	51.85
+420	Student_420	84.81	13.99	72.65	77.08	62.98	Average	53.67	84.81	50.76	66.77
+421	Student_421	74.43	6.3	34.69	46.92	44.29	Fail	44.85	74.43	30.64	36.74
+422	Student_422	84.95	18.89	90	79.07	89.13	Good	93.41	84.95	76.61	84.65
+423	Student_423	84.29	9.49	50.29	55.21	58.89	Average	56.78	84.29	35.97	56.1
+424	Student_424	88.15	6.52	65.22	60.11	58.01	Average	52.35	88.15	28.51	57.96
+425	Student_425	86.2	12.02	52.29	64.86	50.73	Average	52.83	86.2	50.61	52.66
+426	Student_426	77.02	11.29	52.84	61.64	59.91	Average	64.92	77.02	55.11	74.21
+427	Student_427	72.99	7.95	31.3	54.03	37.4	Fail	41.85	72.99	32.62	41.4
+428	Student_428	59.81	6.28	56.63	58.77	41.48	Fail	43.31	59.81	19.81	45.65
+429	Student_429	73.93	12.66	56.02	67.97	58.93	Average	59.42	73.93	50.06	57.06
+430	Student_430	66.42	2.68	35.56	57.96	32.03	Fail	27.53	66.42	13.76	25.17
+431	Student_431	62.65	2.55	31.13	35.9	33.49	Fail	37.82	62.65	15.18	29.79
+432	Student_432	86.67	7.11	72.81	68.38	60.87	Average	64.92	86.67	20.36	55.9
+433	Student_433	79.5	9.68	68.21	61.5	58.79	Average	53.1	79.5	39.99	61.54
+434	Student_434	87.35	14.41	71.42	64.65	69.43	Average	71.25	87.35	53.15	57.87
+435	Student_435	61.91	4.48	35.94	49.78	33.7	Fail	36.96	61.91	15.09	37.85
+436	Student_436	58.29	6.99	36.01	36.78	31.37	Fail	35.78	58.29	32.19	30.55
+437	Student_437	73.52	4.55	41.87	55.27	46.63	Fail	46.26	73.52	21.93	51.76
+438	Student_438	73.3	11.63	68.51	70.06	53.77	Average	49.48	73.3	43.13	48.7
+439	Student_439	97.52	17.16	78.47	85.63	75.94	Good	73.43	97.52	67.85	69.63
+440	Student_440	68.2	12.42	50	64.58	63.01	Average	57.97	68.2	47	60.16
+441	Student_441	51.37	7.81	36.56	42.6	36.05	Fail	35.79	51.37	45.7	33.04
+442	Student_442	70.76	4.02	67.5	77.24	55.58	Average	54.35	70.76	17.47	61.22
+443	Student_443	93.26	20.61	95.45	85.57	82.57	Good	93.3	93.26	78.24	88.15
+444	Student_444	73.13	11.84	69.6	59.18	59.24	Average	63.71	73.13	53.97	72.58
+445	Student_445	87.55	12.87	73.64	72.35	59.79	Average	64.64	87.55	58.27	56.32
+446	Student_446	79.77	11.27	51.88	67.52	67.66	Average	70.02	79.77	54.04	44.23
+447	Student_447	69.18	12.59	64.01	76.9	51.06	Average	49.22	69.18	60.8	48.19
+448	Student_448	56.63	5.21	38.6	52.86	45.1	Fail	43.72	56.63	24.38	46.71
+449	Student_449	67.56	9.65	62.21	63.49	73.23	Average	72.31	67.56	36.85	78.23
+450	Student_450	96.55	19.85	91.43	86.54	98.02	Good	98.96	96.55	78.39	100
+451	Student_451	82.36	12.02	70.68	61.3	70.1	Average	72.05	82.36	46.62	66.63
+452	Student_452	83.9	13.87	80.07	99.46	96.41	Good	96.41	83.9	53.46	100
+453	Student_453	82.53	12	63.49	76.78	62.36	Average	60.91	82.53	54.2	55.12
+454	Student_454	59.51	2.14	52.8	53.36	37.65	Fail	34.68	59.51	8.56	35.73
+455	Student_455	50.63	6.87	30.33	52.59	49.31	Fail	42.35	50.63	32.34	41.75
+456	Student_456	75.94	6.58	66.92	73.79	63.61	Average	70.03	75.94	29.7	63.75
+457	Student_457	99.34	8.88	85.14	92.96	96.57	Good	100	99.34	30.03	100
+458	Student_458	83.59	21.6	86.58	84.91	78.29	Good	84.29	83.59	77.81	77.3
+459	Student_459	86.63	5.73	57.43	61.67	71.7	Average	65.4	86.63	16.74	70.76
+460	Student_460	81.82	12.76	56.01	69.37	64.24	Average	68.18	81.82	48.91	52.37
+461	Student_461	70.82	7.34	30.35	51.85	31.03	Fail	36.15	70.82	30.03	29.02
+462	Student_462	63.72	3.01	38.9	43.82	42.36	Fail	40.34	63.72	8.8	50.41
+463	Student_463	73.35	12.06	59.71	56.57	69.52	Average	71.96	73.35	51.76	67.77
+464	Student_464	85.72	15.36	90.56	83.31	76.41	Good	74.13	85.72	58.8	74.19
+465	Student_465	74.35	14.39	65.4	70.44	65.74	Average	73.38	74.35	58.84	73.48
+466	Student_466	54.97	3.93	51.78	37.53	35.53	Fail	37.36	54.97	16.31	33.34
+467	Student_467	56.91	4.02	58.43	36.69	40.32	Fail	35.73	56.91	24.75	49.36
+468	Student_468	69.48	14.68	52.72	64.28	68.37	Average	71.72	69.48	53.84	59.38
+469	Student_469	82.61	8.65	58.32	64.15	56.58	Average	61.87	82.61	45.64	61.32
+470	Student_470	70.13	9.31	56.44	61.61	66.35	Average	67.34	70.13	34.27	77.87
+471	Student_471	89.21	10.64	51.85	56.74	73.69	Average	76.09	89.21	35.86	80.74
+472	Student_472	57.43	1.64	47.37	50.59	42.91	Fail	42.56	57.43	5.48	29.84
+473	Student_473	85.35	8.26	98.95	81.27	91.9	Good	86.23	85.35	49.24	87.43
+474	Student_474	67.67	5.27	39.07	41.78	41.89	Fail	41.13	67.67	25.56	40.2
+475	Student_475	86.65	14.41	52.54	58.56	73.52	Average	76.14	86.65	60.65	80.59
+476	Student_476	94.73	23.01	76.08	89.69	92.53	Good	91.89	94.73	96.02	83.21
+477	Student_477	93.6	14.94	70.46	89.57	81.33	Good	85.33	93.6	55.91	74.2
+478	Student_478	89.01	24.28	81.97	96	79.71	Good	77.75	89.01	98.75	68.47
+479	Student_479	81.81	14.75	52.45	55.19	60.8	Average	59.17	81.81	59.01	55.02
+480	Student_480	67.32	12.23	71.95	64.98	56.44	Average	60.6	67.32	57.97	47.68
+481	Student_481	75.86	11.96	50.22	68.56	65.27	Average	66.38	75.86	47.3	76.46
+482	Student_482	65.94	2.69	50.71	37.28	33.97	Fail	31.91	65.94	8.87	29.44
+483	Student_483	71.94	6.17	30.4	41.21	34.27	Fail	39.44	71.94	18.86	39.11
+484	Student_484	71.77	6.72	51.5	65.56	68.25	Average	64.81	71.77	27.58	68.38
+485	Student_485	80.17	11.4	51.95	76.88	70.88	Average	67.25	80.17	47.06	70.91
+486	Student_486	70.13	6.76	57.05	48.61	33.99	Fail	19.84	70.13	21.03	29.85
+487	Student_487	65.42	6.2	51.4	48.04	31.36	Fail	28.59	65.42	27.07	36.75
+488	Student_488	59.28	7.45	46.95	48.46	35.35	Fail	41.89	59.28	30.97	36.43
+489	Student_489	59.21	7.27	49.33	54.68	39.04	Fail	28.68	59.21	34.15	39.72
+490	Student_490	80.76	6.73	66.93	64.83	61.02	Average	56.26	80.76	32.98	56.87
+491	Student_491	92.99	23.92	71.92	95.62	82.31	Good	84.51	92.99	96.15	79.3
+492	Student_492	76.1	4.24	57.23	66.56	51.4	Average	40.18	76.1	11.78	55.52
+493	Student_493	89.82	23.76	73.16	94.11	85.24	Good	82.69	89.82	90.89	86.85
+494	Student_494	66.38	2.82	34.63	39.01	31.4	Fail	37.1	66.38	20.09	32.26
+495	Student_495	69.64	11.31	71.16	73.72	67.06	Average	77.28	69.64	46.07	61.78
+496	Student_496	52.76	3.02	38.98	41.25	40.25	Fail	41.7	52.76	20.81	53.86
+497	Student_497	78.39	7.93	58.49	74.06	69.65	Average	65.02	78.39	34.21	66.29
+498	Student_498	72.69	14.05	72.87	62.52	58.83	Average	54.03	72.69	59.97	58.62
+499	Student_499	90.11	24	96.29	77.56	84.82	Good	85.54	90.11	100	83.51
+500	Student_500	91.07	16.55	75.82	96.47	91.92	Good	93.32	91.07	60.08	100
+501	Student_501	96.76	22.6	92.45	85.98	90.26	Good	99.55	96.76	91.93	88.22
+502	Student_502	54.01	5.72	35.2	52.35	34.57	Fail	39.42	54.01	16.7	31.89
+503	Student_503	67.94	5.82	50.05	71.53	68.24	Average	68.66	67.94	21.86	69.07
+504	Student_504	90.3	10.74	72.51	75.48	79.14	Good	77.46	90.3	46.16	74.29
+505	Student_505	97.82	12.11	80.63	77.63	80.56	Good	95.63	97.82	43.31	81.34
+506	Student_506	90.38	18.33	77.36	76.44	84.78	Good	87.91	90.38	76.12	100
+507	Student_507	84.68	11.73	98.8	90.41	88.92	Good	85.58	84.68	39.43	91.02
+508	Student_508	75.39	8.72	62.98	71.02	67.48	Average	66.36	75.39	40.6	69.32
+509	Student_509	83.43	16.5	82.36	96.76	90.79	Good	86.4	83.43	62.68	85.76
+510	Student_510	90.65	9.96	88.17	77.93	83.43	Good	71.41	90.65	34.7	95.39
+511	Student_511	53.57	5.84	35.98	44.8	47.82	Fail	49.38	53.57	16.18	61.39
+512	Student_512	70.11	9.59	60.06	55.42	69.74	Average	78.65	70.11	35.46	75.71
+513	Student_513	66.73	9.22	63.46	69.45	67.15	Average	59	66.73	27.34	71.73
+514	Student_514	56.33	1.07	50.98	48.39	46.64	Fail	46.92	56.33	1.54	45
+515	Student_515	70.53	6.9	44.07	43.34	45.75	Fail	42.22	70.53	33.1	48.49
+516	Student_516	89.03	11.12	95.65	97.06	86.66	Good	89.27	89.03	43.54	80.81
+517	Student_517	51.89	3.71	53.3	57.54	34.05	Fail	33.19	51.89	8.95	26.17
+518	Student_518	51.67	7.14	41.29	48.54	49.26	Fail	42.46	51.67	29.69	38.85
+519	Student_519	81.33	19.02	72.22	84.39	95.1	Good	90.19	81.33	76.77	97.97
+520	Student_520	60.84	7.98	46.21	43.03	34.38	Fail	30.23	60.84	41.7	24.73
+521	Student_521	73.76	8.1	51.65	63.5	61.56	Average	68.28	73.76	36.35	58.06
+522	Student_522	83.07	11.22	67.01	55.19	55.42	Average	61.89	83.07	46.41	54.99
+523	Student_523	93.23	16.23	70.16	95.11	94.32	Good	92.76	93.23	69.45	100
+524	Student_524	78.71	4.73	68.4	68.43	69.47	Average	75.61	78.71	18.25	65.42
+525	Student_525	83.79	12.83	62.43	58.23	66.71	Average	65.84	83.79	50.94	74.5
+526	Student_526	80.51	12.16	54.08	59.48	72.17	Average	70.54	80.51	56.93	78.74
+527	Student_527	95	23.44	92.76	89.93	91.35	Good	91.64	95	85.58	83.85
+528	Student_528	72.23	5.05	48.34	38.91	39.43	Fail	40.85	72.23	25.04	47.29
+529	Student_529	82.91	6.98	54.85	62.22	56.01	Average	53.23	82.91	27.37	54.02
+530	Student_530	55.37	3.97	56.33	47.68	33.74	Fail	33.85	55.37	14.42	30.25
+531	Student_531	66.92	11.66	59.19	73.9	66.42	Average	70.36	66.92	43.88	64.46
+532	Student_532	69.91	2.9	50.08	41.6	48.69	Fail	49.34	69.91	12.37	48.67
+533	Student_533	80.91	7.57	56.47	59.39	67.3	Average	67.51	80.91	30.06	64.39
+534	Student_534	55.47	5.17	37.67	51.55	46.22	Fail	48.69	55.47	18.61	40.34
+535	Student_535	95.56	20.93	75.63	77.21	92.47	Good	95.8	95.56	80.21	87.21
+536	Student_536	74.21	8.76	50.75	60.97	50.84	Average	50.53	74.21	25.51	51.81
+537	Student_537	71.98	2.7	46.16	35.97	43.27	Fail	40.9	71.98	7.18	42.15
+538	Student_538	58.08	7.29	55.76	43.13	47.93	Fail	48.88	58.08	26.6	51.62
+539	Student_539	99.92	22.03	95.35	81.23	89.42	Good	81.45	99.92	88.88	89.79
+540	Student_540	66.68	5.04	73.97	62.51	68.63	Average	67.58	66.68	29.98	69.17
+541	Student_541	70.17	7.01	58.93	41.04	30.8	Fail	18.44	70.17	24.96	34.95
+542	Student_542	60.28	1.91	30.65	44.01	45.6	Fail	37.22	60.28	2.52	55.53
+543	Student_543	64.15	3.19	48.98	40.8	30.29	Fail	21.16	64.15	9.19	40.5
+544	Student_544	84.11	10.86	68.3	55.9	70.84	Average	76.08	84.11	44.21	80.22
+545	Student_545	65.49	4.94	48.11	56.61	41.68	Fail	41.75	65.49	22.7	47.77
+546	Student_546	91.62	24.84	92.7	86.06	92.68	Good	86.37	91.62	100	100
+547	Student_547	74.73	6.52	64.32	76.35	73.14	Average	75.6	74.73	30.22	76.2
+548	Student_548	86.84	16.97	76.35	99.89	99.53	Good	100	86.84	72.73	100
+549	Student_549	81.24	12.85	67.16	68.64	51.33	Average	53.87	81.24	50.01	67.04
+550	Student_550	61.37	5.72	49.65	44.33	48.74	Fail	47.8	61.37	33.15	29.66
+551	Student_551	54.18	4.5	50.04	52.43	42.91	Fail	44.07	54.18	16.23	41.41
+552	Student_552	71.88	5.72	65.26	68.78	54.47	Average	58.98	71.88	23.43	63.24
+553	Student_553	94.1	15.74	90.03	95.93	79.24	Good	76.89	94.1	69.44	86.1
+554	Student_554	50.48	6.45	47.68	52.49	46.68	Fail	46.83	50.48	28.63	64.64
+555	Student_555	96.06	24.34	86.08	87.21	85.05	Good	83.76	96.06	86.16	85.8
+556	Student_556	83.07	17.73	78.31	98.03	89.58	Good	81.51	83.07	70.95	86.56
+557	Student_557	79.82	7.9	51.25	55.73	60.54	Average	65.12	79.82	35.91	58.22
+558	Student_558	52.11	5.25	55.55	57.07	43.12	Fail	53.41	52.11	14.28	45.35
+559	Student_559	55.28	7.04	55.7	39.92	44.67	Fail	40.3	55.28	31.91	56.02
+560	Student_560	72.16	12.83	73.93	55.69	72.34	Average	77.15	72.16	53.27	83.78
+561	Student_561	65.57	7.81	43.49	56.18	31.24	Fail	27.03	65.57	37.16	30.85
+562	Student_562	86.71	9.14	99.26	95.42	96.31	Good	96.97	86.71	33.1	98.08
+563	Student_563	98.76	9.45	81.57	76.78	80.27	Good	87.81	98.76	42.78	75.99
+564	Student_564	84.59	15.97	78.06	77.52	79.19	Good	76.59	84.59	64.68	75.64
+565	Student_565	53.68	7.81	52.02	59.19	38.75	Fail	38.68	53.68	40.07	46.07
+566	Student_566	71.96	12.78	57.83	61.89	55.79	Average	46.78	71.96	65.05	67.01
+567	Student_567	82.59	12.36	80.66	91.85	76.56	Good	73.24	82.59	57.13	71.68
+568	Student_568	55.26	6.66	34.26	43.57	47.21	Fail	37.68	55.26	29.04	48.91
+569	Student_569	68.87	4.91	61.63	61.96	64.03	Average	66.18	68.87	31.25	62.33
+570	Student_570	96.08	10.33	87.42	87.64	78.6	Good	82.76	96.08	44.34	84.65
+571	Student_571	65.6	2.92	44.15	37.06	39.15	Fail	38.04	65.6	7.14	36.43
+572	Student_572	57.66	6.76	31.65	45.47	39.12	Fail	40.55	57.66	26.84	25.63
+573	Student_573	94.5	17.76	90.02	94.43	96.56	Good	94.93	94.5	74.85	100
+574	Student_574	57.85	4.77	54.36	59.74	47.7	Fail	51.4	57.85	23.21	45.58
+575	Student_575	74.29	6.15	61.75	72.06	62.26	Average	62.91	74.29	18.97	60.86
+576	Student_576	89.66	22.25	80.84	96.49	85.17	Good	75.24	89.66	83.53	88.22
+577	Student_577	58.21	4.18	52.11	38.15	33.91	Fail	38.61	58.21	15.01	36.38
+578	Student_578	88.79	5.93	63.63	68.32	62.19	Average	60.24	88.79	26.39	65.38
+579	Student_579	81.12	6.53	63.26	63.56	66.48	Average	60.13	81.12	29.43	55.07
+580	Student_580	68.53	10.28	54.45	61.41	55.45	Average	53.26	68.53	41.83	59.34
+581	Student_581	54.57	6.78	38.29	58.18	49.3	Fail	39.79	54.57	22.95	35.94
+582	Student_582	64.28	2	40.86	54.94	37.31	Fail	31.06	64.28	16.68	42.7
+583	Student_583	81.74	17.47	95.35	94.9	79.38	Good	80.09	81.74	64.52	87.21
+584	Student_584	93.46	11.75	76.55	96.85	81.24	Good	82.37	93.46	53.51	71.66
+585	Student_585	85.26	8.01	96.12	94.81	90.68	Good	92.21	85.26	35.73	92.98
+586	Student_586	83.76	5.67	61	63.08	52.34	Average	52.36	83.76	29.08	59.74
+587	Student_587	77.15	14.13	50.96	61.7	55.17	Average	51.71	77.15	54.3	52.03
+588	Student_588	70.95	13.99	61.23	65.72	68.94	Average	68.67	70.95	55.25	73.66
+589	Student_589	53.86	4.41	42.47	49.92	49.89	Fail	47.7	53.86	17.92	30.39
+590	Student_590	69.24	3.79	54	39.27	30.61	Fail	22.48	69.24	12.78	38.3
+591	Student_591	55.11	3.38	44.81	50.38	48.12	Fail	44.26	55.11	14.65	48.33
+592	Student_592	90.2	16.52	71.51	75.87	88.78	Good	93.23	90.2	73.98	86.98
+593	Student_593	88.76	22.27	74.82	75.62	86.23	Good	94.17	88.76	82.6	93.12
+594	Student_594	84.75	8.84	91.74	77.79	90.21	Good	93.47	84.75	32.07	100
+595	Student_595	85.62	10.95	81.39	95.04	84.8	Good	92.52	85.62	39.97	88.2
+596	Student_596	68.77	1.88	52.41	40.92	43.48	Fail	43.91	68.77	7.05	54.74
+597	Student_597	64.14	7.5	41.23	36.65	30.38	Fail	39.09	64.14	29.32	19.51
+598	Student_598	85.67	9.77	68.61	60.39	58.59	Average	68.86	85.67	42.94	63.25
+599	Student_599	65.75	14.58	66.03	76.46	56.61	Average	47.94	65.75	58.49	55.69
+600	Student_600	92.23	19.53	79.53	96.2	98.68	Good	99.79	92.23	79.63	93.16
+601	Student_601	72.12	6.17	38.05	42.04	49.17	Fail	49.6	72.12	26.67	35.67
+602	Student_602	50.26	6.01	50.48	50.57	49.7	Fail	47.58	50.26	25.27	53.98
+603	Student_603	57.8	3.38	32.29	46.07	35.19	Fail	37.65	57.8	17.04	41.32
+604	Student_604	58.58	6.84	57.13	39.64	37.41	Fail	37.62	58.58	26.75	46.8
+605	Student_605	88.22	4.68	52.22	58.74	64.82	Average	61.14	88.22	26.95	73.06
+606	Student_606	83.01	24.46	83.4	87.54	81.17	Good	81.04	83.01	100	75.77
+607	Student_607	61.77	5.63	51.78	53.85	41.5	Fail	47.52	61.77	26.05	50.53
+608	Student_608	72.61	6.72	51.95	36.39	30.14	Fail	31.05	72.61	28.02	39.91
+609	Student_609	70.31	11.3	59.87	64.26	72.03	Average	75.16	70.31	48.32	70.21
+610	Student_610	87.39	14	57.53	70.89	56.76	Average	55.37	87.39	50.49	56.96
+611	Student_611	54.77	2.29	39.92	45.75	46.54	Fail	48.8	54.77	10.06	40
+612	Student_612	53	6.14	45.41	42.2	39.81	Fail	33.76	53	20.9	50.18
+613	Student_613	86	18.13	83.02	79.11	77.91	Good	75.41	86	75.07	67.33
+614	Student_614	90.93	23.34	80.32	93.33	91.47	Good	90.96	90.93	89.73	95.21
+615	Student_615	98.63	21.96	87	91.43	97.46	Good	91.08	98.63	86.12	93.28
+616	Student_616	87.99	13.56	70.32	95.66	95.02	Good	90.87	87.99	44.88	87.27
+617	Student_617	82.09	17.81	83.92	77.97	99.51	Good	100	82.09	65.37	86.39
+618	Student_618	70.37	4.74	64.28	71.99	50.81	Average	51.46	70.37	20.73	49.3
+619	Student_619	93.17	17.05	73.1	79.31	89.2	Good	93.23	93.17	63.86	80.35
+620	Student_620	57.41	7.57	53.74	59.59	35.17	Fail	32.17	57.41	35.6	35.56
+621	Student_621	99.39	15.33	80.43	76.26	76.32	Good	76.61	99.39	56.55	88.71
+622	Student_622	67.3	4.21	36.57	50.35	35.03	Fail	31.67	67.3	19.11	36.43
+623	Student_623	91.55	14.11	94.71	95.52	86.93	Good	90.46	91.55	52.63	100
+624	Student_624	58.77	3.54	53.37	43.2	34.16	Fail	40.11	58.77	16.09	27.28
+625	Student_625	52.12	4.27	43.98	56.02	34.4	Fail	36.82	52.12	9.41	25.43
+626	Student_626	74.52	12.89	69.77	63.85	61.43	Average	66.74	74.52	49.29	54.24
+627	Student_627	57.58	7.53	33.44	58.34	43.61	Fail	43.77	57.58	25.89	43.15
+628	Student_628	90.63	8.56	84.27	85.19	79.03	Good	83.06	90.63	38.66	98.09
+629	Student_629	93.13	24.51	86.87	92.87	76.71	Good	77.09	93.13	100	65.08
+630	Student_630	75.44	5.28	64.71	76.59	66.48	Average	61.36	75.44	14.96	70.82
+631	Student_631	81.54	14.03	86.52	85.08	95.84	Good	97.07	81.54	55.1	90.94
+632	Student_632	85.37	10.73	58.96	60.87	52.64	Average	47.66	85.37	39.06	51.07
+633	Student_633	58.87	3.89	49.6	51.45	31.4	Fail	43.1	58.87	20.31	22.59
+634	Student_634	87.91	11.09	74.7	95.68	76.05	Good	74.38	87.91	50.72	82.2
+635	Student_635	88.38	10.86	96.38	88.93	80.78	Good	84.01	88.38	36.23	80.47
+636	Student_636	62.56	6.12	57.79	40.51	47.64	Fail	47.58	62.56	28.61	55.25
+637	Student_637	73.36	7.41	48.43	50.75	38.02	Fail	31.85	73.36	25.52	39.25
+638	Student_638	95.05	17.03	90.32	85.71	93.29	Good	83.8	95.05	66.86	79.77
+639	Student_639	85.61	5.61	69.99	67.43	71.03	Average	74.78	85.61	22.6	78.71
+640	Student_640	88.63	14.44	97.45	81.28	96.11	Good	100	88.63	66.84	82.02
+641	Student_641	77.1	9.66	57.4	68.18	58.1	Average	54.43	77.1	33.62	45.01
+642	Student_642	50.98	2.9	30.18	59.46	49.22	Fail	40.94	50.98	15.77	42.8
+643	Student_643	59.88	6.1	40.03	51.78	46.03	Fail	44.4	59.88	18.54	39.7
+644	Student_644	98.94	14.8	93.5	81.65	99.76	Good	95.07	98.94	53	100
+645	Student_645	65.64	10.64	65.83	70.83	53	Average	49.75	65.64	42.7	51.8
+646	Student_646	88.46	5.99	64.95	60.12	57.65	Average	60.7	88.46	24.07	66.38
+647	Student_647	90.93	15.09	74.81	79.27	85.45	Good	85.2	90.93	46.2	81.47
+648	Student_648	95.15	23.27	72.52	84.83	77.51	Good	73.36	95.15	98.88	79.73
+649	Student_649	80.33	19.25	88.07	79.08	80.85	Good	83.79	80.33	66.3	84.17
+650	Student_650	80.47	22.19	99.24	78.39	80.79	Good	84.12	80.47	88.03	85.66
+651	Student_651	71.71	7.49	42.17	36.27	30.78	Fail	29.09	71.71	36.6	27.53
+652	Student_652	91.48	14.68	70.86	89.58	75.28	Good	75.97	91.48	69.77	72.64
+653	Student_653	95.75	13.21	71.21	89.71	84.94	Good	87.54	95.75	51.02	82.85
+654	Student_654	89.35	9.99	56.61	71.32	56.76	Average	58.89	89.35	32.8	45.19
+655	Student_655	98.08	14.37	86.5	76.26	85.65	Good	85.85	98.08	63.93	85.06
+656	Student_656	96.65	21.7	76.73	80.65	95.43	Good	100	96.65	91.13	92.74
+657	Student_657	88.26	5.05	60.8	62.76	71.68	Average	74.59	88.26	17.76	75.74
+658	Student_658	81.67	11.59	92.57	76.28	87.31	Good	85.06	81.67	43.28	87.95
+659	Student_659	61.05	3.34	41.44	48.25	33.21	Fail	30.99	61.05	9.77	42.56
+660	Student_660	91.44	21.69	92.8	78.85	78.73	Good	75.94	91.44	85.04	79.22
+661	Student_661	56.7	3.53	41.85	51.99	31.13	Fail	34.29	56.7	15.7	27.19
+662	Student_662	80.69	14.66	90.91	79.84	91.04	Good	87.93	80.69	55.81	91.44
+663	Student_663	85.2	23.06	96.87	82.43	80.75	Good	78.63	85.2	90.04	85.82
+664	Student_664	88.23	12.09	90.17	95.65	91.83	Good	97.12	88.23	51.57	79.42
+665	Student_665	70.61	3.78	34.53	53.45	37.17	Fail	38.13	70.61	7.71	32.16
+666	Student_666	66.78	2.89	32.36	59.81	33.11	Fail	39.1	66.78	9.68	28.25
+667	Student_667	99.77	24.61	93.81	91.49	89.45	Good	93.44	99.77	90.06	92.33
+668	Student_668	71.65	3.03	43.56	50.48	38.18	Fail	32.3	71.65	12.66	41.87
+669	Student_669	75.69	7.63	63.54	74.56	55.02	Average	54.51	75.69	20.82	55.73
+670	Student_670	88.36	11.58	69.76	67.79	69.41	Average	74.36	88.36	50.77	52.06
+671	Student_671	80.32	21.91	71.2	97.25	99.8	Good	93.69	80.32	81.07	88.24
+672	Student_672	72.35	6.31	68.37	60.82	71.55	Average	73.65	72.35	16.38	69.88
+673	Student_673	82.06	10.14	99.37	91.85	96.17	Good	95.97	82.06	38.74	92.66
+674	Student_674	86.49	19.5	87.83	90.08	92.06	Good	83.29	86.49	86.56	92.1
+675	Student_675	64.38	4	38	54.21	34.5	Fail	35.1	64.38	19.56	31.21
+676	Student_676	67.31	2.63	48.13	53.68	34.35	Fail	30.16	67.31	0.91	45.07
+677	Student_677	51.5	1.92	47.57	56.24	30.9	Fail	25.06	51.5	0.96	14.84
+678	Student_678	83.35	7.75	61.48	76.36	58.27	Average	58.32	83.35	29.02	60.39
+679	Student_679	89.31	8.23	72.45	81.46	75.7	Good	66.05	89.31	44.11	81.5
+680	Student_680	65.78	3.98	45.9	39.37	35.89	Fail	32.52	65.78	11.23	40.8
+681	Student_681	81.6	14.62	51.21	75.48	64.36	Average	77.12	81.6	53.83	69.87
+682	Student_682	91.28	16.5	72.08	77.25	90.02	Good	93.27	91.28	73.64	96.54
+683	Student_683	86.82	23.59	82.2	78.58	92.87	Good	88.46	86.82	95.33	88.64
+684	Student_684	57.33	4.68	50.24	57.51	45.76	Fail	52.78	57.33	23.99	38.05
+685	Student_685	93.53	19.55	98.38	82.4	75.03	Good	70.07	93.53	74.56	60.79
+686	Student_686	56.8	2.53	49.19	50.84	41.81	Fail	39.04	56.8	9.61	39.27
+687	Student_687	65.41	12.02	57.76	70.3	63.86	Average	58.12	65.41	54.66	58.42
+688	Student_688	73.57	5.48	52.27	74.12	72.87	Average	74.15	73.57	21.2	81
+689	Student_689	66.24	1.72	41.66	53.22	45.52	Fail	52.36	66.24	12.5	43.51
+690	Student_690	52.96	1	50.65	43.91	35.06	Fail	30.06	52.96	5.94	27.85
+691	Student_691	80.26	17.19	95.53	98.94	89.14	Good	78.84	80.26	63.56	80.82
+692	Student_692	77.86	4.94	63.17	63.74	65.12	Average	70.57	77.86	19.68	79.04
+693	Student_693	74.72	6.64	52.28	62.24	52.41	Average	60.18	74.72	31.47	52.26
+694	Student_694	83.54	24.78	83.32	88.3	96.84	Good	86.86	83.54	100	91.37
+695	Student_695	99.91	17.91	94.37	83.17	82.64	Good	84.94	99.91	71.44	83.51
+696	Student_696	60.07	5.71	49.78	42.88	32.65	Fail	33.78	60.07	13.38	45.93
+697	Student_697	80.81	5.41	63.88	70.95	67.45	Average	63.51	80.81	12.66	64.72
+698	Student_698	68.84	7.11	44.5	53.26	42.32	Fail	35.35	68.84	20.52	47.13
+699	Student_699	69.67	4.28	56.83	65.19	65.37	Average	70.33	69.67	14.57	73.68
+700	Student_700	71.25	2.37	33.64	59.09	32.15	Fail	33.05	71.25	7.59	18.91
+701	Student_701	89.57	17.95	86.24	77.15	76.43	Good	77.7	89.57	64.42	71.96
+702	Student_702	67.64	10.44	63.06	60.38	65.88	Average	62.77	67.64	46.87	73.31
+703	Student_703	96.4	8.71	84.94	92.23	81.31	Good	77.3	96.4	28.52	76.41
+704	Student_704	72.69	10.75	71.55	73.63	64.52	Average	52.25	72.69	36.15	67.42
+705	Student_705	94.6	14.2	89.23	86.65	79.75	Good	78.61	94.6	57.24	74.44
+706	Student_706	82.54	10.12	58.61	75.96	50.52	Average	57.71	82.54	45.35	47.4
+707	Student_707	57.89	1.4	52.23	52.55	36.59	Fail	32.14	57.89	15.87	32.62
+708	Student_708	66.89	3.77	51.93	46.35	38.2	Fail	30.59	66.89	17.99	42.66
+709	Student_709	98.69	12.26	73.61	89.61	99.23	Good	100	98.69	56.94	100
+710	Student_710	87.56	9.05	80.18	87.65	79.05	Good	82.15	87.56	30.14	79.74
+711	Student_711	93.16	24.96	83.55	83.87	85.02	Good	82.09	93.16	100	100
+712	Student_712	67.88	13.72	59.96	63.91	66.43	Average	64.69	67.88	45.57	78.61
+713	Student_713	76.05	11.13	51.47	73.72	73.42	Average	74.74	76.05	42	59.55
+714	Student_714	81.22	14.5	53.63	65.98	64.98	Average	64.2	81.22	60.8	61.88
+715	Student_715	64.54	3.81	39.8	38.17	37.8	Fail	42.8	64.54	7.21	54.79
+716	Student_716	54.07	6.14	36.06	36.46	40.99	Fail	53.18	54.07	19.92	36.97
+717	Student_717	64.88	7.1	46.73	43.64	45.98	Fail	37.43	64.88	22.97	60.59
+718	Student_718	90.81	9.35	86.98	97.7	84.91	Good	91.06	90.81	35.85	81.93
+719	Student_719	72.41	5.58	53.63	64.95	64.83	Average	65.36	72.41	29.43	63.19
+720	Student_720	52.02	7.58	51.9	49.67	46.49	Fail	53.43	52.02	30.4	52.53
+721	Student_721	81.6	16.11	88.9	95.72	94.59	Good	98.21	81.6	62.12	93.96
+722	Student_722	56.93	7.59	33.61	56.88	49.32	Fail	49.63	56.93	15.94	52.78
+723	Student_723	69.43	11.94	50.97	64.32	62.86	Average	66.66	69.43	50.09	73.88
+724	Student_724	64.52	7.55	49.5	47.03	46.11	Fail	44.14	64.52	34.15	51.42
+725	Student_725	73.76	1.15	58.49	37.15	46.21	Fail	42.34	73.76	0	47.2
+726	Student_726	72.01	5.45	60.56	69.81	59.49	Average	63.54	72.01	21.47	71.2
+727	Student_727	51.36	5.2	56.17	44.58	34.31	Fail	30.09	51.36	21.77	40.45
+728	Student_728	61.06	1.34	53.79	55.66	41.7	Fail	44.91	61.06	10.18	36.57
+729	Student_729	58.83	6.6	46.09	55.65	42.57	Fail	42.72	58.83	22.78	56.43
+730	Student_730	84.61	10.58	59.94	77.03	63.47	Average	51.82	84.61	37.94	67.97
+731	Student_731	65.13	2.54	48.14	49.29	33.68	Fail	30.81	65.13	7.88	32.18
+732	Student_732	66.49	10.65	68.33	67.04	55.65	Average	57.32	66.49	49.02	41.5
+733	Student_733	93.33	9.36	83.26	79.08	79.61	Good	77.58	93.33	42.66	69.97
+734	Student_734	84.05	14.57	71.53	84.94	87.79	Good	75.06	84.05	58.17	99.69
+735	Student_735	89.67	14.51	95.17	78.63	87.64	Good	94.24	89.67	63.14	99.82
+736	Student_736	81.24	9.21	87.22	89.15	96.95	Good	97.8	81.24	25	97.55
+737	Student_737	91.16	24.32	71.46	77.45	76.1	Good	78.32	91.16	100	63.71
+738	Student_738	54.63	4.79	48.72	36.14	48.82	Fail	46.45	54.63	13.57	41.21
+739	Student_739	86.05	7.26	51.85	58.91	53.16	Average	55.82	86.05	37.88	41.79
+740	Student_740	68.08	9.7	55.9	63.24	74.64	Average	83.81	68.08	33.48	63.02
+741	Student_741	93.69	24.13	74.28	84.55	88.87	Good	85.19	93.69	92.26	100
+742	Student_742	81.54	8.07	90.11	91.05	85.27	Good	93.61	81.54	35.09	99.69
+743	Student_743	89.79	15.06	70.72	83.38	79.43	Good	81.42	89.79	63.53	71.58
+744	Student_744	81.97	24.26	87.98	93.22	82.88	Good	78.53	81.97	94.81	82.82
+745	Student_745	59.83	2.66	32.81	39.48	45.87	Fail	56.93	59.83	12.5	36.88
+746	Student_746	81.94	10.02	61.4	76.22	51.81	Average	53.77	81.94	42.56	51.7
+747	Student_747	85.61	13.95	93.47	99.81	81.02	Good	84.4	85.61	57.77	92.5
+748	Student_748	97.49	22.12	76.74	84.98	85.24	Good	83.89	97.49	86.46	92.79
+749	Student_749	99.56	11.08	93.97	83.35	93.27	Good	89.29	99.56	46.85	98.93
+750	Student_750	88.4	17.83	94.98	95.1	96.66	Good	97.5	88.4	78.35	95.3
+751	Student_751	66.49	11.61	53.36	64.56	63.66	Average	71.57	66.49	40.31	72.49
+752	Student_752	88.05	16.83	99.9	78.38	91.89	Good	90.34	88.05	63.12	96.42
+753	Student_753	87.92	10.26	74.76	98.73	96.99	Good	96.86	87.92	41.18	99.82
+754	Student_754	87.68	14.91	55	63.18	66.66	Average	73.94	87.68	54.36	65.85
+755	Student_755	89.68	15.11	80.73	89.84	89.39	Good	87.89	89.68	51.42	91.62
+756	Student_756	69.04	9.19	63.28	68.12	55.23	Average	57.78	69.04	42.23	57.25
+757	Student_757	68.56	1.18	40.29	54.51	41.22	Fail	45.61	68.56	0	37.43
+758	Student_758	85.22	19.81	87.02	94.91	93.38	Good	92.4	85.22	77.23	87.96
+759	Student_759	80.25	9.37	53.2	61.01	60.44	Average	61.99	80.25	41.27	53.46
+760	Student_760	79.98	9.65	56.92	55.15	62.36	Average	65.67	79.98	39.93	55.83
+761	Student_761	57.14	6.14	30.69	49.62	48.74	Fail	46.74	57.14	22.62	47.42
+762	Student_762	83.49	16.02	72.74	90.64	88.76	Good	92.84	83.49	58.59	86.29
+763	Student_763	60.18	4.65	56	39.91	30.45	Fail	27.72	60.18	20.32	26.1
+764	Student_764	97.23	17.81	96.72	89.92	95.25	Good	91.87	97.23	66.3	90.39
+765	Student_765	75.74	12.25	71.91	68.16	54.5	Average	46.86	75.74	50.33	56.54
+766	Student_766	85.38	11.38	77.41	82.66	88.88	Good	86.36	85.38	46.22	98.52
+767	Student_767	79.7	8.69	64.77	56.88	52.19	Average	48.11	79.7	35.52	52.11
+768	Student_768	83.44	16.81	76.42	82.08	85.01	Good	83.01	83.44	64.04	84.48
+769	Student_769	96.24	8.24	89.48	91.72	94.97	Good	98.03	96.24	43.14	88.43
+770	Student_770	73.32	1.14	34.46	57.15	39.12	Fail	30.49	73.32	6.35	37.56
+771	Student_771	91.29	19.27	90.37	98.29	99.92	Good	90.05	91.29	75.69	100
+772	Student_772	94.4	12.88	96.39	76.23	80.78	Good	77.03	94.4	52.84	88.04
+773	Student_773	72.43	2.79	36.4	38.45	47.1	Fail	49.41	72.43	7.29	53.88
+774	Student_774	77.5	11.42	55.74	72.43	68.92	Average	70.36	77.5	43.75	75.47
+775	Student_775	72.81	8.52	55.03	77.46	66.08	Average	62.25	72.81	46.04	69.14
+776	Student_776	98.69	13.16	93.46	94.15	92.29	Good	98.14	98.69	48.8	95.1
+777	Student_777	99.31	14.69	73.92	91.79	93.23	Good	89.94	99.31	58.37	94.94
+778	Student_778	79.38	6.27	62.11	62.18	60.64	Average	62.95	79.38	22.8	57.72
+779	Student_779	66.13	6.22	36.73	45.13	35.36	Fail	33.55	66.13	19.68	35.95
+780	Student_780	83.97	21.32	97.28	84.26	93.78	Good	89.44	83.97	87.39	95.29
+781	Student_781	87.42	13.31	54.39	76.99	59.38	Average	56.35	87.42	53.42	63.81
+782	Student_782	73.48	4.69	61.67	57.51	56.19	Average	59.86	73.48	23.32	56.89
+783	Student_783	57.92	6.66	55.39	42.56	47.09	Fail	48.9	57.92	30.69	61.83
+784	Student_784	86.43	12.41	53.52	70.88	73.53	Average	78.37	86.43	54.14	65.06
+785	Student_785	82.06	7.65	62.01	69.85	62.71	Average	64.51	82.06	26.01	67.99
+786	Student_786	53	3.18	53.27	56.54	32.73	Fail	24.67	53	15.92	32.44
+787	Student_787	99.05	13.59	89.87	93.8	95.3	Good	100	99.05	57.69	95.32
+788	Student_788	98.91	13.32	95.76	78.29	92.63	Good	94.51	98.91	48.17	86.94
+789	Student_789	83.55	11.45	56.06	75.08	54.2	Average	56.77	83.55	44.21	61.34
+790	Student_790	66.34	11.89	61.41	74.53	59.55	Average	57.67	66.34	40.28	64.12
+791	Student_791	69.21	13.2	63.17	59.35	67.94	Average	73.51	69.21	56.15	73.78
+792	Student_792	77.78	10.65	61.06	74.06	70.66	Average	65.19	77.78	45.93	71.84
+793	Student_793	94.19	9.79	95.17	91.78	92.43	Good	95.48	94.19	46.31	90.16
+794	Student_794	87.26	22.95	91.76	77.81	85.19	Good	74.79	87.26	90.66	84.72
+795	Student_795	97.73	8.8	98.84	91.98	90.78	Good	94.17	97.73	37.46	93.81
+796	Student_796	71.76	6.74	72.61	61.86	69.31	Average	63.91	71.76	31.9	55.27
+797	Student_797	87.86	10.37	70.32	88.61	99.39	Good	100	87.86	37.71	100
+798	Student_798	87.38	14.07	80.32	88.01	86.02	Good	92.81	87.38	51.75	100
+799	Student_799	87	9.56	62.19	58.18	74.47	Average	78.58	87	34.63	77.83
+800	Student_800	85	9.25	89.89	89.88	85.38	Good	91.5	85	35.25	83.41
+801	Student_801	75.55	12.64	54.7	73.87	66.15	Average	71.75	75.55	46.21	65.02
+802	Student_802	88.38	15.79	77.7	93.8	87.82	Good	85.2	88.38	59.76	92.77
+803	Student_803	73.02	10.56	73.9	65.01	72.93	Average	75.92	73.02	46.64	71.12
+804	Student_804	86.9	8.93	76.13	85.47	80.49	Good	71.87	86.9	35.24	86.57
+805	Student_805	50.01	7.41	54.47	53.56	33.34	Fail	29.91	50.01	31.17	32.12
+806	Student_806	53.01	1.47	51	58.22	38.57	Fail	45.53	53.01	3.13	50.57
+807	Student_807	82.38	16.71	80.46	84.37	90.53	Good	88.6	82.38	63.76	100
+808	Student_808	67.97	1.77	31.03	59.86	34.63	Fail	25.29	67.97	8.51	32.32
+809	Student_809	66.35	6.09	50.93	64.01	69.98	Average	80.05	66.35	24.99	69.41
+810	Student_810	58.53	4.11	49.59	47.72	47.14	Fail	49.95	58.53	20.33	46.98
+811	Student_811	86.65	4.11	68.67	65.6	74.62	Average	78.44	86.65	22.95	74.56
+812	Student_812	62.08	7.91	51.88	41.22	40.71	Fail	35.81	62.08	28.18	34.08
+813	Student_813	89.8	13.43	52.34	71.25	58.6	Average	60.02	89.8	58.03	50.99
+814	Student_814	80.14	14.86	77.04	95.47	83.43	Good	84.72	80.14	54.04	92.18
+815	Student_815	96.55	8.01	79.23	81.03	80.84	Good	76.73	96.55	42.41	88.47
+816	Student_816	81.36	11.18	86.67	82.28	85.43	Good	84.58	81.36	40.79	92.94
+817	Student_817	87.54	22.89	97.16	87.32	83.25	Good	75.75	87.54	95.01	82.76
+818	Student_818	82.14	24.21	71.81	82.44	82.45	Good	80.72	82.14	91.4	95.69
+819	Student_819	58.01	2.15	52.71	38.06	42.63	Fail	47.5	58.01	7.84	42.47
+820	Student_820	68.1	4.78	71.83	59.37	70.45	Average	66.72	68.1	26.85	76.49
+821	Student_821	63.62	1.54	57.71	41.17	47.11	Fail	56.65	63.62	2.07	37.39
+822	Student_822	83.38	22.52	70.4	87.79	94.24	Good	87.06	83.38	100	92.63
+823	Student_823	88.37	14	69.67	75.43	54.96	Average	53.66	88.37	55.97	53.87
+824	Student_824	85.68	12.91	81.31	84.83	88.61	Good	85.33	85.68	56.52	88.15
+825	Student_825	69	11.6	54.02	62.14	62.53	Average	61.63	69	48.41	53.25
+826	Student_826	84.91	12.13	65.49	58.58	63.62	Average	70.48	84.91	50.81	68.55
+827	Student_827	81.75	14.42	82.41	76	81.85	Good	76.93	81.75	50.55	89.05
+828	Student_828	73.89	7.68	40.22	36.08	33.56	Fail	31.3	73.89	28.36	28.35
+829	Student_829	74.81	14.43	53.39	72.56	52.71	Average	55.98	74.81	63.7	44.68
+830	Student_830	99.63	14.49	93.26	83.56	90.69	Good	91.16	99.63	56.24	85.31
+831	Student_831	69.8	5.61	72.51	76.11	72.1	Average	72.98	69.8	23.13	75.57
+832	Student_832	92.51	21.74	72.07	83.37	82.84	Good	78.01	92.51	79.22	78.66
+833	Student_833	92.71	14.05	74.46	89.91	95.36	Good	95	92.71	53.51	94.42
+834	Student_834	59.55	1.93	35.7	40.94	35.97	Fail	41.63	59.55	13.34	28.46
+835	Student_835	66.07	5.21	50.19	44.06	46.4	Fail	38.35	66.07	14.43	60.26
+836	Student_836	84.08	15.97	94.03	79.5	77.75	Good	74.26	84.08	67.47	78.26
+837	Student_837	87.09	7.77	66.41	55.58	67.18	Average	58.1	87.09	31.97	75.23
+838	Student_838	86.32	8.95	88.29	81.02	84.67	Good	87.35	86.32	34.62	88.12
+839	Student_839	67.01	5.62	57.15	57.06	72.68	Average	78.81	67.01	21.08	72.39
+840	Student_840	80.12	16.23	73.7	82.69	98.15	Good	97.23	80.12	62.46	97.49
+841	Student_841	69.04	14.62	54.94	72.06	63.61	Average	58.58	69.04	56.47	58.53
+842	Student_842	97.69	17.42	86.04	79.89	79.16	Good	74.28	97.69	74.33	76.01
+843	Student_843	98.33	13.57	81.16	94	83.47	Good	81.98	98.33	52.12	76.42
+844	Student_844	73.8	6.17	47.33	57.02	30.99	Fail	29.49	73.8	33.72	23.17
+845	Student_845	85.14	15.91	76.81	93.6	97.98	Good	100	85.14	65.14	100
+846	Student_846	88.48	13.82	98.85	86.12	87.23	Good	83.89	88.48	52.4	89.18
+847	Student_847	73.79	14.01	63.65	72.53	70.21	Average	72.39	73.79	60.91	80.47
+848	Student_848	73.55	8.77	70.36	63.35	69.77	Average	68.24	73.55	38.2	64.21
+849	Student_849	88.52	10.86	67.8	73.52	71.04	Average	67.32	88.52	35.17	62.28
+850	Student_850	59.88	1.36	41.65	51.84	38.96	Fail	37.31	59.88	0.27	32.12
+851	Student_851	68.72	3.5	48.41	39.66	44.91	Fail	46.59	68.72	13.42	41.96
+852	Student_852	90.91	11.47	78.76	93.72	87.07	Good	91.64	90.91	37.96	87.33
+853	Student_853	84.32	24.44	91.45	98.93	85.68	Good	84.42	84.32	100	84.62
+854	Student_854	61.88	7.29	45.23	52.68	35.02	Fail	29	61.88	33.27	29.61
+855	Student_855	61.17	1.86	35.97	35.02	30.78	Fail	35.78	61.17	7.37	31.39
+856	Student_856	74.43	2.7	49.24	55.98	40.96	Fail	36.47	74.43	9.09	42.19
+857	Student_857	83.06	20.38	88.01	93.28	94.24	Good	95.54	83.06	78.52	99.16
+858	Student_858	74.39	5.01	39.91	51.21	31.36	Fail	31.24	74.39	10.22	41.65
+859	Student_859	87.43	5.31	57.87	73.76	64.87	Average	64.08	87.43	12.58	62.32
+860	Student_860	87.87	16.05	95.64	83.5	96.74	Good	94.31	87.87	73.71	100
+861	Student_861	67.2	12.54	70.34	59.18	60.72	Average	63.82	67.2	58.03	61.18
+862	Student_862	54.14	5.95	45.53	50.88	33.91	Fail	16	54.14	20.92	23.22
+863	Student_863	70.29	4.46	57.73	67.87	71.36	Average	77.04	70.29	22.38	83.84
+864	Student_864	93.34	15.4	98.59	92.98	98.25	Good	93.69	93.34	64.13	100
+865	Student_865	78.19	6.85	51.27	71.7	53.02	Average	55.06	78.19	30.52	57.35
+866	Student_866	72.57	9.86	63.55	68.81	54.14	Average	55.92	72.57	32.31	54.77
+867	Student_867	74.49	10.79	73.28	71.74	72.97	Average	79.34	74.49	34.12	71.07
+868	Student_868	69.06	5.14	35.57	51.67	42.41	Fail	43.4	69.06	26.47	39.16
+869	Student_869	65.06	4.43	45.33	43.36	40.33	Fail	36.18	65.06	7.82	48.8
+870	Student_870	69.94	12.86	54.46	56.95	60.86	Average	52.84	69.94	50.7	60.74
+871	Student_871	81.46	8.81	56.64	67.84	58.64	Average	56.9	81.46	33.4	70.36
+872	Student_872	73.32	7.46	44.57	43.2	44.67	Fail	34.88	73.32	27.54	44.91
+873	Student_873	80.73	16.07	80.09	98.01	75.3	Good	72.16	80.73	65.85	72.41
+874	Student_874	78.82	12.15	61.64	56.96	74.21	Average	72.75	78.82	45.21	70
+875	Student_875	90.36	18.44	77.1	87.09	85.73	Good	82.28	90.36	75.74	80.52
+876	Student_876	81.5	9.8	95.12	81	79.87	Good	80.08	81.5	39.91	83.47
+877	Student_877	62.62	6.38	31.8	49.42	32.37	Fail	31.19	62.62	36.01	23.31
+878	Student_878	80.73	8.9	95.02	77.95	76.13	Good	74.49	80.73	28.67	70.4
+879	Student_879	60.95	6.91	37.61	45.54	30.79	Fail	18.67	60.95	27.79	40.06
+880	Student_880	61.23	5.04	46.56	43.31	36.28	Fail	29.81	61.23	22.32	29.6
+881	Student_881	52.67	3.57	32.89	54.16	49.23	Fail	52.44	52.67	13	55.27
+882	Student_882	89.25	13.52	64.42	71.12	57.1	Average	61.12	89.25	47.39	42.66
+883	Student_883	80.77	9.01	61.57	72.43	57.02	Average	47.83	80.77	42.33	67.17
+884	Student_884	57.95	7.47	31.63	47.14	48.16	Fail	44.09	57.95	31.56	39.27
+885	Student_885	92.21	17.29	77.49	83.58	96.3	Good	100	92.21	62.83	90.17
+886	Student_886	63.98	4.6	32.89	35.4	49.18	Fail	45.59	63.98	20.59	53.94
+887	Student_887	87.54	18.25	72.39	92.08	98.31	Good	97.75	87.54	81.51	100
+888	Student_888	64.39	1.88	46.87	54.16	38.09	Fail	45.3	64.39	7.34	44.35
+889	Student_889	97.6	19.03	96.98	90.59	78.28	Good	76.47	97.6	76.11	69.33
+890	Student_890	72.74	6.22	71.81	72.49	66.84	Average	64.32	72.74	32.72	64.83
+891	Student_891	86.02	11.13	92.69	86.85	80.64	Good	79.85	86.02	39.67	76.32
+892	Student_892	92.33	8.69	79.79	86.71	78.7	Good	87.97	92.33	43.4	70.93
+893	Student_893	99.69	11.55	73.91	80.09	94.23	Good	96.46	99.69	51.06	98.4
+894	Student_894	60.64	4.96	30.61	35.86	38.87	Fail	38.97	60.64	15.22	45.47
+895	Student_895	96.33	23.05	72.6	88.46	97.83	Good	95.21	96.33	88.86	95.47
+896	Student_896	59.7	6.81	33.88	58.38	44.95	Fail	47.64	59.7	24.62	55.61
+897	Student_897	98.83	19.5	80.9	98.45	81.89	Good	85.19	98.83	68.83	76.39
+898	Student_898	73.3	11.71	68.37	76.38	55.1	Average	49.73	73.3	48.14	65.59
+899	Student_899	84.95	12.12	51.53	63.91	57.04	Average	60.47	84.95	44.09	60.98
+900	Student_900	86.09	24.71	89.28	92.94	99.42	Good	98.66	86.09	100	90.86
+901	Student_901	87.54	21.63	83.04	96.74	79.52	Good	79.64	87.54	80.07	93.39
+902	Student_902	98.95	11.72	79.79	93.9	84.84	Good	80.42	98.95	51.5	81.73
+903	Student_903	65.21	4.11	51.53	40.71	31.16	Fail	29.16	65.21	20.13	39.6
+904	Student_904	57.5	4.32	34.87	43.87	37.96	Fail	32.81	57.5	13.75	38.98
+905	Student_905	51.43	5.08	55.65	38.79	41.9	Fail	36.51	51.43	22.12	44.52
+906	Student_906	81.62	8.61	66.83	64.45	62.57	Average	64.46	81.62	34.85	68.88
+907	Student_907	80.15	19.76	89.84	75.96	84.21	Good	82.43	80.15	86.45	90.13
+908	Student_908	89.48	8.63	62.05	75.93	67.86	Average	61.36	89.48	29.36	65.46
+909	Student_909	91.64	21.56	95.93	86.42	86.88	Good	97.77	91.64	85.48	90.6
+910	Student_910	74.65	14.63	66.73	56.91	71.49	Average	65.87	74.65	55.32	74.69
+911	Student_911	89.61	9.17	86.49	85.43	96.94	Good	100	89.61	36.9	98.43
+912	Student_912	84.08	22.05	86.73	76.37	99.3	Good	91.92	84.08	90.87	97.88
+913	Student_913	62.82	3.04	43.61	56.45	36.07	Fail	38.35	62.82	8.9	37.55
+914	Student_914	69.82	5.42	57.15	72.94	61.74	Average	60.49	69.82	19.86	75.51
+915	Student_915	70.69	5.83	57.99	76.62	58.54	Average	55.39	70.69	28.15	56.47
+916	Student_916	74.7	4.4	35.2	57.28	39.16	Fail	40.14	74.7	24.39	47.61
+917	Student_917	94.19	24.72	71.51	77.42	93.01	Good	93.32	94.19	100	88.67
+918	Student_918	85.64	11.13	71.18	75.55	94.36	Good	90.3	85.64	43.83	88.19
+919	Student_919	68.36	9.14	64.54	64.85	50.67	Average	46.38	68.36	35.39	73.6
+920	Student_920	69.59	1.07	52.09	57.33	38.61	Fail	30.74	69.59	7.02	42.39
+921	Student_921	63.39	4.34	41.29	57.19	47.79	Fail	49.32	63.39	18.5	51.76
+922	Student_922	58.4	5.31	56.88	59.05	40.13	Fail	33.86	58.4	13	44.3
+923	Student_923	89.06	12.74	98.77	78.57	89.5	Good	89.52	89.06	53.82	99.35
+924	Student_924	72.06	7.07	59.72	77.97	51.37	Average	54.33	72.06	23.98	54.22
+925	Student_925	79.46	4.91	53.71	65.11	62.71	Average	63.75	79.46	12.56	68.42
+926	Student_926	71.47	7.48	52.09	61.97	74.07	Average	70.45	71.47	21.58	66.66
+927	Student_927	88.62	7.68	63.7	75.92	50.15	Average	54.69	88.62	29.64	57.04
+928	Student_928	70.27	7.64	32.65	39.04	49.12	Fail	47.08	70.27	25.48	47.46
+929	Student_929	78.44	4.16	56.18	65.35	67.25	Average	60.58	78.44	5.01	71.95
+930	Student_930	94.66	24.92	78.63	88.46	88.33	Good	86.91	94.66	97.89	76.32
+931	Student_931	75.14	5.86	73.46	74.63	62.41	Average	65.34	75.14	20.99	66.82
+932	Student_932	80.08	6.5	63.05	70.98	62.83	Average	59.46	80.08	25.25	47.14
+933	Student_933	99.81	18.39	81.13	94.3	79.26	Good	83.65	99.81	70.42	77.33
+934	Student_934	59.61	3.43	42.52	54.54	39.64	Fail	35.79	59.61	22.87	27.7
+935	Student_935	69.85	5.04	39.92	55.25	34.74	Fail	31.57	69.85	22.75	39.17
+936	Student_936	55.61	4.53	37.56	35.23	42.9	Fail	37.67	55.61	15.62	43.38
+937	Student_937	77.78	8.9	73.21	68.14	71.5	Average	74.92	77.78	35.28	66.1
+938	Student_938	68.49	10.26	70.83	68.41	67.88	Average	67.61	68.49	48.11	77.92
+939	Student_939	59.3	1.65	43.28	44.86	47.25	Fail	42.35	59.3	11.38	40.97
+940	Student_940	56.1	7.77	57.79	41.19	36.93	Fail	34.95	56.1	24.1	15.71
+941	Student_941	97.91	24.43	83.3	83.02	88.15	Good	72.79	97.91	92.85	91.75
+942	Student_942	93.76	12.65	92.09	76.29	76.23	Good	80.12	93.76	46.69	63.86
+943	Student_943	74.66	7.89	57.58	66.29	57.99	Average	57.14	74.66	29.36	51.93
+944	Student_944	83.85	13.26	99.25	85.28	86.12	Good	74.09	83.85	50.06	82.5
+945	Student_945	79.41	14.82	55.8	70.67	67.83	Average	60.55	79.41	59.45	57.86
+946	Student_946	92.15	9.51	90.31	76.6	89.9	Good	87.79	92.15	41.72	86.44
+947	Student_947	83.49	6.32	70.2	55.7	71.01	Average	64.44	83.49	29.79	61.17
+948	Student_948	89.21	11.7	74.01	98.83	76.82	Good	80.79	89.21	45.17	77.96
+949	Student_949	54.98	3.43	47.99	48.62	32.5	Fail	34.59	54.98	5.55	23.9
+950	Student_950	72.24	6.63	55.13	64.46	67.53	Average	69.33	72.24	21.32	67.74
+951	Student_951	84.35	14.23	81.73	99.41	98.87	Good	85.85	84.35	54.32	100
+952	Student_952	85	6.66	51.63	62.29	56.64	Average	54.01	85	20.41	62.12
+953	Student_953	90.12	21.22	95.75	96.12	83.99	Good	80.5	90.12	90.58	83.42
+954	Student_954	67.18	3.19	31.77	52.54	30.2	Fail	25.43	67.18	6.86	23.28
+955	Student_955	88.18	13.6	90.8	94.16	82.6	Good	80.52	88.18	57.49	83.71
+956	Student_956	96.23	13	83.39	93.18	92.32	Good	86.69	96.23	43.59	87.45
+957	Student_957	89.68	6.48	65.9	69.02	72.79	Average	73.87	89.68	29.21	74.2
+958	Student_958	83.13	20.78	87.05	81.87	86.86	Good	90.69	83.13	82.42	74.85
+959	Student_959	73.34	10.37	71.34	68.09	65.73	Average	69.13	73.34	49.04	71.38
+960	Student_960	62.97	1.36	36.75	47.3	36.17	Fail	35.48	62.97	0	36.4
+961	Student_961	69.54	9.55	57.75	60.94	61.55	Average	71.55	69.54	35.38	77.01
+962	Student_962	68.33	14.21	70.82	71.28	52.64	Average	58.34	68.33	54.99	61.78
+963	Student_963	95.52	21.74	93.03	77.85	91.1	Good	90.59	95.52	86.2	95.06
+964	Student_964	96.69	17.82	89.39	86.46	88.22	Good	85.81	96.69	69.55	87.35
+965	Student_965	50.86	5.47	32.36	45.88	35.82	Fail	42.51	50.86	20.25	30.71
+966	Student_966	63.64	1.93	50.06	54.88	33.25	Fail	38.29	63.64	6	39.85
+967	Student_967	52.61	2.02	55.44	48.2	39.3	Fail	32.25	52.61	0	37.69
+968	Student_968	67.67	11.15	70.83	74.05	65.59	Average	71.02	67.67	49.57	73.77
+969	Student_969	51.88	1.79	31.43	41.44	32.7	Fail	31.93	51.88	21.47	35.51
+970	Student_970	56.5	3.7	57.35	50.26	46.62	Fail	42.32	56.5	16.29	49.48
+971	Student_971	94.21	9.91	92.08	81.88	90.98	Good	81.08	94.21	33.96	95.14
+972	Student_972	58.52	7.98	37.64	41.98	48.52	Fail	47.18	58.52	26.75	42.08
+973	Student_973	65.62	11.66	67.41	74.24	74.26	Average	74.2	65.62	49.71	67.11
+974	Student_974	99.51	9.11	94.66	91.16	91.18	Good	99.12	99.51	38.37	83.78
+975	Student_975	68.21	11.15	73.58	75.97	60.93	Average	65.72	68.21	43.18	68.26
+976	Student_976	66	7.99	69.83	71.13	61.44	Average	58.53	66	35.73	54.82
+977	Student_977	66.38	8.7	61.26	76.36	65.96	Average	67.91	66.38	24.48	60.21
+978	Student_978	86.23	16.93	71.98	99.31	84	Good	88.13	86.23	71.49	87.76
+979	Student_979	61.95	3.49	49.79	51.56	44.23	Fail	44.66	61.95	15.15	42.47
+980	Student_980	71.7	7.47	53.01	70.08	50.99	Average	48.05	71.7	24.9	48.33
+981	Student_981	64.94	7.09	55.83	46.23	39.14	Fail	36.48	64.94	21.19	35.87
+982	Student_982	66.92	11.38	69.71	60.63	60.49	Average	62.42	66.92	46.13	44.21
+983	Student_983	96.78	22.91	77.3	88.76	79.81	Good	81.87	96.78	98.68	73.04
+984	Student_984	52.55	7.38	53.79	54	30.97	Fail	29.51	52.55	28.38	39.24
+985	Student_985	86.09	8.82	58.22	67.57	52.27	Average	39.17	86.09	31.02	48.49
+986	Student_986	68.92	5.08	35.41	39.71	33.67	Fail	27.22	68.92	21.28	20.37
+987	Student_987	66.43	10.47	70.17	55.4	51.22	Average	54.32	66.43	50.98	44.16
+988	Student_988	64.32	6.74	39.48	43.74	41.87	Fail	31.22	64.32	29.12	44.39
+989	Student_989	56.86	1.19	51.32	50.64	41.56	Fail	47.48	56.86	7.46	43.94
+990	Student_990	83.54	11.43	54.94	63.11	53.14	Average	58.32	83.54	51.83	51.08
+991	Student_991	53.25	5.73	54.9	59.07	42.5	Fail	42.71	53.25	25.28	37.68
+992	Student_992	69.6	5.16	69.51	68.31	65.4	Average	68.39	69.6	16.74	55.58
+993	Student_993	69.54	5.92	54.2	36.41	44.88	Fail	47.52	69.54	14.96	47.46
+994	Student_994	97.02	12.86	89.21	82.85	98.95	Good	98.37	97.02	46.83	100
+995	Student_995	50.84	5.06	34.83	52.81	33.5	Fail	26.63	50.84	14.72	42.52
+996	Student_996	55.88	4.46	56.53	40.29	32.87	Fail	37.71	55.88	21.14	25.1
+997	Student_997	68.97	4.5	56.44	38.67	42.85	Fail	49.89	68.97	21.99	52.41
+998	Student_998	84.66	10.66	90.5	89.84	93.87	Good	87.83	84.66	43.52	93.47
+999	Student_999	72.74	8.93	59.73	77.63	57.28	Average	50.22	72.74	29.38	57.47
+1000	Student_1000	57.37	3.48	46.37	41.31	48.21	Fail	47.53	57.37	22.85	54.47
