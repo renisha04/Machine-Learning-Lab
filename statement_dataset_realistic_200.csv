@@ -1,0 +1,201 @@
+ID	Text	Label
+1	The product has good build quality	Positive
+2	The quality was better than I expected	Positive
+3	The instructions were clear and helpful	Positive
+4	The support team gave an unhelpful response	Negative
+5	The product design is confusing and inconvenient	Negative
+6	I received good value for the price	Positive
+7	The overall experience was satisfactory	Positive
+8	The application is convenient for daily tasks	Positive
+9	The movie had a good story and strong acting	Positive
+10	The interface is difficult to understand	Negative
+11	The delivery was delayed and the package was damaged	Negative
+12	The service was reliable when I needed it	Positive
+13	The movie was boring and too long	Negative
+14	The movie had a weak story and poor acting	Negative
+15	The purchase was better than my previous one	Positive
+16	I liked the way the company handled my complaint	Positive
+17	I am unhappy with the overall experience	Negative
+18	The instructions were unclear and confusing	Negative
+19	The delivery was late and the package was damaged	Negative
+20	The delivery was delayed and the package was damaged	Negative
+21	I found the service useful and convenient	Positive
+22	The product feels reliable and well made	Positive
+23	I found the service inconvenient	Negative
+24	The book was difficult to follow and uninteresting	Negative
+25	The staff were friendly and professional	Positive
+26	I found the service inconvenient	Negative
+27	The service was unreliable when I needed it	Negative
+28	The book kept me interested until the end	Positive
+29	The purchase was better than my previous one	Positive
+30	The performance was slow during normal use	Negative
+31	The book was interesting and easy to read	Positive
+32	The product feels reliable and well made	Positive
+33	I had trouble using this application	Negative
+34	The website is cluttered and hard to navigate	Negative
+35	The product has poor build quality	Negative
+36	The website is cluttered and hard to navigate	Negative
+37	The service met most of my expectations	Positive
+38	I am unhappy with the overall experience	Negative
+39	I am glad I decided to try this product	Positive
+40	The book provided useful information	Positive
+41	The product arrived in good condition	Positive
+42	Customer support was helpful and solved my issue	Positive
+43	The support team gave an unhelpful response	Negative
+44	The book provided useful information	Positive
+45	The delivery was slightly delayed but everything arrived safely	Positive
+46	The instructions were clear and helpful	Positive
+47	The device is easy to set up	Positive
+48	I would recommend this service to my friends	Positive
+49	I had trouble using this application	Negative
+50	The new features made the application harder to use	Negative
+51	The product feels reliable and well made	Positive
+52	The staff made the experience comfortable	Positive
+53	The overall experience was unsatisfactory	Negative
+54	The product is good enough for regular use	Positive
+55	The product arrived in poor condition	Negative
+56	The service was slow and disappointing	Negative
+57	The experience was mostly smooth	Positive
+58	The service is convenient for busy users	Positive
+59	The application generally works without problems	Positive
+60	The response from the team was very slow	Negative
+61	The quality was better than I expected	Positive
+62	The book was interesting and easy to read	Positive
+63	I found the service inconvenient	Negative
+64	The purchase was worse than my previous one	Negative
+65	The application frequently has problems	Negative
+66	The service failed to meet my expectations	Negative
+67	The service met most of my expectations	Positive
+68	The application frequently has problems	Negative
+69	The delivery was slightly delayed but everything arrived safely	Positive
+70	The book kept me interested until the end	Positive
+71	The staff were friendly and professional	Positive
+72	I found the service inconvenient	Negative
+73	The experience was pleasant overall	Positive
+74	The movie had some excellent scenes	Positive
+75	I did not get good value for the price	Negative
+76	The interface is difficult to understand	Negative
+77	The product has good build quality	Positive
+78	The product has poor build quality	Negative
+79	The product lacks useful features	Negative
+80	The book was interesting and easy to read	Positive
+81	The product has poor build quality	Negative
+82	The interface is difficult to understand	Negative
+83	The staff made the experience comfortable	Positive
+84	The service was slow and disappointing	Negative
+85	The product feels unreliable and poorly made	Negative
+86	The product is good enough for regular use	Positive
+87	The support team gave an unhelpful response	Negative
+88	The product is not suitable for regular use	Negative
+89	The product is not suitable for regular use	Negative
+90	The support team gave an unhelpful response	Negative
+91	I am disappointed with how the product performs	Negative
+92	The service is convenient for busy users	Positive
+93	The staff were rude and unhelpful	Negative
+94	The service was good and reasonably fast	Positive
+95	I regret deciding to try this product	Negative
+96	The experience was frustrating overall	Negative
+97	The experience was frustrating overall	Negative
+98	The movie was entertaining and worth watching	Positive
+99	The delivery was delayed and the package was damaged	Negative
+100	The book was interesting and easy to read	Positive
+101	The product stopped working after a few days	Negative
+102	I would not recommend this service to my friends	Negative
+103	The product works well and I am happy with the purchase	Positive
+104	Customer support was helpful and solved my issue	Positive
+105	The purchase was worse than my previous one	Negative
+106	The quality was worse than I expected	Negative
+107	The overall experience was unsatisfactory	Negative
+108	I am glad I decided to try this product	Positive
+109	The experience was mostly frustrating	Negative
+110	The delivery was late and the package was damaged	Negative
+111	The instructions were clear and helpful	Positive
+112	The quality was better than I expected	Positive
+113	The product lacks useful features	Negative
+114	The book did not provide useful information	Negative
+115	The experience was pleasant overall	Positive
+116	The product is not suitable for regular use	Negative
+117	The staff were rude and unhelpful	Negative
+118	The delivery arrived on time and the package was safe	Positive
+119	The purchase was better than my previous one	Positive
+120	The product design is confusing and inconvenient	Negative
+121	The staff were friendly and professional	Positive
+122	The website is cluttered and hard to navigate	Negative
+123	The instructions were clear and helpful	Positive
+124	The overall experience was satisfactory	Positive
+125	The movie had a weak story and poor acting	Negative
+126	The website is clean and simple to navigate	Positive
+127	The overall experience was satisfactory	Positive
+128	The product feels unreliable and poorly made	Negative
+129	The application generally works without problems	Positive
+130	The experience was mostly frustrating	Negative
+131	The instructions were unclear and confusing	Negative
+132	The interface is easy to understand	Positive
+133	The website is clean and simple to navigate	Positive
+134	The staff made the experience uncomfortable	Negative
+135	The book did not provide useful information	Negative
+136	I received good value for the price	Positive
+137	The product arrived in poor condition	Negative
+138	The product has several useful features	Positive
+139	The product has poor build quality	Negative
+140	The movie had a weak story and poor acting	Negative
+141	The movie had some excellent scenes	Positive
+142	The quality was better than I expected	Positive
+143	The application is difficult to use for daily tasks	Negative
+144	I am unhappy with the overall experience	Negative
+145	The device is easy to set up	Positive
+146	The service is convenient for busy users	Positive
+147	The book did not provide useful information	Negative
+148	The device was difficult to set up	Negative
+149	The product arrived in good condition	Positive
+150	The quality was better than I expected	Positive
+151	I am satisfied with the overall experience	Positive
+152	I found the service useful and convenient	Positive
+153	The experience was mostly frustrating	Negative
+154	I am satisfied with the overall experience	Positive
+155	The device was difficult to set up	Negative
+156	The product design is confusing and inconvenient	Negative
+157	The application is convenient for daily tasks	Positive
+158	The experience was pleasant overall	Positive
+159	The movie was entertaining and worth watching	Positive
+160	The purchase was better than my previous one	Positive
+161	The delivery was slightly delayed but everything arrived safely	Positive
+162	I had a mostly positive experience	Positive
+163	The staff handled my request badly	Negative
+164	The service is inconvenient for busy users	Negative
+165	The instructions were unclear and confusing	Negative
+166	The staff were friendly and professional	Positive
+167	The product feels unreliable and poorly made	Negative
+168	The product feels reliable and well made	Positive
+169	The book kept me interested until the end	Positive
+170	The product arrived in poor condition	Negative
+171	The movie was entertaining and worth watching	Positive
+172	The new features made the application harder to use	Negative
+173	The overall experience was unsatisfactory	Negative
+174	The staff were rude and unhelpful	Negative
+175	I would recommend this service to my friends	Positive
+176	The product design is simple and useful	Positive
+177	The staff handled my request badly	Negative
+178	The new features made the application harder to use	Negative
+179	The application frequently has problems	Negative
+180	The product stopped working after a few days	Negative
+181	The quality is acceptable for the price	Positive
+182	The service is inconvenient for busy users	Negative
+183	Customer support was helpful and solved my issue	Positive
+184	The movie was disappointing despite a good beginning	Negative
+185	The support team gave a useful solution	Positive
+186	The instructions were clear and helpful	Positive
+187	The movie was disappointing despite a good beginning	Negative
+188	The delivery was delayed and the package was damaged	Negative
+189	The product has several useful features	Positive
+190	The interface is easy to understand	Positive
+191	The website is clean and simple to navigate	Positive
+192	The service was good and reasonably fast	Positive
+193	The staff made the experience comfortable	Positive
+194	The product feels reliable and well made	Positive
+195	The staff handled my request badly	Negative
+196	The device is easy to set up	Positive
+197	The application frequently has problems	Negative
+198	The delivery was slightly delayed but everything arrived safely	Positive
+199	The movie had a weak story and poor acting	Negative
+200	The purchase was worse than my previous one	Negative
