@@ -1,22 +1,32 @@
-%%writefile app.py
+import pandas as pd
+from sklearn.datasets import load_breast_cancer
 
-from flask import Flask, request, jsonify
-import numpy as np
+# Create a CSV compatible with the user's trainmodel.py:
+# expected columns include id, diagnosis, and Unnamed: 32, plus 30 numeric features.
+data = load_breast_cancer(as_frame=True)
 
-app = Flask(__name__)
+X = data.data.copy()
+X.columns = [
+    "radius_mean", "texture_mean", "perimeter_mean", "area_mean", "smoothness_mean",
+    "compactness_mean", "concavity_mean", "concave points_mean", "symmetry_mean",
+    "fractal_dimension_mean", "radius_se", "texture_se", "perimeter_se", "area_se",
+    "smoothness_se", "compactness_se", "concavity_se", "concave points_se",
+    "symmetry_se", "fractal_dimension_se", "radius_worst", "texture_worst",
+    "perimeter_worst", "area_worst", "smoothness_worst", "compactness_worst",
+    "concavity_worst", "concave points_worst", "symmetry_worst",
+    "fractal_dimension_worst"
+]
 
-class DummyModel:
-    def predict(self, X):
-        return ["Class A"]
+# sklearn target: 0=malignant, 1=benign
+df = X.copy()
+df.insert(0, "diagnosis", data.target.map({0: "M", 1: "B"}))
+df.insert(0, "id", range(8670, 8670 + len(df)))
+df["Unnamed: 32"] = ""
 
-model = DummyModel()
+path = "/mnt/data/dataset.csv"
+df.to_csv(path, index=False)
 
-@app.route('/predict', methods=['POST'])
-def predict():
-    data = request.get_json()
-    features = np.array(data['features']).reshape(1, -1)
-    prediction = model.predict(features)
-    return jsonify({'prediction': prediction[0]})
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+print(f"Created: {path}")
+print(f"Rows: {len(df)}")
+print(f"Columns: {len(df.columns)}")
+print("First columns:", df.columns[:5].tolist())
