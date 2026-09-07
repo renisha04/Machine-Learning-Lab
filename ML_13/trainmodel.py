@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 
-data = pd.read_csv("data.csv")
+data = pd.read_csv("dataset.csv")
 
 X = data.drop(["id", "diagnosis", "Unnamed: 32"], axis=1)
 y = data["diagnosis"]
